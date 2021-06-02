@@ -12,6 +12,7 @@ This addon fits seamlessly into the existing AdiBags framework, and can be
 configured, re-ordered, and disabled like any other AdiBags filter.
 
 
+
 # Baroque edit of AdiBags-BetterCategories for AdiBags Classic/BCC:
 
 I've modded the excellent AdiBags-BetterCategories addon to feature TBC items, to be used for BCC.
@@ -56,7 +57,7 @@ Zone and/or faction specific reputation, gear & consumable quest tokens have bee
 - Sha'tari Skyguard
 
 
-### Screenshot Examples:
+### Screenshot Examples
 
 **Rogue at level 70:**
 
