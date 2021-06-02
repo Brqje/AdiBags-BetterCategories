@@ -1,4 +1,4 @@
-# AdiBags-BetterCategories for AdiBags Classic
+# Baroque edit of AdiBags-BetterCategories for AdiBags Classic 1.13 & BCC 2.5:
 
 The wonderful AdiBags addon contains a filter for automatically classifying
 items by the categories and subcategories given my the game itself.
@@ -11,11 +11,7 @@ further manual classifications, to make your inventory management easier.
 This addon fits seamlessly into the existing AdiBags framework, and can be
 configured, re-ordered, and disabled like any other AdiBags filter.
 
-
-
-# Baroque edit of AdiBags-BetterCategories for AdiBags Classic 1.13 & BCC 2.5:
-
-I've modded the excellent AdiBags-BetterCategories addon to feature TBC items, to be used for BCC.
+I've modded the excellent AdiBags-BetterCategories addon (original by stephenswat) to feature TBC items as well, to be used for BCC.
 It uses sensible categorization/auto sorting for both leveling and end-game Classic 1.13.x & Burning Crusade Classic 2.5.x content.
 It's modified for all the requirements of a serious end-game raider, presenting inventory contents in a streamlined way.
 
