@@ -26,20 +26,23 @@ It includes specific sorting for over 2200 items:
 The general idea is that consumables which share buff slots or cooldowns are grouped into sub-categories. For instance:
 
 - Buff food/drinks
-- Battle Elixirs
-- Guardian Elixers
+- Flasks
+- Battle Elixirs (TBC introduced sub-classification)
+- Guardian Elixers (TBC introduced sub-classification)
+- Scrolls
 - Potions
 - Runes
 - Drums
 - Explosives
 - Weapon Buffs
-- etc.
- 
+- ...
+
+This has been fine tuned a bit more over the original AdiBags-BetterCategories release.
 Regular regenerative food & drinks are also split from (expensive) buff food.
 
-Trade goods are split in sub-catergories as well, related to the appropriate professions.
+Trade goods are split in sub-catergories as well, related to the appropriate professions, as also seen in the original release.
 
-Zone and/or faction specific tokens are also grouped into sub-categories, BCC examples:
+Zone and/or faction specific reputation, gear & consumable quest tokens have been added, also grouped into sub-categories, TBC examples:
 
 - Aldor
 - Scryer
