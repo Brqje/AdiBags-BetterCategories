@@ -12,7 +12,7 @@ This addon fits seamlessly into the existing AdiBags framework, and can be
 configured, re-ordered, and disabled like any other AdiBags filter.
 
 
-# Baroque edit of AdiBags-BetterCategories for Classic/BCC:
+# Baroque edit of AdiBags-BetterCategories for AdiBags Classic/BCC:
 
 I've modded the excellent AdiBags-BetterCategories addon to feature TBC items, to be used for BCC.
 It uses sensible categorization/auto sorting for both leveling and end-game Classic & Burning Crusade Classic content.
