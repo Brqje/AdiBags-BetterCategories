@@ -16,7 +16,7 @@ I (Baroque) have modified the excellent AdiBags-BetterCategories addon (original
 It uses even more fine-tuned categorization/auto sorting for both leveling and end-game Classic 1.13.x & Burning Crusade Classic 2.5.x content.
 It's modified for all the requirements of a serious end-game raider, presenting inventory contents in a streamlined way.
 
-It includes specific categorization for over 2200 items:
+Many hours were spent to include specific categorization for over 2200 items:
 
 - Over 1600 items released in Vanilla
 - Over 600 items released in TBC
