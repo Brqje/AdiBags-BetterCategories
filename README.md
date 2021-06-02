@@ -1,9 +1,9 @@
 # AdiBags-BetterCategories, Baroque edit for Classic 1.13 & BCC 2.5:
 
 The wonderful AdiBags addon contains a filter for automatically classifying
-items by the categories and subcategories given my the game itself.
+items by the categories and subcategories given by the game itself.
 Unfortunately, the way the game categorizes items is often unhelpful. You
-may have been annoyed in the past at the addon throwing all your ores, herbs,
+may have been annoyed in the past at AdiBags, throwing all your ores, herbs,
 and cloth onto one "Trade Goods" pile. This extra filter (written by stephenswat)
 for AdiBags aims to solve this problem by using WowHead-inspired classifications,
 as well as some further manual classifications, to make your inventory management
@@ -74,4 +74,3 @@ Zone and/or faction specific reputation, gear & consumable quest tokens have bee
 **Shaman at level 63:**
 
 ![img](https://i.imgur.com/MO7yvh5.jpg)
-
