@@ -1423,13 +1423,13 @@ data.items = {
 	[20801] = {class =  12, subclass =  14}, -- Cenarion Tactical Badge
 	[20802] = {class =  12, subclass =  14}, -- Cenarion Combat Badge
 	[21508] = {class =  12, subclass =  14}, -- Mark of Cenarius
-	[20541] = {class =  12, subclass =  14}, -- Decoded Twilight Text
-	[20545] = {class =  12, subclass =  14}, -- Decoded Twilight Text
-	[20552] = {class =  12, subclass =  14}, -- Decoded Twilight Text
-	[20676] = {class =  12, subclass =  14}, -- Decoded Twilight Text
-	[20677] = {class =  12, subclass =  14}, -- Decoded Twilight Text
-	[20678] = {class =  12, subclass =  14}, -- Decoded Twilight Text
-	[20679] = {class =  12, subclass =  14}, -- Decoded Twilight Text
+	[20541] = {class =  12, subclass =  14}, -- Decoded Twilight Text	(junk?)
+	[20545] = {class =  12, subclass =  14}, -- Decoded Twilight Text	(junk?)
+	[20552] = {class =  12, subclass =  14}, -- Decoded Twilight Text	(junk?)
+	[20676] = {class =  12, subclass =  14}, -- Decoded Twilight Text	(junk?)
+	[20677] = {class =  12, subclass =  14}, -- Decoded Twilight Text	(junk?)
+	[20678] = {class =  12, subclass =  14}, -- Decoded Twilight Text	(junk?)
+	[20679] = {class =  12, subclass =  14}, -- Decoded Twilight Text	(junk?)
 	[20513] = {class =  12, subclass =  14}, -- Abyssal Crest
 
 -- Tokens: Felwood
@@ -1600,7 +1600,7 @@ data.items = {
 
 -- Miscellaneous
 	[ 6948] = {class =  15, subclass =   0}, -- Hearthstone
-	[21212] = {class =   0, subclass =   0}, -- Fresh Holly (mount, but technically a consumable)
+	[21212] = {class =  15, subclass =   0}, -- Fresh Holly (mount, but technically a consumable)
 	[21213] = {class =  15, subclass =   0}, -- Preserved Holly (mount, but technically a consumable)
 
 -- Miscellaneous: Profession trade tools
