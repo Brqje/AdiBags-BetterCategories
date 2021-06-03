@@ -1,4 +1,5 @@
-# AdiBags-BetterCategories, Baroque edit for Classic 1.13 & BCC 2.5:
+# AdiBags-BetterCategories
+# Baroque edit for Classic 1.13 & BCC 2.5:
 
 The wonderful AdiBags addon contains a filter for automatically classifying
 items by the categories and subcategories given by the game itself.
