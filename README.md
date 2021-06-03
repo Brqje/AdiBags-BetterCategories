@@ -15,9 +15,9 @@ configured, re-ordered, and disabled like any other AdiBags filter.
 
 I (Baroque) have modified the excellent AdiBags-BetterCategories addon (original by
 stephenswat) to feature TBC items as well, to be used for BCC. It uses even more
-fine-tuned categorization/auto sorting for Classic 1.13.x & Burning Crusade Classic
-2.5.x content. It's modified for all the requirements of both leveling and serious
-end-game raiding, presenting inventory contents in a streamlined way.
+fine-tuned categorization/auto sorting for both Classic 1.13.x & Burning Crusade
+Classic 2.5.x content. It's modified for all the requirements of both leveling and
+serious end-game raiding, presenting inventory contents in a streamlined way.
 
 I've spent many hours to include specific categorization for over 2200 items:
 
@@ -34,7 +34,7 @@ The general idea is that consumables which share buff slots or cooldowns are gro
 - Potions
 - Runes
 - Explosives
-- Drums
+- Drums (TBC introduced)
 - Weapon Buffs
 - ...
 
