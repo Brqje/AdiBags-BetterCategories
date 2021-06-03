@@ -3,9 +3,11 @@ local _, data = ...
 data.items = {
 
 
----------------------------------------------------------
--- Everything in this file are items released in Vanilla
----------------------------------------------------------
+----------------------------------------------------------------------------------------
+-- Everything in this file are items released in Vanilla only
+
+-- Classification according Vanilla rules
+----------------------------------------------------------------------------------------
 
 
 -- Consumables: w/o subcategory
@@ -197,7 +199,7 @@ data.items = {
 	[ 3251] = {class =   0, subclass =   1}, -- Bethor's Potion
 	[  737] = {class =   0, subclass =   1}, -- Holy Spring Water
 
--- Consumables: Elixirs (Non TBC Battle/Guardian classified)
+-- Consumables: Elixirs
 	[10592] = {class =   0, subclass =   2}, -- Catseye Elixir
 	[ 9233] = {class =   0, subclass =   2}, -- Elixir of Detect Demon
 	[ 3828] = {class =   0, subclass =   2}, -- Elixir of Detect Lesser Invisibility
@@ -209,55 +211,53 @@ data.items = {
 	[ 8529] = {class =   0, subclass =   2}, -- Noggenfogger Elixir			(BoP)
 	[22192] = {class =   0, subclass =   2}, -- Bloodkelp Elixir of Dodging
 	[22193] = {class =   0, subclass =   2}, -- Bloodkelp Elixir of Resistance
-
--- Consumables: Battle Elixirs (TBC classification)
-	[ 9155] = {class =   0, subclass =  21}, -- Arcane Elixir
-	[ 8949] = {class =   0, subclass =  21}, -- Elixir of Agility
-	[13453] = {class =   0, subclass =  21}, -- Elixir of Brute Force
-	[ 9224] = {class =   0, subclass =  21}, -- Elixir of Demonslaying
-	[ 6373] = {class =   0, subclass =  21}, -- Elixir of Firepower
-	[17708] = {class =   0, subclass =  21}, -- Elixir of Frost Power
-	[ 6662] = {class =   0, subclass =  21}, -- Elixir of Giant Growth
-	[ 9206] = {class =   0, subclass =  21}, -- Elixir of Giants
-	[ 9187] = {class =   0, subclass =  21}, -- Elixir of Greater Agility
-	[21546] = {class =   0, subclass =  21}, -- Elixir of Greater Firepower
-	[ 3390] = {class =   0, subclass =  21}, -- Elixir of Lesser Agility
-	[ 2454] = {class =   0, subclass =  21}, -- Elixir of Lion's Strength
-	[ 2457] = {class =   0, subclass =  21}, -- Elixir of Minor Agility
-	[ 3391] = {class =   0, subclass =  21}, -- Elixir of Ogre's Strength
-	[ 9264] = {class =   0, subclass =  21}, -- Elixir of Shadow Power
-	[13452] = {class =   0, subclass =  21}, -- Elixir of the Mongoose
-	[13454] = {class =   0, subclass =  21}, -- Greater Arcane Elixir
-	[ 8412] = {class =   0, subclass =  21}, -- Ground Scorpok Assay		(Blasted Lands)
-	[ 8410] = {class =   0, subclass =  21}, -- R.O.I.D.S.					(Blasted Lands)
-	[12820] = {class =   0, subclass =  21}, -- Winterfall Firewater
-
--- Consumables: Guardian Elixirs (TBC classification)
-	[ 8423] = {class =   0, subclass =  22}, -- Cerebral Cortex Compound	(Blasted Lands)
-	[ 3389] = {class =   0, subclass =  22}, -- Elixir of Defense
-	[ 3825] = {class =   0, subclass =  22}, -- Elixir of Fortitude
-	[ 8951] = {class =   0, subclass =  22}, -- Elixir of Greater Defense
-	[ 9179] = {class =   0, subclass =  22}, -- Elixir of Greater Intellect
-	[ 5997] = {class =   0, subclass =  22}, -- Elixir of Minor Defense
-	[ 2458] = {class =   0, subclass =  22}, -- Elixir of Minor Fortitude
-	[13445] = {class =   0, subclass =  22}, -- Elixir of Superior Defense
-	[13447] = {class =   0, subclass =  22}, -- Elixir of the Sages
-	[ 8827] = {class =   0, subclass =  22}, -- Elixir of Water Walking
-	[ 3383] = {class =   0, subclass =  22}, -- Elixir of Wisdom
-	[ 9088] = {class =   0, subclass =  22}, -- Gift of Arthas
-	[ 8424] = {class =   0, subclass =  22}, -- Gizzard Gum					(Blasted Lands)
-	[ 8411] = {class =   0, subclass =  22}, -- Lung Juice Cocktail			(Blasted Lands)
-	[20007] = {class =   0, subclass =  22}, -- Mageblood Potion
-	[20004] = {class =   0, subclass =  22}, -- Major Troll's Blood Potion
-	[ 3826] = {class =   0, subclass =  22}, -- Mighty Troll's Blood Potion
-	[20080] = {class =   0, subclass =  22}, -- Sheen of Zanza				(Zanza)
-	[20079] = {class =   0, subclass =  22}, -- Spirit of Zanza				(Zanza)
-	[ 3388] = {class =   0, subclass =  22}, -- Strong Troll's Blood Potion
-	[20081] = {class =   0, subclass =  22}, -- Swiftness of Zanza			(Zanza)
-	[ 3382] = {class =   0, subclass =  22}, -- Weak Troll's Blood Potion
-
--- Consumables: Quest rewards which act as Guardian Elixirs (TBC classification)
+	[ 9155] = {class =   0, subclass =   2}, -- Arcane Elixir
+	[ 8949] = {class =   0, subclass =   2}, -- Elixir of Agility
+	[13453] = {class =   0, subclass =   2}, -- Elixir of Brute Force
+	[ 9224] = {class =   0, subclass =   2}, -- Elixir of Demonslaying
+	[ 6373] = {class =   0, subclass =   2}, -- Elixir of Firepower
+	[17708] = {class =   0, subclass =   2}, -- Elixir of Frost Power
+	[ 6662] = {class =   0, subclass =   2}, -- Elixir of Giant Growth
+	[ 9206] = {class =   0, subclass =   2}, -- Elixir of Giants
+	[ 9187] = {class =   0, subclass =   2}, -- Elixir of Greater Agility
+	[21546] = {class =   0, subclass =   2}, -- Elixir of Greater Firepower
+	[ 3390] = {class =   0, subclass =   2}, -- Elixir of Lesser Agility
+	[ 2454] = {class =   0, subclass =   2}, -- Elixir of Lion's Strength
+	[ 2457] = {class =   0, subclass =   2}, -- Elixir of Minor Agility
+	[ 3391] = {class =   0, subclass =   2}, -- Elixir of Ogre's Strength
+	[ 9264] = {class =   0, subclass =   2}, -- Elixir of Shadow Power
+	[13452] = {class =   0, subclass =   2}, -- Elixir of the Mongoose
+	[13454] = {class =   0, subclass =   2}, -- Greater Arcane Elixir
+	[12820] = {class =   0, subclass =   2}, -- Winterfall Firewater
+	[ 3389] = {class =   0, subclass =   2}, -- Elixir of Defense
+	[ 3825] = {class =   0, subclass =   2}, -- Elixir of Fortitude
+	[ 8951] = {class =   0, subclass =   2}, -- Elixir of Greater Defense
+	[ 9179] = {class =   0, subclass =   2}, -- Elixir of Greater Intellect
+	[ 5997] = {class =   0, subclass =   2}, -- Elixir of Minor Defense
+	[ 2458] = {class =   0, subclass =   2}, -- Elixir of Minor Fortitude
+	[13445] = {class =   0, subclass =   2}, -- Elixir of Superior Defense
+	[13447] = {class =   0, subclass =   2}, -- Elixir of the Sages
+	[ 8827] = {class =   0, subclass =   2}, -- Elixir of Water Walking
+	[ 3383] = {class =   0, subclass =   2}, -- Elixir of Wisdom
+	[ 9088] = {class =   0, subclass =   2}, -- Gift of Arthas
+	[20007] = {class =   0, subclass =   2}, -- Mageblood Potion
+	[20004] = {class =   0, subclass =   2}, -- Major Troll's Blood Potion
+	[ 3826] = {class =   0, subclass =   2}, -- Mighty Troll's Blood Potion
+	[ 3388] = {class =   0, subclass =   2}, -- Strong Troll's Blood Potion
+	[ 3382] = {class =   0, subclass =   2}, -- Weak Troll's Blood Potion
 	[ 1177] = {class =   0, subclass =   0}, -- Oil of Olaf
+
+-- Blasted Lands
+	[ 8412] = {class =   0, subclass =  10}, -- Ground Scorpok Assay		(Blasted Lands)
+	[ 8410] = {class =   0, subclass =  10}, -- R.O.I.D.S.					(Blasted Lands)
+	[ 8423] = {class =   0, subclass =  10}, -- Cerebral Cortex Compound	(Blasted Lands)
+	[ 8424] = {class =   0, subclass =  10}, -- Gizzard Gum					(Blasted Lands)
+	[ 8411] = {class =   0, subclass =  10}, -- Lung Juice Cocktail			(Blasted Lands)
+
+-- Zanza
+	[20080] = {class =   0, subclass =  11}, -- Sheen of Zanza				(Zanza)
+	[20079] = {class =   0, subclass =  11}, -- Spirit of Zanza				(Zanza)
+	[20081] = {class =   0, subclass =  11}, -- Swiftness of Zanza			(Zanza)
 
 -- Consumables: Flasks
 	[13510] = {class =   0, subclass =   3}, -- Flask of the Titans
