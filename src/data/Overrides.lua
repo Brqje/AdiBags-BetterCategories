@@ -5,6 +5,8 @@ data.overrides = {
 
 ---------------------------------------------------------
 -- Everything in this file are items released in TBC
+
+-- (misuse of the original file intentions, overrides)
 ---------------------------------------------------------
 
 
