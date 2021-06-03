@@ -12,11 +12,13 @@ easier.
 The addon fits seamlessly into the existing AdiBags framework, it can be
 configured, re-ordered, and disabled like any other AdiBags filter.
 
-I (Baroque) have modified the excellent AdiBags-BetterCategories addon (original by stephenswat) to feature TBC items as well, to be used for BCC.
-It uses even more fine-tuned categorization/auto sorting for both leveling and end-game Classic 1.13.x & Burning Crusade Classic 2.5.x content.
-It's modified for all the requirements of a serious end-game raider, presenting inventory contents in a streamlined way.
+I (Baroque) have modified the excellent AdiBags-BetterCategories addon (original by
+stephenswat) to feature TBC items as well, to be used for BCC. It uses even more
+fine-tuned categorization/auto sorting for Classic 1.13.x & Burning Crusade Classic
+2.5.x content. It's modified for all the requirements of both leveling and serious
+end-game raiding, presenting inventory contents in a streamlined way.
 
-Many hours were spent to include specific categorization for over 2200 items:
+I've spent many hours to include specific categorization for over 2200 items:
 
 - Over 1600 items released in Vanilla
 - Over 600 items released in TBC
@@ -30,17 +32,19 @@ The general idea is that consumables which share buff slots or cooldowns are gro
 - Scrolls
 - Potions
 - Runes
-- Drums
 - Explosives
+- Drums
 - Weapon Buffs
 - ...
 
 This has been fine-tuned further over the original AdiBags-BetterCategories release.
 Regular regenerative food & drinks are also split from (expensive) buff food.
 
-Trade goods are split in sub-catergories as well, related to the appropriate professions, as also seen in the original release.
+Trade goods are split in sub-catergories as well, related to the appropriate professions,
+as also seen in the original release.
 
-Zone and/or faction specific reputation, gear & consumable quest tokens have been added, also grouped into sub-categories, TBC examples:
+Zone and/or faction specific reputation, gear & consumable quest tokens have been added,
+also grouped into sub-categories, TBC examples:
 
 - Aldor
 - Scryer
