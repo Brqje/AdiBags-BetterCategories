@@ -2,10 +2,10 @@
 ## Title: AdiBags - BetterCategories
 ## Notes: Improves the automatic item categories in AdiBags.
 ## Author: stephenswat (Baroque BCC edit)
-## Version: 0.1.0-Brq
+## Version: 0.3.0-Brq
 ## Dependencies: AdiBags
 
 src/filters/Core.lua
-src/data/Items.lua
 src/data/Classes.lua
-src/data/Overrides.lua
+src/data/Items.lua
+src/data/Overrides_Era.lua
