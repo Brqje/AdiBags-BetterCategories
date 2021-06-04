@@ -777,16 +777,19 @@ data.overrides = {
 	[30634] = {class =  13, subclass =   2}, -- Warpforged Key
 	[31704] = {class =  13, subclass =   2}, -- The Tempest Key
 
+-- Temp Keys (one time use) (these are handled by the key ring)
+--
+
 -- Miscellaneous: Profession trade tools
-	[32664] = {class =   0, subclass =   8}, -- Runed Fel Iron Rod
-	[32665] = {class =   0, subclass =   8}, -- Runed Adamantite Rod
-	[22463] = {class =   0, subclass =   8}, -- Runed Eternium Rod
-	[13503] = {class =   0, subclass =   8}, -- Alchemist's Stone
-	[47046] = {class =   0, subclass =   8}, -- Guardian's Alchemist Stone
-	[47048] = {class =   0, subclass =   8}, -- Sorcerer's Alchemist Stone
-	[47049] = {class =   0, subclass =   8}, -- Redeemer's Alchemist Stone
-	[47050] = {class =   0, subclass =   8}, -- Assassin's Alchemist Stone
-	[20815] = {class =   0, subclass =   8}, -- Jeweler's Kit
+	[32664] = {class =  15, subclass =   0}, -- Runed Fel Iron Rod
+	[32665] = {class =  15, subclass =   0}, -- Runed Adamantite Rod
+	[22463] = {class =  15, subclass =   0}, -- Runed Eternium Rod
+	[13503] = {class =  15, subclass =   0}, -- Alchemist's Stone
+	[47046] = {class =  15, subclass =   0}, -- Guardian's Alchemist Stone
+	[47048] = {class =  15, subclass =   0}, -- Sorcerer's Alchemist Stone
+	[47049] = {class =  15, subclass =   0}, -- Redeemer's Alchemist Stone
+	[47050] = {class =  15, subclass =   0}, -- Assassin's Alchemist Stone
+	[20815] = {class =  15, subclass =   0}, -- Jeweler's Kit
 
 -- Miscellaneous: Items which function as key or an event trigger
 	[24140] = {class =  15, subclass =  12}, -- Blackened Urn
