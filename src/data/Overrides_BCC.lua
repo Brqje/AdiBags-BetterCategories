@@ -753,6 +753,7 @@ data.overrides = {
 	[32388] = {class =  12, subclass =  38}, -- Sha'tari Skyguard: Shadow Dust
 	[32446] = {class =  12, subclass =  38}, -- Sha'tari Skyguard: Elixir of Shadows
 	[24245] = {class =  12, subclass =  39}, -- Sporeggar: Glowcap
+	[24291] = {class =  12, subclass =  39}, -- Sporeggar: Bog Lord Tendril
 	[24246] = {class =  12, subclass =  39}, -- Sporeggar: Sanguine Hibiscus
 	[25416] = {class =  12, subclass =  40}, -- The Consortium: Oshu'gun Crystal Fragment
 	[25463] = {class =  12, subclass =  40}, -- The Consortium: Pair of Ivory Tusks
