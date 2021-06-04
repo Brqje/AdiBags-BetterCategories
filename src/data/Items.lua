@@ -1349,11 +1349,11 @@ data.items = {
 	[20384] = {class =  12, subclass =  11}, -- Silithid Carapace Fragment
 	[20858] = {class =  12, subclass =  11}, -- AQ20/40: Stone Scarab (Cenarion Circle / Brood of Nozdormu)
 	[20859] = {class =  12, subclass =  11}, -- AQ20/40: Gold Scarab (Cenarion Circle / Brood of Nozdormu)
-	[20860] = {class =  12, subclass =  11}, -- AQ20/40: Silver Scarabb (Cenarion Circle / Brood of Nozdormu)
+	[20860] = {class =  12, subclass =  11}, -- AQ20/40: Silver Scarab (Cenarion Circle / Brood of Nozdormu)
 	[20861] = {class =  12, subclass =  11}, -- AQ20/40: Bronze Scarab (Cenarion Circle / Brood of Nozdormu)
 	[20862] = {class =  12, subclass =  11}, -- AQ20/40: Crystal Scarab (Cenarion Circle / Brood of Nozdormu)
 	[20863] = {class =  12, subclass =  11}, -- AQ20/40: Clay Scarab (Cenarion Circle / Brood of Nozdormu)
-	[20864] = {class =  12, subclass =  11}, -- AQ20/40: Bone Scarabb (Cenarion Circle / Brood of Nozdormu)
+	[20864] = {class =  12, subclass =  11}, -- AQ20/40: Bone Scarab (Cenarion Circle / Brood of Nozdormu)
 	[20865] = {class =  12, subclass =  11}, -- AQ20/40: Ivory Scarab (Cenarion Circle / Brood of Nozdormu)
 	[20873] = {class =  12, subclass =  11}, -- AQ20: Alabaster Idol
 	[20869] = {class =  12, subclass =  11}, -- AQ20: Amber Idol
