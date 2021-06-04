@@ -66,11 +66,6 @@ also grouped into sub-categories, TBC examples:
 ![img](https://i.imgur.com/7lxKnqs.jpg)
 
 
-**Shaman at level 40:**
-
-![img](https://i.imgur.com/LTLpkUp.jpg)
-
-
 **Shaman at level 60, bank also shown:**
 
 ![img](https://i.imgur.com/x0eYZ0C.jpg)
