@@ -529,7 +529,7 @@ data.items = {
 	[23161] = {class =   0, subclass =  55},
 	[19997] = {class =   0, subclass =  55},
 
--- Consumables: Conjured Food & Drinks
+-- Consumables: Conjured Food
 	[ 5349] = {class =   0, subclass =  54}, -- Conjured Muffin
 	[ 1113] = {class =   0, subclass =  54}, -- Conjured Bread
 	[ 1114] = {class =   0, subclass =  54}, -- Conjured Rye
@@ -537,6 +537,8 @@ data.items = {
 	[ 8075] = {class =   0, subclass =  54}, -- Conjured Sourdough
 	[ 8076] = {class =   0, subclass =  54}, -- Conjured Sweet Roll
 	[22895] = {class =   0, subclass =  54}, -- Conjured Cinnamon Roll
+	
+-- Consumables: Conjured Drinks
 	[ 5350] = {class =   0, subclass =  55}, -- Conjured Water
 	[ 2288] = {class =   0, subclass =  55}, -- Conjured Fresh Water
 	[ 2136] = {class =   0, subclass =  55}, -- Conjured Purified Water
@@ -579,7 +581,7 @@ data.items = {
 	[ 4952] = {class =   0, subclass =  56}, -- Stormstout
 	[23246] = {class =   0, subclass =  56}, -- Fiery Festival Brew
 	[17048] = {class =   0, subclass =  56}, -- Rumsey Rum
-	[ 1262] = {class =   0, subclass =   0}, -- Keg of Thunderbrew (non alcoholic)
+	[ 1262] = {class =   0, subclass =  56}, -- Keg of Thunderbrew (non alcoholic)
 
 -- Consumables: Permanent Enchantments
 	[ 2304] = {class =   0, subclass =   6},
@@ -1345,14 +1347,14 @@ data.items = {
 	[20403] = {class =  12, subclass =  11}, -- Proxy of Nozdormu
 	[20402] = {class =  12, subclass =  11}, -- Agent of Nozdormu
 	[20384] = {class =  12, subclass =  11}, -- Silithid Carapace Fragment
-	[20858] = {class =  12, subclass =  11}, -- AQ20/40 Scarab (Cenarion Circle / Brood of Nozdormu)
-	[20859] = {class =  12, subclass =  11}, -- AQ20/40 Scarab (Cenarion Circle / Brood of Nozdormu)
-	[20860] = {class =  12, subclass =  11}, -- AQ20/40 Scarab (Cenarion Circle / Brood of Nozdormu)
-	[20861] = {class =  12, subclass =  11}, -- AQ20/40 Scarab (Cenarion Circle / Brood of Nozdormu)
-	[20862] = {class =  12, subclass =  11}, -- AQ20/40 Scarab (Cenarion Circle / Brood of Nozdormu)
-	[20863] = {class =  12, subclass =  11}, -- AQ20/40 Scarab (Cenarion Circle / Brood of Nozdormu)
-	[20864] = {class =  12, subclass =  11}, -- AQ20/40 Scarab (Cenarion Circle / Brood of Nozdormu)
-	[20865] = {class =  12, subclass =  11}, -- AQ20/40 Scarab (Cenarion Circle / Brood of Nozdormu)
+	[20858] = {class =  12, subclass =  11}, -- AQ20/40: Stone Scarab (Cenarion Circle / Brood of Nozdormu)
+	[20859] = {class =  12, subclass =  11}, -- AQ20/40: Gold Scarab (Cenarion Circle / Brood of Nozdormu)
+	[20860] = {class =  12, subclass =  11}, -- AQ20/40: Silver Scarabb (Cenarion Circle / Brood of Nozdormu)
+	[20861] = {class =  12, subclass =  11}, -- AQ20/40: Bronze Scarab (Cenarion Circle / Brood of Nozdormu)
+	[20862] = {class =  12, subclass =  11}, -- AQ20/40: Crystal Scarab (Cenarion Circle / Brood of Nozdormu)
+	[20863] = {class =  12, subclass =  11}, -- AQ20/40: Clay Scarab (Cenarion Circle / Brood of Nozdormu)
+	[20864] = {class =  12, subclass =  11}, -- AQ20/40: Bone Scarabb (Cenarion Circle / Brood of Nozdormu)
+	[20865] = {class =  12, subclass =  11}, -- AQ20/40: Ivory Scarab (Cenarion Circle / Brood of Nozdormu)
 	[20873] = {class =  12, subclass =  11}, -- AQ20: Alabaster Idol
 	[20869] = {class =  12, subclass =  11}, -- AQ20: Amber Idol
 	[20866] = {class =  12, subclass =  11}, -- AQ20: Azure Idol
@@ -1423,6 +1425,7 @@ data.items = {
 	[20801] = {class =  12, subclass =  14}, -- Cenarion Tactical Badge
 	[20802] = {class =  12, subclass =  14}, -- Cenarion Combat Badge
 	[21508] = {class =  12, subclass =  14}, -- Mark of Cenarius
+	[20513] = {class =  12, subclass =  14}, -- Abyssal Crest
 	[20541] = {class =  12, subclass =  14}, -- Decoded Twilight Text	(junk?)
 	[20545] = {class =  12, subclass =  14}, -- Decoded Twilight Text	(junk?)
 	[20552] = {class =  12, subclass =  14}, -- Decoded Twilight Text	(junk?)
@@ -1430,7 +1433,6 @@ data.items = {
 	[20677] = {class =  12, subclass =  14}, -- Decoded Twilight Text	(junk?)
 	[20678] = {class =  12, subclass =  14}, -- Decoded Twilight Text	(junk?)
 	[20679] = {class =  12, subclass =  14}, -- Decoded Twilight Text	(junk?)
-	[20513] = {class =  12, subclass =  14}, -- Abyssal Crest
 
 -- Tokens: Felwood
 	[11511] = {class =  12, subclass =  15}, -- Cenarion Beacon
@@ -1492,6 +1494,7 @@ data.items = {
 
 -- Tokens: Darkmoon Faire
 	[19182] = {class =  12, subclass =  75}, -- Darkmoon Faire Prize Ticket
+	[19422] = {class =  12, subclass =  75}, -- Darkmoon Faire Fortune
 	[19425] = {class =  12, subclass =  75}, -- Mysterious Lockbox
 
 -- Tokens: Love is in the Air 
