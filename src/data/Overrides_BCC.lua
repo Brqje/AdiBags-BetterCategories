@@ -736,6 +736,7 @@ data.overrides = {
 	[24368] = {class =  12, subclass =  32}, -- Cenarion Expedition: Coilfang Armaments
 	[24579] = {class =  12, subclass =  33}, -- Honor Hold: Mark of Honor Hold
 	[24520] = {class =  12, subclass =  33}, -- Honor Hold: Honor Hold Favor (technically a consumable)
+	[28558] = {class =  12, subclass =  34}, -- Instance: Spirit Shard (Auchindoun instances)
 	[29434] = {class =  12, subclass =  34}, -- Instance: Badge of Justice
 	[32897] = {class =  12, subclass =  34}, -- Instance: Mark of the Illidari	
 	[25719] = {class =  12, subclass =  35}, -- Lower City: Arakkoa Feather
