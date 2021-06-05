@@ -58,6 +58,7 @@ also grouped into sub-categories, TBC examples:
 - Sporeggar
 - Lower City
 - The Consortium
+- Halaa
 - Ogri'la
 - Sha'tari Skyguard
 
