@@ -22,7 +22,7 @@ adapting categories and sub-classifications to the content. It fits seamlessly i
 existing AdiBags framework, as it can be configured, re-ordered, and disabled like any
 other AdiBags filter.
 
-Specific categorization for over 2200 items:
+I've included specific categorization for over 2200 items:
 
 - Over 1600 items released in Vanilla
 - Over 600 items released in TBC
