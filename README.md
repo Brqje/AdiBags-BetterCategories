@@ -18,7 +18,7 @@ inventory contents in a streamlined way.
 
 This release of AdiBags-BetterCategories requires a base install of AdiBags,
 be it on Classic Era 1.13.x or Burning Crusade Classic 2.5.x. It works on both versions,
-adapting categories and classifications to the content. It fits seamlessly into the
+adapting categories and sub-classifications to the content. It fits seamlessly into the
 existing AdiBags framework, as it can be configured, re-ordered, and disabled like any
 other AdiBags filter.
 
