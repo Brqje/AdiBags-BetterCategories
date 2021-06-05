@@ -13,8 +13,8 @@ easier.
 I (Baroque) have modified the excellent AdiBags-BetterCategories addon (original by
 stephenswat) to feature TBC items as well, to be used for BCC. It uses even more
 fine-tuned categorization/auto sorting for both Classic & BCC content. It's modified
-for all the requirements of both leveling and serious end-game raiding, presenting
-inventory contents in a streamlined way.
+for all the requirements of both leveling and raiding, presenting inventory contents
+in a streamlined way.
 
 This release of AdiBags-BetterCategories requires a base install of AdiBags,
 be it on Classic Era 1.13.x or Burning Crusade Classic 2.5.x. It works on both versions,
