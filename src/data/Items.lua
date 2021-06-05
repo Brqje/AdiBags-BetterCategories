@@ -658,6 +658,7 @@ data.items = {
 	[23725] = {class =   0, subclass =   6},
 	[23727] = {class =   0, subclass =   6},
 	[23728] = {class =   0, subclass =   6},
+	[19971] = {class =   0, subclass =   6}, -- High Test Eternium Fishing Line
 
 -- Consumables: Bandages
 	[ 1251] = {class =   0, subclass =   7},
