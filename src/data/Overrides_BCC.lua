@@ -255,6 +255,7 @@ data.overrides = {
 	[34064] = {class =   0, subclass =  52}, -- Succulent Sausage
 	[33043] = {class =   0, subclass =  52}, -- The Essential Brewfest Pretzel
 	[33026] = {class =   0, subclass =  52}, -- The Golden Link
+	[31673] = {class =   0, subclass =  52}, -- Crunchy Serpent
 
 -- Consumables: Pet Buff Food
 	[33874] = {class =   0, subclass =  52}, -- Kibler's Bits
