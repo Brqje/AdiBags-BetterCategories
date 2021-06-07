@@ -670,10 +670,10 @@ data.overrides = {
 
 -- Trade Goods: Enchanting
 	[22445] = {class =   7, subclass =  12}, -- Arcane Dust
-	[22446] = {class =   7, subclass =  12}, -- Greater Planar Essence
-	[22449] = {class =   7, subclass =  12}, -- Large Prismatic Shard
 	[22447] = {class =   7, subclass =  12}, -- Lesser Planar Essence
+	[22446] = {class =   7, subclass =  12}, -- Greater Planar Essence
 	[22448] = {class =   7, subclass =  12}, -- Small Prismatic Shard
+	[22449] = {class =   7, subclass =  12}, -- Large Prismatic Shard
 	[22450] = {class =   7, subclass =  12}, -- Void Crystal
 
 -- Trade Goods: Gems
