@@ -738,7 +738,6 @@ data.overrides = {
 	[24368] = {class =  12, subclass =  33}, -- Cenarion Expedition: Coilfang Armaments
 	[26043] = {class =  12, subclass =  34}, -- Halaa: Oshu'gun Crystal Powder Sample (alliance)
 	[26042] = {class =  12, subclass =  34}, -- Halaa: Oshu'gun Crystal Powder Sample (horde)
-	[25416] = {class =  12, subclass =  34}, -- Halaa: Oshu'gun Crystal Fragment
 	[26044] = {class =  12, subclass =  34}, -- Halaa: Halaa Research Token
 	[26045] = {class =  12, subclass =  34}, -- Halaa: Halaa Battle Token
 	[24579] = {class =  12, subclass =  35}, -- Honor Hold: Mark of Honor Hold
