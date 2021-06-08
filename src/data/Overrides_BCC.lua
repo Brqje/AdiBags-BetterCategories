@@ -731,6 +731,7 @@ data.overrides = {
 	[29740] = {class =  12, subclass =  31}, -- Aldor: Fel Armament
 	[29425] = {class =  12, subclass =  31}, -- Aldor: Mark of Kil'jaeden
 	[30809] = {class =  12, subclass =  31}, -- Aldor: Mark of Sargeras
+	[29735] = {class =  12, subclass =  31}, -- Aldor: Holy Dust
 	[28558] = {class =  12, subclass =  32}, -- Auchindoun: Spirit Shard
 	[24401] = {class =  12, subclass =  33}, -- Cenarion Expedition: Unidentified Plant Parts
 	[24402] = {class =  12, subclass =  33}, -- Cenarion Expedition: Uncatalogued Species
@@ -750,6 +751,7 @@ data.overrides = {
 	[29739] = {class =  12, subclass =  39}, -- Scryer: Arcane Tome
 	[29426] = {class =  12, subclass =  39}, -- Scryer: Firewing Signet
 	[30810] = {class =  12, subclass =  39}, -- Scryer: Sunfury Signet
+	[29736] = {class =  12, subclass =  39}, -- Scryer: Arcane Rune
 	[32715] = {class =  12, subclass =  40}, -- Sha'tari Skyguard: Akkarai's Talons
 	[32716] = {class =  12, subclass =  40}, -- Sha'tari Skyguard: Gezzarak's Claws
 	[32717] = {class =  12, subclass =  40}, -- Sha'tari Skyguard: Karrog's Spine
