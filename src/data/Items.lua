@@ -245,7 +245,7 @@ data.items = {
 	[ 3826] = {class =   0, subclass =   2}, -- Mighty Troll's Blood Potion
 	[ 3388] = {class =   0, subclass =   2}, -- Strong Troll's Blood Potion
 	[ 3382] = {class =   0, subclass =   2}, -- Weak Troll's Blood Potion
-	[ 1177] = {class =   0, subclass =   0}, -- Oil of Olaf
+	[ 1177] = {class =   0, subclass =   2}, -- Oil of Olaf
 
 -- Blasted Lands
 	[ 8412] = {class =   0, subclass =  10}, -- Ground Scorpok Assay		(Blasted Lands)
@@ -715,7 +715,7 @@ data.items = {
 	[20520] = {class =   0, subclass =   8}, -- Dark Rune
 	[22682] = {class =   0, subclass =   8}, -- Frozen Rune
 	[15723] = {class =   0, subclass =   8}, -- Tea with Sugar
-	[ 7676] = {class =   0, subclass =   0}, -- Thistle Tea
+	[ 7676] = {class =   0, subclass =   8}, -- Thistle Tea
 	[ 1703] = {class =   0, subclass =   8}, -- Crystal Basilisk Spine
 	[ 4392] = {class =   0, subclass =   8}, -- Advanced Target Dummy
 	[18606] = {class =   0, subclass =   8}, -- Alliance Battle Standard
@@ -863,13 +863,13 @@ data.items = {
 
 
 -- Trade Goods: nil
-	[  732] = {class = nil, subclass = nil}, -- Okra					Westfall Harvesters
-	[  878] = {class = nil, subclass = nil}, -- Fist-sized Spinneret	Reagent for Potion of Fervor
-	[ 1274] = {class = nil, subclass = nil}, -- Hops					Westfall Harvesters
-	[ 3340] = {class = nil, subclass = nil}, -- Incendicite Ore			Wetlands
-	[ 5833] = {class = nil, subclass = nil}, -- Indurium Ore
-	[ 6986] = {class = nil, subclass = nil}, -- Crimson Lotus
-	[ 6987] = {class = nil, subclass = nil}, -- Fish Scale
+	[  732] = {class =   7, subclass = nil}, -- Okra					Westfall Harvesters
+	[  878] = {class =   7, subclass = nil}, -- Fist-sized Spinneret	Reagent for Potion of Fervor
+	[ 1274] = {class =   7, subclass = nil}, -- Hops					Westfall Harvesters
+	[ 3340] = {class =   7, subclass = nil}, -- Incendicite Ore			Wetlands
+	[ 5833] = {class =   7, subclass = nil}, -- Indurium Ore
+	[ 6986] = {class =   7, subclass = nil}, -- Crimson Lotus
+	[ 6987] = {class =   7, subclass = nil}, -- Fish Scale
 	[ 8146] = {class =   7, subclass = nil}, -- Wicked Claw
 	[ 8151] = {class =   7, subclass = nil}, -- Flask of Mojo
 	[ 8152] = {class =   7, subclass = nil}, -- Flask of Big Mojo
@@ -877,10 +877,10 @@ data.items = {
 	[11382] = {class =   7, subclass = nil}, -- Blood of the Mountain
 	[17010] = {class =   7, subclass = nil}, -- Fiery Core
 	[17011] = {class =   7, subclass = nil}, -- Lava Core
-	[15869] = {class = nil, subclass = nil}, -- Silver Skeleton Key		Blacksmithing
-	[15870] = {class = nil, subclass = nil}, -- Golden Skeleton Key		Blacksmithing
-	[15871] = {class = nil, subclass = nil}, -- Truesilver Skeleton Key	Blacksmithing
-	[15872] = {class = nil, subclass = nil}, -- Arcanite Skeleton Key	Blacksmithing
+	[15869] = {class =   7, subclass = nil}, -- Silver Skeleton Key		Blacksmithing
+	[15870] = {class =   7, subclass = nil}, -- Golden Skeleton Key		Blacksmithing
+	[15871] = {class =   7, subclass = nil}, -- Truesilver Skeleton Key	Blacksmithing
+	[15872] = {class =   7, subclass = nil}, -- Arcanite Skeleton Key	Blacksmithing
 
 -- Trade Goods: Parts
 	[ 4382] = {class =   7, subclass =   1}, -- Bronze Framework
