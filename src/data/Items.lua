@@ -7,7 +7,6 @@ data.items = {
 -- Vanilla item list made by Baroque (EU-Magtheridon (Retail) / EU-Mograine (Classic))
 
 -- Everything in this file are items released in Vanilla only
-
 -- Classification according Vanilla rules
 ----------------------------------------------------------------------------------------
 
