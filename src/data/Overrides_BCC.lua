@@ -7,7 +7,6 @@ data.overrides = {
 -- TBC item list made by Baroque (EU-Magtheridon (Retail) / EU-Mograine (Classic))
 
 -- Small list of some Vanilla Items, but with override TBC classifications
-
 -- Elixirs are classified according TBC rules: Elixir, Battle Elixir or Guardian Elixir
 ----------------------------------------------------------------------------------------
 
