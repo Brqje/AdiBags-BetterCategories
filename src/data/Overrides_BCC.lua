@@ -4,7 +4,9 @@ data.overrides = {
 
 
 ----------------------------------------------------------------------------------------
--- Small list of some Vanilla Items, but with TBC override classifications
+-- TBC item list made by Baroque (EU-Magtheridon (Retail) / EU-Mograine (Classic))
+
+-- Small list of some Vanilla Items, but with override TBC classifications
 
 -- Elixirs are classified according TBC rules: Elixir, Battle Elixir or Guardian Elixir
 ----------------------------------------------------------------------------------------
@@ -732,6 +734,7 @@ data.overrides = {
 	[29425] = {class =  12, subclass =  31}, -- Aldor: Mark of Kil'jaeden
 	[30809] = {class =  12, subclass =  31}, -- Aldor: Mark of Sargeras
 	[29735] = {class =  12, subclass =  31}, -- Aldor: Holy Dust
+	[25802] = {class =  12, subclass =  31}, -- Aldor: Dreadfang Venom Sac (to switch sides from Scryer to Aldor)
 	[28558] = {class =  12, subclass =  32}, -- Auchindoun: Spirit Shard
 	[24401] = {class =  12, subclass =  33}, -- Cenarion Expedition: Unidentified Plant Parts
 	[24402] = {class =  12, subclass =  33}, -- Cenarion Expedition: Uncatalogued Species
@@ -752,6 +755,7 @@ data.overrides = {
 	[29426] = {class =  12, subclass =  39}, -- Scryer: Firewing Signet
 	[30810] = {class =  12, subclass =  39}, -- Scryer: Sunfury Signet
 	[29736] = {class =  12, subclass =  39}, -- Scryer: Arcane Rune
+	[25744] = {class =  12, subclass =  39}, -- Scryer: Dampscale Basilisk Eye (to switch sides from Aldor to Scryer)
 	[32715] = {class =  12, subclass =  40}, -- Sha'tari Skyguard: Akkarai's Talons
 	[32716] = {class =  12, subclass =  40}, -- Sha'tari Skyguard: Gezzarak's Claws
 	[32717] = {class =  12, subclass =  40}, -- Sha'tari Skyguard: Karrog's Spine
