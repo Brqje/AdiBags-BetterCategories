@@ -1,8 +1,8 @@
 ## Interface: 20501
-## Title: AdiBags - BetterCategories (BCC)
+## Title: AdiBags - BetterCategories [BCC]
 ## Notes: Improves the automatic item categories in AdiBags.
 ## Author: stephenswat (Baroque edit)
-## Version: 0.3.0-Brq-2021-06-09
+## Version: 0.3.0-Brq-2021-06-11
 ## Dependencies: AdiBags
 
 src/filters/Core.lua
