@@ -729,50 +729,57 @@ data.overrides = {
 	[27736] = {class =   9, subclass =   7}, -- Master Cookbook
 
 -- Zone tokens
-	[29740] = {class =  12, subclass =  31}, -- Aldor: Fel Armament
-	[29425] = {class =  12, subclass =  31}, -- Aldor: Mark of Kil'jaeden
-	[30809] = {class =  12, subclass =  31}, -- Aldor: Mark of Sargeras
-	[29735] = {class =  12, subclass =  31}, -- Aldor: Holy Dust
-	[25802] = {class =  12, subclass =  31}, -- Aldor: Dreadfang Venom Sac (to switch sides from Scryer to Aldor)
-	[28558] = {class =  12, subclass =  32}, -- Auchindoun: Spirit Shard
+	[24579] = {class =  12, subclass =  31}, -- Honor Hold: Mark of Honor Hold
+	[24520] = {class =  12, subclass =  31}, -- Honor Hold: Honor Hold Favor (technically a consumable)
+	[24581] = {class =  12, subclass =  32}, -- Thrallmar: Mark of Thrallmar
+	[24522] = {class =  12, subclass =  32}, -- Thrallmar: Thrallmar Favor (technically a consumable)	
 	[24401] = {class =  12, subclass =  33}, -- Cenarion Expedition: Unidentified Plant Parts
 	[24402] = {class =  12, subclass =  33}, -- Cenarion Expedition: Uncatalogued Species
 	[24407] = {class =  12, subclass =  33}, -- Cenarion Expedition: Package of Identified Plants
 	[24368] = {class =  12, subclass =  33}, -- Cenarion Expedition: Coilfang Armaments
-	[26043] = {class =  12, subclass =  34}, -- Halaa: Oshu'gun Crystal Powder Sample (alliance)
-	[26042] = {class =  12, subclass =  34}, -- Halaa: Oshu'gun Crystal Powder Sample (horde)
-	[26044] = {class =  12, subclass =  34}, -- Halaa: Halaa Research Token
-	[26045] = {class =  12, subclass =  34}, -- Halaa: Halaa Battle Token
-	[24579] = {class =  12, subclass =  35}, -- Honor Hold: Mark of Honor Hold
-	[24520] = {class =  12, subclass =  35}, -- Honor Hold: Honor Hold Favor (technically a consumable)
-	[29434] = {class =  12, subclass =  36}, -- Instance: Badge of Justice
-	[32897] = {class =  12, subclass =  36}, -- Instance: Mark of the Illidari	
-	[25719] = {class =  12, subclass =  37}, -- Lower City: Arakkoa Feather
-	[32569] = {class =  12, subclass =  38}, -- Ogri'la: Apexis Shard
-	[32572] = {class =  12, subclass =  38}, -- Ogri'la: Apexis Crystal
-	[29739] = {class =  12, subclass =  39}, -- Scryer: Arcane Tome
-	[29426] = {class =  12, subclass =  39}, -- Scryer: Firewing Signet
-	[30810] = {class =  12, subclass =  39}, -- Scryer: Sunfury Signet
-	[29736] = {class =  12, subclass =  39}, -- Scryer: Arcane Rune
-	[25744] = {class =  12, subclass =  39}, -- Scryer: Dampscale Basilisk Eye (to switch sides from Aldor to Scryer)
-	[32715] = {class =  12, subclass =  40}, -- Sha'tari Skyguard: Akkarai's Talons
-	[32716] = {class =  12, subclass =  40}, -- Sha'tari Skyguard: Gezzarak's Claws
-	[32717] = {class =  12, subclass =  40}, -- Sha'tari Skyguard: Karrog's Spine
-	[32718] = {class =  12, subclass =  40}, -- Sha'tari Skyguard: Vakkiz's Scale
-	[32720] = {class =  12, subclass =  40}, -- Sha'tari Skyguard: Time-Lost Offering
-	[32620] = {class =  12, subclass =  40}, -- Sha'tari Skyguard: Time-Lost Scroll
-	[32388] = {class =  12, subclass =  40}, -- Sha'tari Skyguard: Shadow Dust
-	[32446] = {class =  12, subclass =  40}, -- Sha'tari Skyguard: Elixir of Shadows
-	[24245] = {class =  12, subclass =  41}, -- Sporeggar: Glowcap
-	[24291] = {class =  12, subclass =  41}, -- Sporeggar: Bog Lord Tendril
-	[24449] = {class =  12, subclass =  41}, -- Sporeggar: Fertile Spores
-	[24246] = {class =  12, subclass =  41}, -- Sporeggar: Sanguine Hibiscus
-	[25416] = {class =  12, subclass =  42}, -- The Consortium: Oshu'gun Crystal Fragment
-	[25463] = {class =  12, subclass =  42}, -- The Consortium: Pair of Ivory Tusks
-	[25433] = {class =  12, subclass =  42}, -- The Consortium: Obsidian Warbeads
-	[29209] = {class =  12, subclass =  42}, -- The Consortium: Zaxxis Insignia
-	[24581] = {class =  12, subclass =  43}, -- Thrallmar: Mark of Thrallmar
-	[24522] = {class =  12, subclass =  43}, -- Thrallmar: Thrallmar Favor (technically a consumable)
+	[24245] = {class =  12, subclass =  34}, -- Sporeggar: Glowcap
+	[24291] = {class =  12, subclass =  34}, -- Sporeggar: Bog Lord Tendril
+	[24449] = {class =  12, subclass =  34}, -- Sporeggar: Fertile Spores
+	[24246] = {class =  12, subclass =  34}, -- Sporeggar: Sanguine Hibiscus
+	[25719] = {class =  12, subclass =  35}, -- Lower City: Arakkoa Feather
+	[25433] = {class =  12, subclass =  38}, -- The Consortium: Obsidian Warbeads (also for Kurenai / The Mag'har)
+	[25416] = {class =  12, subclass =  38}, -- The Consortium: Oshu'gun Crystal Fragment
+	[25463] = {class =  12, subclass =  38}, -- The Consortium: Pair of Ivory Tusks
+	[29209] = {class =  12, subclass =  38}, -- The Consortium: Zaxxis Insignia
+	[29460] = {class =  12, subclass =  38}, -- The Consortium: Ethereum Prison Key
+	[29750] = {class =  12, subclass =  38}, -- The Consortium: Ethereum Stasis Chamber Key
+	[26043] = {class =  12, subclass =  39}, -- Halaa: Oshu'gun Crystal Powder Sample (alliance)
+	[26042] = {class =  12, subclass =  39}, -- Halaa: Oshu'gun Crystal Powder Sample (horde)
+	[26044] = {class =  12, subclass =  39}, -- Halaa: Halaa Research Token
+	[26045] = {class =  12, subclass =  39}, -- Halaa: Halaa Battle Token
+	[29740] = {class =  12, subclass =  42}, -- Aldor: Fel Armament
+	[29425] = {class =  12, subclass =  42}, -- Aldor: Mark of Kil'jaeden
+	[30809] = {class =  12, subclass =  42}, -- Aldor: Mark of Sargeras
+	[29735] = {class =  12, subclass =  42}, -- Aldor: Holy Dust
+	[25802] = {class =  12, subclass =  42}, -- Aldor: Dreadfang Venom Sac (to switch sides from Scryer to Aldor)
+	[29739] = {class =  12, subclass =  43}, -- Scryer: Arcane Tome
+	[29426] = {class =  12, subclass =  43}, -- Scryer: Firewing Signet
+	[30810] = {class =  12, subclass =  43}, -- Scryer: Sunfury Signet
+	[29736] = {class =  12, subclass =  43}, -- Scryer: Arcane Rune
+	[25744] = {class =  12, subclass =  43}, -- Scryer: Dampscale Basilisk Eye (to switch sides from Aldor to Scryer)
+	[32569] = {class =  12, subclass =  48}, -- Ogri'la: Apexis Shard
+	[32572] = {class =  12, subclass =  48}, -- Ogri'la: Apexis Crystal
+	[32715] = {class =  12, subclass =  49}, -- Sha'tari Skyguard: Akkarai's Talons
+	[32716] = {class =  12, subclass =  49}, -- Sha'tari Skyguard: Gezzarak's Claws
+	[32717] = {class =  12, subclass =  49}, -- Sha'tari Skyguard: Karrog's Spine
+	[32718] = {class =  12, subclass =  49}, -- Sha'tari Skyguard: Vakkiz's Scale
+	[32720] = {class =  12, subclass =  49}, -- Sha'tari Skyguard: Time-Lost Offering
+	[32620] = {class =  12, subclass =  49}, -- Sha'tari Skyguard: Time-Lost Scroll
+	[32388] = {class =  12, subclass =  49}, -- Sha'tari Skyguard: Shadow Dust
+	[32446] = {class =  12, subclass =  49}, -- Sha'tari Skyguard: Elixir of Shadows
+	[32506] = {class =  12, subclass =  50}, -- Netherwing: Netherwing Egg
+	[32470] = {class =  12, subclass =  50}, -- Netherwing: Nethermine Flayer Hide
+	[32464] = {class =  12, subclass =  50}, -- Netherwing: Nethercite Ore
+	[32468] = {class =  12, subclass =  50}, -- Netherwing: Netherdust Pollen
+	[32509] = {class =  12, subclass =  50}, -- Netherwing: Netherwing Relic
+	[29434] = {class =  12, subclass =  51}, -- Instance: Badge of Justice
+	[32897] = {class =  12, subclass =  51}, -- Instance: Mark of the Illidari	
+	[28558] = {class =  12, subclass =  52}, -- Auchindoun: Spirit Shard	
 	[29024] = {class =  12, subclass =  71}, -- Batteground: Eye of the Storm Mark of Honor
 
 -- Keys (these are handled by the key ring anyway)
