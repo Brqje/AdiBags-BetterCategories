@@ -24,8 +24,8 @@ other AdiBags filter.
 
 I've included specific categorization for over 2200 items:
 
-- Over 1600 items released in Vanilla
-- Over 600 items released in TBC
+- Approximately 1500 Vanilla items
+- Approximately 700 TBC items
 
 The general idea is that consumables which share buff slots or cooldowns are grouped into sub-categories. For instance:
 
