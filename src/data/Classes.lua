@@ -174,11 +174,11 @@ data.classes = {
         },
     },
     [13] = {
-        name = "Keys",
+        name = "Key",
         subclasses = {
-            [ 0] = "Keys",
-            [ 1] = "Keys", -- Vanilla
-            [ 2] = "Keys", -- TBC
+            [ 0] = "Key",
+            [ 1] = "Key", -- Vanilla
+            [ 2] = "Key", -- TBC
         },
     },
     [14] = {
