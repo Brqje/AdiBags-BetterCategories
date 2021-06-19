@@ -1581,27 +1581,28 @@ data.items = {
 	[22136] = {class =  12, subclass =  83}, -- Orgrimmar Gift Collection
 
 -- Keys (these are handled by the key ring anyway)
-	[ 5396] = {class =  13, subclass =   1}, -- Key to Searing Gorge (alliance only)
-	[ 6893] = {class =  13, subclass =   1}, -- Workshop Key
-	[ 7146] = {class =  13, subclass =   1}, -- The Scarlet Key
-	[11000] = {class =  13, subclass =   1}, -- Shadowforge Key
-	[12382] = {class =  13, subclass =   1}, -- Key to the City
-	[13704] = {class =  13, subclass =   1}, -- Skeleton Key
-	[18249] = {class =  13, subclass =   1}, -- Crescent Key
+	[ 5396] = {class =  13, subclass =  11}, -- Key to Searing Gorge (alliance only)
+	[ 6893] = {class =  13, subclass =  11}, -- Workshop Key
+	[ 7146] = {class =  13, subclass =  11}, -- The Scarlet Key
+	[11000] = {class =  13, subclass =  11}, -- Shadowforge Key
+	[12382] = {class =  13, subclass =  11}, -- Key to the City
+	[13704] = {class =  13, subclass =  11}, -- Skeleton Key
+	[18249] = {class =  13, subclass =  11}, -- Crescent Key
 
 -- Temp Keys (one time use) (these are handled by the key ring)
-	[ 8444] = {class =  13, subclass =   1}, -- Executioner's Key
-	[11197] = {class =  13, subclass =   1}, -- Dark Keeper Key
-	[13302] = {class =  13, subclass =   1}, -- Market Row Postbox Key
-	[13303] = {class =  13, subclass =   1}, -- Crusaders' Square Postbox Key
-	[13304] = {class =  13, subclass =   1}, -- Festival Lane Postbox Key
-	[13305] = {class =  13, subclass =   1}, -- Elders' Square Postbox Key
-	[13306] = {class =  13, subclass =   1}, -- King's Square Postbox Key
-	[13307] = {class =  13, subclass =   1}, -- Fras Siabi's Postbox Key
-	[13873] = {class =  13, subclass =   1}, -- Viewing Room Key
-	[18250] = {class =  13, subclass =   1}, -- Gordok Shackle Key
-	[18266] = {class =  13, subclass =   1}, -- Gordok Courtyard Key
-	[18268] = {class =  13, subclass =   1}, -- Gordok Inner Door Key
+	[ 8444] = {class =  13, subclass =  12}, -- Executioner's Key				Zul'Farrak
+	[11197] = {class =  13, subclass =  12}, -- Dark Keeper Key					Blackrock Depths
+	[11078] = {class =  13, subclass =  12}, -- Relic Coffer Key				Blackrock Depths
+	[13302] = {class =  13, subclass =  12}, -- Market Row Postbox Key			Stratholme
+	[13303] = {class =  13, subclass =  12}, -- Crusaders' Square Postbox Key	Stratholme
+	[13304] = {class =  13, subclass =  12}, -- Festival Lane Postbox Key		Stratholme
+	[13305] = {class =  13, subclass =  12}, -- Elders' Square Postbox Key		Stratholme
+	[13306] = {class =  13, subclass =  12}, -- King's Square Postbox Key		Stratholme
+	[13307] = {class =  13, subclass =  12}, -- Fras Siabi's Postbox Key		Stratholme
+	[13873] = {class =  13, subclass =  12}, -- Viewing Room Key				Scholomance
+	[18250] = {class =  13, subclass =  12}, -- Gordok Shackle Key				Dire Maul
+	[18266] = {class =  13, subclass =  12}, -- Gordok Courtyard Key			Dire Maul
+	[18268] = {class =  13, subclass =  12}, -- Gordok Inner Door Key			Dire Maul
 
 -- Miscellaneous
 	[ 6948] = {class =  15, subclass =   0}, -- Hearthstone
