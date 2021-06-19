@@ -783,17 +783,17 @@ data.overrides = {
 	[29024] = {class =  12, subclass =  71}, -- Batteground: Eye of the Storm Mark of Honor
 
 -- Keys (these are handled by the key ring anyway)
-	[27991] = {class =  13, subclass =   2}, -- Shadow Labyrinth Key
-	[28395] = {class =  13, subclass =   2}, -- Shattered Halls Key
-	[31084] = {class =  13, subclass =   2}, -- Key to the Arcatraz
-	[24490] = {class =  13, subclass =   2}, -- The Master's Key
-	[30622] = {class =  13, subclass =   2}, -- Flamewrought Key (alliance)
-	[30637] = {class =  13, subclass =   2}, -- Flamewrought Key (horde)
-	[30623] = {class =  13, subclass =   2}, -- Reservoir Key
-	[30633] = {class =  13, subclass =   2}, -- Auchenai Key
-	[30635] = {class =  13, subclass =   2}, -- Key of Time
-	[30634] = {class =  13, subclass =   2}, -- Warpforged Key
-	[31704] = {class =  13, subclass =   2}, -- The Tempest Key
+	[27991] = {class =  13, subclass =  21}, -- Shadow Labyrinth Key
+	[28395] = {class =  13, subclass =  21}, -- Shattered Halls Key
+	[31084] = {class =  13, subclass =  21}, -- Key to the Arcatraz
+	[24490] = {class =  13, subclass =  21}, -- The Master's Key
+	[30622] = {class =  13, subclass =  21}, -- Flamewrought Key (alliance)
+	[30637] = {class =  13, subclass =  21}, -- Flamewrought Key (horde)
+	[30623] = {class =  13, subclass =  21}, -- Reservoir Key
+	[30633] = {class =  13, subclass =  21}, -- Auchenai Key
+	[30635] = {class =  13, subclass =  21}, -- Key of Time
+	[30634] = {class =  13, subclass =  21}, -- Warpforged Key
+	[31704] = {class =  13, subclass =  21}, -- The Tempest Key
 
 -- Temp Keys (one time use) (these are handled by the key ring)
 --
@@ -810,9 +810,9 @@ data.overrides = {
 	[20815] = {class =  15, subclass =   0}, -- Jeweler's Kit
 
 -- Miscellaneous: Items which function as key or an event trigger
-	[24140] = {class =  15, subclass =  12}, -- Blackened Urn
-	[32649] = {class =  15, subclass =  12}, -- Medallion of Karabor
-	[32757] = {class =  15, subclass =  12}, -- Blessed Medallion of Karabor
+	[24140] = {class =  15, subclass =  21}, -- Blackened Urn
+	[32649] = {class =  15, subclass =  21}, -- Medallion of Karabor
+	[32757] = {class =  15, subclass =  21}, -- Blessed Medallion of Karabor
 
 
 }
