@@ -176,9 +176,11 @@ data.classes = {
     [13] = {
         name = "Key",
         subclasses = {
-            [ 0] = "Key",
-            [ 1] = "Key", -- Vanilla
-            [ 2] = "Key", -- TBC
+            [ 0] = "Temp Key",
+            [11] = "Key", -- Vanilla
+            [12] = "Temp Key", -- Vanilla
+            [21] = "Key", -- TBC
+            [22] = "Temp Key", -- TBC
         },
     },
     [14] = {
@@ -194,7 +196,7 @@ data.classes = {
             [ 1] = "Class Consumables",			
             [ 4] = "Unknown",
             [11] = "Key", -- items which function as key or an event trigger, Vanilla
-            [12] = "Key", -- items which function as key or an event trigger, TBC
+            [21] = "Key", -- items which function as key or an event trigger, TBC
         },
     },
     [16] = {
