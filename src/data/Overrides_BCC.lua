@@ -547,11 +547,12 @@ data.overrides = {
 	[22148] = {class =   5, subclass =   0}, -- Druid: Wild Quillvine
 
 -- Trade Goods: nil
-	[21882] = {class =   7, subclass =   0}, -- Soul Essence
-	[23572] = {class =   7, subclass =   0}, -- Primal Nether
-	[30183] = {class =   7, subclass =   0}, -- Nether Vortex
-	[32428] = {class =   7, subclass =   0}, -- Heart of Darkness
-	[34664] = {class =   7, subclass =   0}, -- Sunmote
+	[21882] = {class =   7, subclass = nil}, -- Soul Essence
+	[23572] = {class =   7, subclass = nil}, -- Primal Nether
+	[30183] = {class =   7, subclass = nil}, -- Nether Vortex
+	[32428] = {class =   7, subclass = nil}, -- Heart of Darkness
+	[34664] = {class =   7, subclass = nil}, -- Sunmote
+	[27481] = {class =   7, subclass = nil}, -- Heavy Supply Crate
 
 -- Trade Goods: Parts
 	[23786] = {class =   7, subclass =   1}, -- Khorium Power Core
@@ -654,6 +655,9 @@ data.overrides = {
 	[27682] = {class =   7, subclass =   8}, -- Talbuk Venison
 	[27681] = {class =   7, subclass =   8}, -- Warped Flesh
 	[27429] = {class =   7, subclass =   8}, -- Zangarian Sporefish
+	[33857] = {class =   7, subclass =   8}, -- Crate of Meat
+	[33844] = {class =   7, subclass =   8}, -- Barrel of Fish
+	
 
 -- Trade Goods: Herbs
 -- Flame Cap, Fel Blossom and Nightmare Seed are listed under Runes (shared cooldown)
