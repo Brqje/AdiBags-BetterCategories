@@ -1345,6 +1345,9 @@ data.items = {
 	[21742] = {class =   9, subclass =   8}, -- Large Rocket Recipes
 	[21743] = {class =   9, subclass =   8}, -- Large Cluster Rocket Recipes
 
+-- Quest
+	[16967] = {class =  12, subclass =   0}, -- Feralas Ahi
+
 -- Tokens: Ahn'Qiraj
 	[20403] = {class =  12, subclass =  11}, -- Proxy of Nozdormu
 	[20402] = {class =  12, subclass =  11}, -- Agent of Nozdormu
@@ -1394,6 +1397,7 @@ data.items = {
 	[22525] = {class =  12, subclass =  12}, -- Crypt Fiend Parts
 	[22528] = {class =  12, subclass =  12}, -- Dark Iron Scraps
 	[22529] = {class =  12, subclass =  12}, -- Savage Frond
+	[13757] = {class =  12, subclass =  12}, -- Lightning Eel	(Craftsman's Writ - Lightning Eel)
 	[23194] = {class =  12, subclass =  12}, -- Lesser Mark of the Dawn
 	[23195] = {class =  12, subclass =  12}, -- Mark of the Dawn
 	[23196] = {class =  12, subclass =  12}, -- Greater Mark of the Dawn
