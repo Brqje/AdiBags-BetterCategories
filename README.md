@@ -1,5 +1,5 @@
 # AdiBags-BetterCategories
-# Baroque edit for Classic 1.13 & BCC 2.5
+# Baroque edit for Classic: WotLK 3.4, TBC 2.5 and Vanilla 1.14
 
 The wonderful AdiBags addon contains a filter for automatically classifying
 items by the categories and subcategories given by the game itself.
@@ -11,21 +11,22 @@ as well as some further manual classifications, to make your inventory managemen
 easier.
 
 I (Baroque) have modified the excellent AdiBags-BetterCategories addon (original by
-stephenswat) to feature TBC items as well, to be used for BCC. It uses even more
-fine-tuned categorization/auto sorting for both Classic & BCC content. It's modified
-for all the requirements of both leveling and raiding, presenting inventory contents
-in a streamlined way.
+stephenswat) to feature WotLK and TBC items as well, to be used for Classic WotLK and TBC.
+It uses even more fine-tuned categorization/auto sorting for Classic WotLK, TBC and Vanilla
+content. It's modified for all the requirements of both leveling and raiding, presenting
+inventory contents in a streamlined way.
 
 This release of AdiBags-BetterCategories requires a base install of AdiBags,
-be it on Classic Era 1.13.x or Burning Crusade Classic 2.5.x. It works on both versions,
-adapting categories and sub-classifications to the content. It fits seamlessly into the
-existing AdiBags framework, as it can be configured, re-ordered, and disabled like any
-other AdiBags filter.
+be it on Classic WotLK 3.4.x, Burning Crusade 2.5.x or Vanilla 1.14.x. It works on all these
+versions, adapting categories and sub-classifications to the content. It fits seamlessly
+into the existing AdiBags framework, as it can be configured, re-ordered, and disabled
+like any other AdiBags filter.
 
-I've included specific categorization for over 2200 items:
+I've included specific categorization for over 4600 items:
 
-- Approximately 1500 Vanilla items
-- Approximately 700 TBC items
+- Approximately 1600 Vanilla items
+- Approximately 1100 TBC items
+- Approximately 1800 TBC items
 
 The general idea is that consumables which share buff slots or cooldowns are grouped into sub-categories. For instance:
 
