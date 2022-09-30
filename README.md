@@ -22,10 +22,10 @@ versions, adapting categories and sub-classifications to the content. It fits se
 into the existing AdiBags framework, as it can be configured, re-ordered, and disabled
 like any other AdiBags filter.
 
-I've included specific categorization for over 4600 items:
+I've included specific categorization for over 4700 items:
 
-- Approximately 1600 Vanilla items
-- Approximately 1100 TBC items
+- Approximately 1700 Vanilla items
+- Approximately 1200 TBC items
 - Approximately 1800 WotLK items
 
 The general idea is that consumables which share buff slots or cooldowns are grouped into sub-categories. For instance:
