@@ -1758,7 +1758,6 @@ data.overrides_wrath = {
 
 
 -- Mounts
-	[54860] = {class =  19, subclass =   0}, -- X-53 Touring Rocket
 	[47179] = {class =  19, subclass =   0}, -- Argent Charger
 	[45725] = {class =  19, subclass =   0}, -- Argent Hippogryph
 	[47180] = {class =  19, subclass =   0}, -- Argent Warhorse
@@ -1894,6 +1893,7 @@ data.overrides_wrath = {
 	[198629] = {class =  19, subclass =   0}, -- X-51 Nether-Rocket
 	[49286] = {class =  19, subclass =   0}, -- X-51 Nether-Rocket X-TREME
 	[198628] = {class =  19, subclass =   0}, -- X-51 Nether-Rocket X-TREME
+	[54860] = {class =  19, subclass =   0}, -- X-53 Touring Rocket
 	
 
 -- Companions
