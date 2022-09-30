@@ -9,6 +9,7 @@ data.overrides_wrath = {
 -- Small list of some Vanilla and TBC items, but with override WotLK classifications
 ----------------------------------------------------------------------------------------
 
+
 -- Consumables: Mage Gems (no longer share cooldown with runes in WotLK)
 	[ 5514] = {class =   0, subclass =  96}, -- Mage: Mana Agate
 	[ 5513] = {class =   0, subclass =  96}, -- Mage: Mana Jade
@@ -16,9 +17,11 @@ data.overrides_wrath = {
 	[ 8008] = {class =   0, subclass =  96}, -- Mage: Mana Ruby
 	[22044] = {class =   0, subclass =  96}, -- Mage: Mana Emerald
 
+
 ----------------------------------------------------------------------------------------
 -- Everything below are items released in WotLK only
 ----------------------------------------------------------------------------------------
+
 
 -- Consumables: Potions
 	[43531] = {class =   0, subclass =   1}, -- Argent Healing Potion
@@ -297,7 +300,7 @@ data.overrides_wrath = {
 -- Consumables: (Alcoholic) Drinks
 	[39520] = {class =   0, subclass =  56}, -- Kungaloosh
 
--- Consumables: Permanent Enchantments
+-- Consumables: Permanent Enchancements
 	[50370] = {class =   0, subclass =   6}, -- Arcanum of Blissful Mending
 	[44152] = {class =   0, subclass =   6}, -- Arcanum of Blissful Mending
 	[44876] = {class =   0, subclass =   6}, -- Arcanum of Blissful Mending
@@ -708,6 +711,7 @@ data.overrides_wrath = {
 -- Consumables: Mage Gems (no longer share cooldown with runes in WotLK)
 	[36799] = {class =   0, subclass =  96}, -- Mage: Mana Opal
 
+
 -- Gems
 	[40052] = {class =   3, subclass =   0}, -- Wicked Monarch Topaz
 	[40162] = {class =   3, subclass =   0}, -- Accurate Ametrine
@@ -1058,11 +1062,13 @@ data.overrides_wrath = {
 	[40156] = {class =   3, subclass =   0}, -- Wicked Ametrine
 	[39960] = {class =   3, subclass =   0}, -- Wicked Huge Citrine
 
+
 -- Reagents
 	[37201] = {class =   5, subclass =   0}, -- Death Knight: Corpse Dust
 	[44615] = {class =   5, subclass =   0}, -- Priest: Devout Candle
 	[44605] = {class =   5, subclass =   0}, -- Druid: Wild Spineleaf
 	[44614] = {class =   5, subclass =   0}, -- Druid: Starleaf Seed
+
 
 -- Trade Goods: nil
 --	[] = {class =   7, subclass =   0}, --
@@ -1341,7 +1347,7 @@ data.overrides_wrath = {
 	[46054] = {class =   9, subclass =   4}, -- Journeyman Fishing - Fishing for Dummies
 	[46055] = {class =   9, subclass =   4}, -- Grand Master Fishing - Deep Sea Adventures
 
--- Zone tokens
+-- Zone tokens (don't show up in bags, as these loot as currency)
 	[40752] = {class =  12, subclass =  51}, -- Instance: Emblem of Heroism
 	[40753] = {class =  12, subclass =  51}, -- Instance: Emblem of Valor
 	[47241] = {class =  12, subclass =  51}, -- Instance: Emblem of Triumph
@@ -1405,7 +1411,9 @@ data.overrides_wrath = {
 -- Miscellaneous: Items which function as key or an event trigger
 --	[] = {class =  15, subclass =  31}, --
 
+
 -- Glyphs
+
 -- Glyphs: Death Knight
 	[43533] = {class =  16, subclass =   0}, -- Glyph of Anti-Magic Shell
 	[43826] = {class =  16, subclass =   0}, -- Glyph of Blood Strike
@@ -1440,6 +1448,7 @@ data.overrides_wrath = {
 	[43553] = {class =  16, subclass =   0}, -- Glyph of Unbreakable Armor
 	[45803] = {class =  16, subclass =   0}, -- Glyph of Unholy Blight
 	[43554] = {class =  16, subclass =   0}, -- Glyph of Vampiric Blood
+
 -- Glyphs: Druid
 	[43316] = {class =  16, subclass =   0}, -- Glyph of Aquatic Form
 	[45623] = {class =  16, subclass =   0}, -- Glyph of Barkskin
@@ -1478,6 +1487,7 @@ data.overrides_wrath = {
 	[43331] = {class =  16, subclass =   0}, -- Glyph of Unburdened Rebirth
 	[45602] = {class =  16, subclass =   0}, -- Glyph of Wild Growth
 	[40922] = {class =  16, subclass =   0}, -- Glyph of Wrath
+
 -- Glyphs: Hunter
 	[42897] = {class =  16, subclass =   0}, -- Glyph of Aimed Shot
 	[42898] = {class =  16, subclass =   0}, -- Glyph of Arcane Shot
@@ -1512,6 +1522,7 @@ data.overrides_wrath = {
 	[42915] = {class =  16, subclass =   0}, -- Glyph of Trueshot Aura
 	[42916] = {class =  16, subclass =   0}, -- Glyph of Volley
 	[42917] = {class =  16, subclass =   0}, -- Glyph of Wyvern Sting
+
 -- Glyphs: Mage
 	[45738] = {class =  16, subclass =   0}, -- Glyph of Arcane Barrage
 	[44955] = {class =  16, subclass =   0}, -- Glyph of Arcane Blast
@@ -1548,6 +1559,7 @@ data.overrides_wrath = {
 	[43364] = {class =  16, subclass =   0}, -- Glyph of Slow Fall
 	[43361] = {class =  16, subclass =   0}, -- Glyph of the Penguin
 	[42754] = {class =  16, subclass =   0}, -- Glyph of Water Elemental
+
 -- Glyphs: Paladin
 	[41101] = {class =  16, subclass =   0}, -- Glyph of Avenger's Shield
 	[41107] = {class =  16, subclass =   0}, -- Glyph of Avenging Wrath
@@ -1582,6 +1594,7 @@ data.overrides_wrath = {
 	[41096] = {class =  16, subclass =   0}, -- Glyph of Spiritual Attunement
 	[43369] = {class =  16, subclass =   0}, -- Glyph of the Wise
 	[41102] = {class =  16, subclass =   0}, -- Glyph of Turn Evil
+
 -- Glyphs: Priest
 	[42396] = {class =  16, subclass =   0}, -- Glyph of Circle of Healing
 	[42397] = {class =  16, subclass =   0}, -- Glyph of Dispel Magic
@@ -1616,6 +1629,7 @@ data.overrides_wrath = {
 	[43374] = {class =  16, subclass =   0}, -- Glyph of Shadowfiend
 	[42416] = {class =  16, subclass =   0}, -- Glyph of Smite
 	[42417] = {class =  16, subclass =   0}, -- Glyph of Spirit of Redemption
+
 -- Glyphs: Rogue
 	[42955] = {class =  16, subclass =   0}, -- Glyph of Ambush
 	[42956] = {class =  16, subclass =   0}, -- Glyph of Backstab
@@ -1651,6 +1665,7 @@ data.overrides_wrath = {
 	[45767] = {class =  16, subclass =   0}, -- Glyph of Tricks of the Trade
 	[43380] = {class =  16, subclass =   0}, -- Glyph of Vanish
 	[42971] = {class =  16, subclass =   0}, -- Glyph of Vigor
+
 -- Glyphs: Shaman
 	[43381] = {class =  16, subclass =   0}, -- Glyph of Astral Recall
 	[41517] = {class =  16, subclass =   0}, -- Glyph of Chain Heal
@@ -1687,6 +1702,7 @@ data.overrides_wrath = {
 	[43386] = {class =  16, subclass =   0}, -- Glyph of Water Shield
 	[43388] = {class =  16, subclass =   0}, -- Glyph of Water Walking
 	[41542] = {class =  16, subclass =   0}, -- Glyph of Windfury Weapon
+
 -- Glyphs: Warlock
 	[45781] = {class =  16, subclass =   0}, -- Glyph of Chaos Bolt
 	[42454] = {class =  16, subclass =   0}, -- Glyph of Conflagrate
@@ -1722,6 +1738,7 @@ data.overrides_wrath = {
 	[43389] = {class =  16, subclass =   0}, -- Glyph of Unending Breath
 	[42472] = {class =  16, subclass =   0}, -- Glyph of Unstable Affliction
 	[42473] = {class =  16, subclass =   0}, -- Glyph of Voidwalker
+
 -- Glyphs: Warrior
 	[43420] = {class =  16, subclass =   0}, -- Glyph of Barbaric Insults
 	[43395] = {class =  16, subclass =   0}, -- Glyph of Battle

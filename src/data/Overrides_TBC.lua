@@ -426,7 +426,7 @@ data.overrides_tbc = {
 	[37898] = {class =   0, subclass =  56}, -- Wild Winter Pilsner
 	[32913] = {class =   0, subclass =  56}, -- zzOld - Brewfest Drink A
 
--- Consumables: Permanent Enchantments
+-- Consumables: Permanent Enhancements
 	[23764] = {class =   0, subclass =   6}, -- Adamantite Scope
 	[33185] = {class =   0, subclass =   6}, -- Adamantite Weapon Chain
 	[29488] = {class =   0, subclass =   6}, -- Arcane Armor Kit
@@ -562,6 +562,7 @@ data.overrides_tbc = {
 	[23576] = {class =   0, subclass =  94}, -- Greater Ward of Shielding
 	[23559] = {class =   0, subclass =  94}, -- Lesser Rune of Warding
 	[23575] = {class =   0, subclass =  94}, -- Lesser Ward of Shielding
+
 
 -- Gems
 	[30565] = {class =   3, subclass =   0}, -- Assassin's Fire Opal
@@ -816,9 +817,11 @@ data.overrides_tbc = {
 	[27774] = {class =   3, subclass =   0}, -- zzOLDMighty Blood Garnet
 	[27811] = {class =   3, subclass =   0}, -- zzOLDMighty Blood Garnet
 
+
 -- Reagents
 	[22147] = {class =   5, subclass =   0}, -- Druid: Flintweed Seed
 	[22148] = {class =   5, subclass =   0}, -- Druid: Wild Quillvine
+
 
 -- Trade Goods: nil
 	[21882] = {class =   7, subclass = nil}, -- Soul Essence
@@ -931,7 +934,6 @@ data.overrides_tbc = {
 	[27429] = {class =   7, subclass =   8}, -- Zangarian Sporefish
 	[33857] = {class =   7, subclass =   8}, -- Crate of Meat
 	[33844] = {class =   7, subclass =   8}, -- Barrel of Fish
-	
 
 -- Trade Goods: Herbs
 -- Flame Cap, Fel Blossom and Nightmare Seed are listed under Runes (shared cooldown)
@@ -1023,12 +1025,14 @@ data.overrides_tbc = {
 	[23438] = {class =   7, subclass =  94}, -- Star of Elune
 	[23437] = {class =   7, subclass =  94}, -- Talasite
 
+
 -- Recipees
 	[22012] = {class =   9, subclass =   4}, -- Master First Aid - Doctor in the House
 	[21992] = {class =   9, subclass =   4}, -- Manual: Netherweave Bandage
 	[21993] = {class =   9, subclass =   4}, -- Manual: Heavy Netherweave Bandage
 	[27532] = {class =   9, subclass =   4}, -- Master Fishing - The Art of Angling
 	[27736] = {class =   9, subclass =   7}, -- Master Cookbook
+
 
 -- Zone tokens
 	[24579] = {class =  12, subclass =  31}, -- Honor Hold: Mark of Honor Hold
@@ -1083,6 +1087,7 @@ data.overrides_tbc = {
 	[32897] = {class =  12, subclass =  51}, -- Instance: Mark of the Illidari	
 	[28558] = {class =  12, subclass =  52}, -- Auchindoun: Spirit Shard	
 	[29024] = {class =  12, subclass =  71}, -- Batteground: Eye of the Storm Mark of Honor
+
 
 -- Keys (these are handled by the key ring anyway)
 	[30633] = {class =  13, subclass =  21}, -- Auchenai Key
@@ -1140,7 +1145,8 @@ data.overrides_tbc = {
 	[31655] = {class =  13, subclass =  22}, -- Veil Skith Prison Key
 	[25604] = {class =  13, subclass =  22}, -- Warmaul Prison Key
 	[31755] = {class =  13, subclass =  22}, -- Wyvern Cage Key
-	
+
+
 -- Miscellaneous: Profession trade tools
 	[32664] = {class =  15, subclass =   0}, -- Runed Fel Iron Rod
 	[32665] = {class =  15, subclass =   0}, -- Runed Adamantite Rod
@@ -1156,6 +1162,7 @@ data.overrides_tbc = {
 	[24140] = {class =  15, subclass =  21}, -- Blackened Urn
 	[32649] = {class =  15, subclass =  21}, -- Medallion of Karabor
 	[32757] = {class =  15, subclass =  21}, -- Blessed Medallion of Karabor
+
 
 -- Mounts
 	[33809] = {class =  19, subclass =   0}, -- Amani War Bear
@@ -1263,6 +1270,7 @@ data.overrides_tbc = {
 	[35225] = {class =  19, subclass =   0}, -- X-51 Nether-Rocket
 	[35226] = {class =  19, subclass =   0}, -- X-51 Nether-Rocket X-TREME
 	[29225] = {class =  19, subclass =   0}, -- zzoldSwift Warstrider
+
 
 -- Companions
 	[34535] = {class =  20, subclass =   0}, -- Azure Whelpling
