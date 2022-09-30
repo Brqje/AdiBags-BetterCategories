@@ -1277,6 +1277,7 @@ data.items = {
 	[11178] = {class =   7, subclass =  12}, -- Large Radiant Shard
 	[11177] = {class =   7, subclass =  12}, -- Small Radiant Shard
 	[20725] = {class =   7, subclass =  12}, -- Nexus Crystal
+	[16203] = {class =   7, subclass =  12}, -- Greater Eternal Essence
 
 -- Trade Goods: Gems
 	[  774] = {class =   7, subclass =  90}, -- Malachite
@@ -1291,6 +1292,7 @@ data.items = {
 	[ 7909] = {class =   7, subclass =  90}, -- Aquamarine
 	[ 7910] = {class =   7, subclass =  90}, -- Star Ruby
 	[ 7971] = {class =   7, subclass =  90}, -- Black Pearl
+	[11382] = {class =   7, subclass =  90}, -- Blood of the Mountain
 	[12361] = {class =   7, subclass =  90}, -- Blue Sapphire
 	[12363] = {class =   7, subclass =  90}, -- Arcane Crystal
 	[12364] = {class =   7, subclass =  90}, -- Huge Emerald
@@ -1298,6 +1300,7 @@ data.items = {
 	[12800] = {class =   7, subclass =  90}, -- Azerothian Diamond
 	[13926] = {class =   7, subclass =  90}, -- Golden Pearl
 	[19774] = {class =   7, subclass =  90}, -- Souldarite
+
 
 -- Trade Goods: Rogue Poison Reagents
 	[ 2895] = {class =   7, subclass =  91}, -- Creeping Pain (?)

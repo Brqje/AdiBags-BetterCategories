@@ -73,6 +73,27 @@ data.overrides_tbc = {
 -- Consumables: Quest rewards which act as Guardian Elixirs (TBC classification)
 	[ 1177] = {class =   0, subclass =  22}, -- Oil of Olaf
 
+-- Trade Goods: Jewelcrafting (TBC classification)
+	[  774] = {class =   7, subclass =  94}, -- Malachite
+	[  818] = {class =   7, subclass =  94}, -- Tigerseye
+	[ 1206] = {class =   7, subclass =  94}, -- Moss Agate
+	[ 1210] = {class =   7, subclass =  94}, -- Shadowgem
+	[ 1529] = {class =   7, subclass =  94}, -- Jade
+	[ 1705] = {class =   7, subclass =  94}, -- Lesser Moonstone
+	[ 3864] = {class =   7, subclass =  94}, -- Citrine
+	[ 5498] = {class =   7, subclass =  94}, -- Small Lustrous Pearl
+	[ 5500] = {class =   7, subclass =  94}, -- Iridescent Pearl
+	[ 7909] = {class =   7, subclass =  94}, -- Aquamarine
+	[ 7910] = {class =   7, subclass =  94}, -- Star Ruby
+	[ 7971] = {class =   7, subclass =  94}, -- Black Pearl
+	[11382] = {class =   7, subclass =  94}, -- Blood of the Mountain
+	[12361] = {class =   7, subclass =  94}, -- Blue Sapphire
+	[12363] = {class =   7, subclass =  94}, -- Arcane Crystal
+	[12364] = {class =   7, subclass =  94}, -- Huge Emerald
+	[12799] = {class =   7, subclass =  94}, -- Large Opal
+	[12800] = {class =   7, subclass =  94}, -- Azerothian Diamond
+	[13926] = {class =   7, subclass =  94}, -- Golden Pearl
+	[19774] = {class =   7, subclass =  94}, -- Souldarite
 
 
 ----------------------------------------------------------------------------------------
@@ -542,6 +563,259 @@ data.overrides_tbc = {
 	[23559] = {class =   0, subclass =  94}, -- Lesser Rune of Warding
 	[23575] = {class =   0, subclass =  94}, -- Lesser Ward of Shielding
 
+-- Gems
+	[30565] = {class =   3, subclass =   0}, -- Assassin's Fire Opal
+	[31863] = {class =   3, subclass =   0}, -- Balanced Nightseye
+	[31862] = {class =   3, subclass =   0}, -- Balanced Shadow Draenite
+	[32213] = {class =   3, subclass =   0}, -- Balanced Shadowsong Amethyst
+	[27809] = {class =   3, subclass =   0}, -- Barbed Deep Peridot
+	[27786] = {class =   3, subclass =   0}, -- Barbed Deep Peridot
+	[30601] = {class =   3, subclass =   0}, -- Beaming Fire Opal
+	[30552] = {class =   3, subclass =   0}, -- Blessed Tanzanite
+	[33140] = {class =   3, subclass =   0}, -- Blood of Amber
+	[23234] = {class =   3, subclass =   0}, -- Blue Bryanite of Agility
+	[23095] = {class =   3, subclass =   0}, -- Bold Blood Garnet
+	[32193] = {class =   3, subclass =   0}, -- Bold Crimson Spinel
+	[24027] = {class =   3, subclass =   0}, -- Bold Living Ruby
+	[28362] = {class =   3, subclass =   0}, -- Bold Ornate Ruby
+	[38545] = {class =   3, subclass =   0}, -- Bold Ornate Ruby
+	[28458] = {class =   3, subclass =   0}, -- Bold Tourmaline
+	[25897] = {class =   3, subclass =   0}, -- Bracing Earthstorm Diamond
+	[27863] = {class =   3, subclass =   0}, -- Brian's Bryanite of Extended Cost
+	[27864] = {class =   3, subclass =   0}, -- Brian's Bryanite of Extended Cost Copying
+	[28595] = {class =   3, subclass =   0}, -- Bright Blood Garnet
+	[32197] = {class =   3, subclass =   0}, -- Bright Crimson Spinel
+	[35487] = {class =   3, subclass =   0}, -- Bright Crimson Spinel
+	[24031] = {class =   3, subclass =   0}, -- Bright Living Ruby
+	[28462] = {class =   3, subclass =   0}, -- Bright Tourmaline
+	[28466] = {class =   3, subclass =   0}, -- Brilliant Amber
+	[33139] = {class =   3, subclass =   0}, -- Brilliant Bladestone
+	[24047] = {class =   3, subclass =   0}, -- Brilliant Dawnstone
+	[23113] = {class =   3, subclass =   0}, -- Brilliant Golden Draenite
+	[32204] = {class =   3, subclass =   0}, -- Brilliant Lionseye
+	[25899] = {class =   3, subclass =   0}, -- Brutal Earthstorm Diamond
+	[30574] = {class =   3, subclass =   0}, -- Brutal Tanzanite
+	[30587] = {class =   3, subclass =   0}, -- Champion's Fire Opal
+	[34220] = {class =   3, subclass =   0}, -- Chaotic Skyfire Diamond
+	[34256] = {class =   3, subclass =   0}, -- Charmed Amani Jewel
+	[33131] = {class =   3, subclass =   0}, -- Crimson Sun
+	[30589] = {class =   3, subclass =   0}, -- Dazzling Chrysoprase
+	[23106] = {class =   3, subclass =   0}, -- Dazzling Deep Peridot
+	[32225] = {class =   3, subclass =   0}, -- Dazzling Seaspray Emerald
+	[24065] = {class =   3, subclass =   0}, -- Dazzling Talasite
+	[30582] = {class =   3, subclass =   0}, -- Deadly Fire Opal
+	[30566] = {class =   3, subclass =   0}, -- Defender's Tanzanite
+	[23097] = {class =   3, subclass =   0}, -- Delicate Blood Garnet
+	[32194] = {class =   3, subclass =   0}, -- Delicate Crimson Spinel
+	[33132] = {class =   3, subclass =   0}, -- Delicate Fire Ruby
+	[24028] = {class =   3, subclass =   0}, -- Delicate Living Ruby
+	[28459] = {class =   3, subclass =   0}, -- Delicate Tourmaline
+	[25890] = {class =   3, subclass =   0}, -- Destructive Skyfire Diamond
+	[30598] = {class =   3, subclass =   0}, -- Don Amancio's Heart
+	[33133] = {class =   3, subclass =   0}, -- Don Julio's Heart
+	[30571] = {class =   3, subclass =   0}, -- Don Rodrigo's Heart
+	[30581] = {class =   3, subclass =   0}, -- Durable Fire Opal
+	[30594] = {class =   3, subclass =   0}, -- Effulgent Chrysoprase
+	[35503] = {class =   3, subclass =   0}, -- Ember Skyfire Diamond
+	[30591] = {class =   3, subclass =   0}, -- Empowered Fire Opal
+	[30590] = {class =   3, subclass =   0}, -- Enduring Chrysoprase
+	[23105] = {class =   3, subclass =   0}, -- Enduring Deep Peridot
+	[32223] = {class =   3, subclass =   0}, -- Enduring Seaspray Emerald
+	[24062] = {class =   3, subclass =   0}, -- Enduring Talasite
+	[25895] = {class =   3, subclass =   0}, -- Enigmatic Skyfire Diamond
+	[30584] = {class =   3, subclass =   0}, -- Enscribed Fire Opal
+	[30559] = {class =   3, subclass =   0}, -- Etched Fire Opal
+	[35501] = {class =   3, subclass =   0}, -- Eternal Earthstorm Diamond
+	[34831] = {class =   3, subclass =   0}, -- Eye of the Sea
+	[33144] = {class =   3, subclass =   0}, -- Facet of Eternity
+	[33135] = {class =   3, subclass =   0}, -- Falling Star
+	[32199] = {class =   3, subclass =   0}, -- Flashing Crimson Spinel
+	[24036] = {class =   3, subclass =   0}, -- Flashing Living Ruby
+	[30600] = {class =   3, subclass =   0}, -- Fluorescent Tanzanite
+	[33633] = {class =   3, subclass =   0}, -- Forceful Earthstorm Diamond
+	[35759] = {class =   3, subclass =   0}, -- Forceful Seaspray Emerald
+	[35318] = {class =   3, subclass =   0}, -- Forceful Talasite
+	[28469] = {class =   3, subclass =   0}, -- Gleaming Amber
+	[24050] = {class =   3, subclass =   0}, -- Gleaming Dawnstone
+	[23114] = {class =   3, subclass =   0}, -- Gleaming Golden Draenite
+	[32207] = {class =   3, subclass =   0}, -- Gleaming Lionseye
+	[28120] = {class =   3, subclass =   0}, -- Gleaming Ornate Dawnstone
+	[38546] = {class =   3, subclass =   0}, -- Gleaming Ornate Dawnstone
+	[30558] = {class =   3, subclass =   0}, -- Glimmering Fire Opal
+	[30556] = {class =   3, subclass =   0}, -- Glinting Fire Opal
+	[23100] = {class =   3, subclass =   0}, -- Glinting Flame Spessarite
+	[24061] = {class =   3, subclass =   0}, -- Glinting Noble Topaz
+	[32220] = {class =   3, subclass =   0}, -- Glinting Pyrestone
+	[30585] = {class =   3, subclass =   0}, -- Glistening Fire Opal
+	[24056] = {class =   3, subclass =   0}, -- Glowing Nightseye
+	[23108] = {class =   3, subclass =   0}, -- Glowing Shadow Draenite
+	[32215] = {class =   3, subclass =   0}, -- Glowing Shadowsong Amethyst
+	[30555] = {class =   3, subclass =   0}, -- Glowing Tanzanite
+	[33141] = {class =   3, subclass =   0}, -- Great Bladestone
+	[31861] = {class =   3, subclass =   0}, -- Great Dawnstone
+	[31860] = {class =   3, subclass =   0}, -- Great Golden Draenite
+	[32210] = {class =   3, subclass =   0}, -- Great Lionseye
+	[34627] = {class =   3, subclass =   0}, -- Heavy Tonk Armor
+	[32641] = {class =   3, subclass =   0}, -- Imbued Unstable Diamond
+	[30572] = {class =   3, subclass =   0}, -- Imperial Tanzanite
+	[31116] = {class =   3, subclass =   0}, -- Infused Amethyst
+	[30551] = {class =   3, subclass =   0}, -- Infused Fire Opal
+	[31865] = {class =   3, subclass =   0}, -- Infused Nightseye
+	[31864] = {class =   3, subclass =   0}, -- Infused Shadow Draenite
+	[32214] = {class =   3, subclass =   0}, -- Infused Shadowsong Amethyst
+	[23098] = {class =   3, subclass =   0}, -- Inscribed Flame Spessarite
+	[24058] = {class =   3, subclass =   0}, -- Inscribed Noble Topaz
+	[38547] = {class =   3, subclass =   0}, -- Inscribed Ornate Topaz
+	[28363] = {class =   3, subclass =   0}, -- Inscribed Ornate Topaz
+	[32217] = {class =   3, subclass =   0}, -- Inscribed Pyrestone
+	[25901] = {class =   3, subclass =   0}, -- Insightful Earthstorm Diamond
+	[30593] = {class =   3, subclass =   0}, -- Iridescent Fire Opal
+	[30602] = {class =   3, subclass =   0}, -- Jagged Chrysoprase
+	[23104] = {class =   3, subclass =   0}, -- Jagged Deep Peridot
+	[32226] = {class =   3, subclass =   0}, -- Jagged Seaspray Emerald
+	[24067] = {class =   3, subclass =   0}, -- Jagged Talasite
+	[33134] = {class =   3, subclass =   0}, -- Kailee's Rose
+	[30606] = {class =   3, subclass =   0}, -- Lambent Chrysoprase
+	[30547] = {class =   3, subclass =   0}, -- Luminous Fire Opal
+	[23099] = {class =   3, subclass =   0}, -- Luminous Flame Spessarite
+	[24060] = {class =   3, subclass =   0}, -- Luminous Noble Topaz
+	[32219] = {class =   3, subclass =   0}, -- Luminous Pyrestone
+	[23121] = {class =   3, subclass =   0}, -- Lustrous Azure Moonstone
+	[32202] = {class =   3, subclass =   0}, -- Lustrous Empyrean Sapphire
+	[24037] = {class =   3, subclass =   0}, -- Lustrous Star of Elune
+	[28465] = {class =   3, subclass =   0}, -- Lustrous Zircon
+	[28361] = {class =   3, subclass =   0}, -- Mighty Blood Garnet
+	[28360] = {class =   3, subclass =   0}, -- Mighty Blood Garnet
+	[30573] = {class =   3, subclass =   0}, -- Mysterious Fire Opal
+	[33138] = {class =   3, subclass =   0}, -- Mystic Bladestone
+	[24053] = {class =   3, subclass =   0}, -- Mystic Dawnstone
+	[32209] = {class =   3, subclass =   0}, -- Mystic Lionseye
+	[25893] = {class =   3, subclass =   0}, -- Mystical Skyfire Diamond
+	[30575] = {class =   3, subclass =   0}, -- Nimble Fire Opal
+	[27820] = {class =   3, subclass =   0}, -- Notched Deep Peridot
+	[27785] = {class =   3, subclass =   0}, -- Notched Deep Peridot
+	[30548] = {class =   3, subclass =   0}, -- Polished Chrysoprase
+	[30588] = {class =   3, subclass =   0}, -- Potent Fire Opal
+	[23101] = {class =   3, subclass =   0}, -- Potent Flame Spessarite
+	[24059] = {class =   3, subclass =   0}, -- Potent Noble Topaz
+	[38548] = {class =   3, subclass =   0}, -- Potent Ornate Topaz
+	[28123] = {class =   3, subclass =   0}, -- Potent Ornate Topaz
+	[32218] = {class =   3, subclass =   0}, -- Potent Pyrestone
+	[32640] = {class =   3, subclass =   0}, -- Potent Unstable Diamond
+	[25896] = {class =   3, subclass =   0}, -- Powerful Earthstorm Diamond
+	[22460] = {class =   3, subclass =   0}, -- Prismatic Sphere
+	[30553] = {class =   3, subclass =   0}, -- Pristine Fire Opal
+	[31118] = {class =   3, subclass =   0}, -- Pulsing Amethyst
+	[32833] = {class =   3, subclass =   0}, -- Purified Jaggal Pearl
+	[32836] = {class =   3, subclass =   0}, -- Purified Shadow Pearl
+	[37503] = {class =   3, subclass =   0}, -- Purified Shadowsong Amethyst
+	[35315] = {class =   3, subclass =   0}, -- Quick Dawnstone
+	[35761] = {class =   3, subclass =   0}, -- Quick Lionseye
+	[30608] = {class =   3, subclass =   0}, -- Radiant Chrysoprase
+	[23103] = {class =   3, subclass =   0}, -- Radiant Deep Peridot
+	[32224] = {class =   3, subclass =   0}, -- Radiant Seaspray Emerald
+	[32735] = {class =   3, subclass =   0}, -- Radiant Spencerite
+	[24066] = {class =   3, subclass =   0}, -- Radiant Talasite
+	[35316] = {class =   3, subclass =   0}, -- Reckless Noble Topaz
+	[35760] = {class =   3, subclass =   0}, -- Reckless Pyrestone
+	[23233] = {class =   3, subclass =   0}, -- Red Bryanite of Strength stuff
+	[35707] = {class =   3, subclass =   0}, -- Regal Nightseye
+	[30563] = {class =   3, subclass =   0}, -- Regal Tanzanite
+	[32409] = {class =   3, subclass =   0}, -- Relentless Earthstorm Diamond
+	[30604] = {class =   3, subclass =   0}, -- Resplendent Fire Opal
+	[28468] = {class =   3, subclass =   0}, -- Rigid Amber
+	[33142] = {class =   3, subclass =   0}, -- Rigid Bladestone
+	[24051] = {class =   3, subclass =   0}, -- Rigid Dawnstone
+	[23116] = {class =   3, subclass =   0}, -- Rigid Golden Draenite
+	[32206] = {class =   3, subclass =   0}, -- Rigid Lionseye
+	[24057] = {class =   3, subclass =   0}, -- Royal Nightseye
+	[23109] = {class =   3, subclass =   0}, -- Royal Shadow Draenite
+	[32216] = {class =   3, subclass =   0}, -- Royal Shadowsong Amethyst
+	[30603] = {class =   3, subclass =   0}, -- Royal Tanzanite
+	[30560] = {class =   3, subclass =   0}, -- Rune Covered Chrysoprase
+	[23096] = {class =   3, subclass =   0}, -- Runed Blood Garnet
+	[32196] = {class =   3, subclass =   0}, -- Runed Crimson Spinel
+	[35488] = {class =   3, subclass =   0}, -- Runed Crimson Spinel
+	[24030] = {class =   3, subclass =   0}, -- Runed Living Ruby
+	[28118] = {class =   3, subclass =   0}, -- Runed Ornate Ruby
+	[38549] = {class =   3, subclass =   0}, -- Runed Ornate Ruby
+	[28461] = {class =   3, subclass =   0}, -- Runed Tourmaline
+	[30586] = {class =   3, subclass =   0}, -- Seer's Chrysoprase
+	[24055] = {class =   3, subclass =   0}, -- Shifting Nightseye
+	[23110] = {class =   3, subclass =   0}, -- Shifting Shadow Draenite
+	[32212] = {class =   3, subclass =   0}, -- Shifting Shadowsong Amethyst
+	[30549] = {class =   3, subclass =   0}, -- Shifting Tanzanite
+	[30564] = {class =   3, subclass =   0}, -- Shining Fire Opal
+	[28467] = {class =   3, subclass =   0}, -- Smooth Amber
+	[24048] = {class =   3, subclass =   0}, -- Smooth Dawnstone
+	[28290] = {class =   3, subclass =   0}, -- Smooth Golden Draenite
+	[32205] = {class =   3, subclass =   0}, -- Smooth Lionseye
+	[28119] = {class =   3, subclass =   0}, -- Smooth Ornate Dawnstone
+	[38550] = {class =   3, subclass =   0}, -- Smooth Ornate Dawnstone
+	[23118] = {class =   3, subclass =   0}, -- Solid Azure Moonstone
+	[32200] = {class =   3, subclass =   0}, -- Solid Empyrean Sapphire
+	[24033] = {class =   3, subclass =   0}, -- Solid Star of Elune
+	[28463] = {class =   3, subclass =   0}, -- Solid Zircon
+	[31117] = {class =   3, subclass =   0}, -- Soothing Amethyst
+	[24054] = {class =   3, subclass =   0}, -- Sovereign Nightseye
+	[23111] = {class =   3, subclass =   0}, -- Sovereign Shadow Draenite
+	[32211] = {class =   3, subclass =   0}, -- Sovereign Shadowsong Amethyst
+	[30546] = {class =   3, subclass =   0}, -- Sovereign Tanzanite
+	[23119] = {class =   3, subclass =   0}, -- Sparkling Azure Moonstone
+	[32201] = {class =   3, subclass =   0}, -- Sparkling Empyrean Sapphire
+	[33137] = {class =   3, subclass =   0}, -- Sparkling Falling Star
+	[24035] = {class =   3, subclass =   0}, -- Sparkling Star of Elune
+	[28464] = {class =   3, subclass =   0}, -- Sparkling Zircon
+	[30607] = {class =   3, subclass =   0}, -- Splendid Fire Opal
+	[30554] = {class =   3, subclass =   0}, -- Stalwart Fire Opal
+	[27812] = {class =   3, subclass =   0}, -- Stark Blood Garnet
+	[27777] = {class =   3, subclass =   0}, -- Stark Blood Garnet
+	[30592] = {class =   3, subclass =   0}, -- Steady Chrysoprase
+	[35758] = {class =   3, subclass =   0}, -- Steady Seaspray Emerald
+	[33782] = {class =   3, subclass =   0}, -- Steady Talasite
+	[33143] = {class =   3, subclass =   0}, -- Stone of Blades
+	[23120] = {class =   3, subclass =   0}, -- Stormy Azure Moonstone
+	[32203] = {class =   3, subclass =   0}, -- Stormy Empyrean Sapphire
+	[24039] = {class =   3, subclass =   0}, -- Stormy Star of Elune
+	[27679] = {class =   3, subclass =   0}, -- Sublime Mystic Dawnstone
+	[32198] = {class =   3, subclass =   0}, -- Subtle Crimson Spinel
+	[24032] = {class =   3, subclass =   0}, -- Subtle Living Ruby
+	[30550] = {class =   3, subclass =   0}, -- Sundered Chrysoprase
+	[25894] = {class =   3, subclass =   0}, -- Swift Skyfire Diamond
+	[28557] = {class =   3, subclass =   0}, -- Swift Starfire Diamond
+	[28556] = {class =   3, subclass =   0}, -- Swift Windfire Diamond
+	[23094] = {class =   3, subclass =   0}, -- Teardrop Blood Garnet
+	[32195] = {class =   3, subclass =   0}, -- Teardrop Crimson Spinel
+	[35489] = {class =   3, subclass =   0}, -- Teardrop Crimson Spinel
+	[24029] = {class =   3, subclass =   0}, -- Teardrop Living Ruby
+	[28460] = {class =   3, subclass =   0}, -- Teardrop Tourmaline
+	[25898] = {class =   3, subclass =   0}, -- Tenacious Earthstorm Diamond
+	[28470] = {class =   3, subclass =   0}, -- Thick Amber
+	[24052] = {class =   3, subclass =   0}, -- Thick Dawnstone
+	[23115] = {class =   3, subclass =   0}, -- Thick Golden Draenite
+	[32208] = {class =   3, subclass =   0}, -- Thick Lionseye
+	[32410] = {class =   3, subclass =   0}, -- Thundering Skyfire Diamond
+	[30583] = {class =   3, subclass =   0}, -- Timeless Chrysoprase
+	[32634] = {class =   3, subclass =   0}, -- Unstable Amethyst
+	[32637] = {class =   3, subclass =   0}, -- Unstable Citrine
+	[32635] = {class =   3, subclass =   0}, -- Unstable Peridot
+	[32636] = {class =   3, subclass =   0}, -- Unstable Sapphire
+	[32639] = {class =   3, subclass =   0}, -- Unstable Talasite
+	[32638] = {class =   3, subclass =   0}, -- Unstable Topaz
+	[31866] = {class =   3, subclass =   0}, -- Veiled Flame Spessarite
+	[31867] = {class =   3, subclass =   0}, -- Veiled Noble Topaz
+	[32221] = {class =   3, subclass =   0}, -- Veiled Pyrestone
+	[30605] = {class =   3, subclass =   0}, -- Vivid Chrysoprase
+	[22459] = {class =   3, subclass =   0}, -- Void Sphere
+	[31869] = {class =   3, subclass =   0}, -- Wicked Flame Spessarite
+	[31868] = {class =   3, subclass =   0}, -- Wicked Noble Topaz
+	[32222] = {class =   3, subclass =   0}, -- Wicked Pyrestone
+	[23235] = {class =   3, subclass =   0}, -- Yellow Bryanite of Stamina
+	[28117] = {class =   3, subclass =   0}, -- zzOLDBold Ornate Ruby
+	[28122] = {class =   3, subclass =   0}, -- zzOLDEnscribed Ornate Topaz
+	[27774] = {class =   3, subclass =   0}, -- zzOLDMighty Blood Garnet
+	[27811] = {class =   3, subclass =   0}, -- zzOLDMighty Blood Garnet
+
 -- Reagents
 	[22147] = {class =   5, subclass =   0}, -- Druid: Flintweed Seed
 	[22148] = {class =   5, subclass =   0}, -- Druid: Wild Quillvine
@@ -681,301 +955,6 @@ data.overrides_tbc = {
 	[22449] = {class =   7, subclass =  12}, -- Large Prismatic Shard
 	[22450] = {class =   7, subclass =  12}, -- Void Crystal
 
--- Trade Goods: Gems
-	[24243] = {class =   7, subclass =  90}, -- Adamantite Powder
-	[20817] = {class =   7, subclass =  90}, -- Bronze Setting
-	[20952] = {class =   7, subclass =  90}, -- Cut Agate
-	[20962] = {class =   7, subclass =  90}, -- Cut Aquamarine
-	[21786] = {class =   7, subclass =  90}, -- Cut Azerothian Diamond
-	[20957] = {class =   7, subclass =  90}, -- Cut Citrine
-	[21785] = {class =   7, subclass =  90}, -- Cut Emerald
-	[20953] = {class =   7, subclass =  90}, -- Cut Jade
-	[20819] = {class =   7, subclass =  90}, -- Cut Malachite
-	[20829] = {class =   7, subclass =  90}, -- Cut Moonstone
-	[21773] = {class =   7, subclass =  90}, -- Cut Opal
-	[20965] = {class =   7, subclass =  90}, -- Cut Ruby
-	[21772] = {class =   7, subclass =  90}, -- Cut Sapphire
-	[20825] = {class =   7, subclass =  90}, -- Cut Shadowgem
-	[20822] = {class =   7, subclass =  90}, -- Cut Tigerseye
-	[20816] = {class =   7, subclass =  90}, -- Delicate Copper Wire
-	[31079] = {class =   7, subclass =  90}, -- Mercurial Adamantite
-	[23236] = {class =   7, subclass =  90}, -- Meta Bryanite of Mana
-	[20963] = {class =   7, subclass =  90}, -- Mithril Filigree
-	[20824] = {class =   7, subclass =  90}, -- Simple Grinder
-	[23157] = {class =   7, subclass =  90}, -- Thick Citrine
-	[21752] = {class =   7, subclass =  90}, -- Thorium Setting
-	[23234] = {class =   7, subclass =  90}, -- Blue Bryanite of Agility
-	[27863] = {class =   7, subclass =  90}, -- Brian's Bryanite of Extended Cost
-	[27864] = {class =   7, subclass =  90}, -- Brian's Bryanite of Extended Cost Copying
-	[23235] = {class =   7, subclass =  90}, -- Yellow Bryanite of Stamina
-	[23233] = {class =   7, subclass =  90}, -- Red Bryanite of Strength stuff
-	[24478] = {class =   7, subclass =  90}, -- Jaggal Pearl
-	[24479] = {class =   7, subclass =  90}, -- Shadow Pearl
-	[23158] = {class =   7, subclass =  90}, -- Solid Aquamarine
-	[23159] = {class =   7, subclass =  90}, -- Sparkling Aquamarine
-	[28458] = {class =   7, subclass =  90}, -- Bold Tourmaline
-	[28462] = {class =   7, subclass =  90}, -- Bright Tourmaline
-	[28466] = {class =   7, subclass =  90}, -- Brilliant Amber
-	[28459] = {class =   7, subclass =  90}, -- Delicate Tourmaline
-	[28469] = {class =   7, subclass =  90}, -- Gleaming Amber
-	[28465] = {class =   7, subclass =  90}, -- Lustrous Zircon
-	[28468] = {class =   7, subclass =  90}, -- Rigid Amber
-	[28461] = {class =   7, subclass =  90}, -- Runed Tourmaline
-	[28467] = {class =   7, subclass =  90}, -- Smooth Amber
-	[28463] = {class =   7, subclass =  90}, -- Solid Zircon
-	[28464] = {class =   7, subclass =  90}, -- Sparkling Zircon
-	[28460] = {class =   7, subclass =  90}, -- Teardrop Tourmaline
-	[28470] = {class =   7, subclass =  90}, -- Thick Amber
-	[31862] = {class =   7, subclass =  90}, -- Balanced Shadow Draenite
-	[27809] = {class =   7, subclass =  90}, -- Barbed Deep Peridot
-	[27786] = {class =   7, subclass =  90}, -- Barbed Deep Peridot
-	[23095] = {class =   7, subclass =  90}, -- Bold Blood Garnet
-	[28362] = {class =   7, subclass =  90}, -- Bold Ornate Ruby
-	[38545] = {class =   7, subclass =  90}, -- Bold Ornate Ruby
-	[28595] = {class =   7, subclass =  90}, -- Bright Blood Garnet
-	[23113] = {class =   7, subclass =  90}, -- Brilliant Golden Draenite
-	[23106] = {class =   7, subclass =  90}, -- Dazzling Deep Peridot
-	[23097] = {class =   7, subclass =  90}, -- Delicate Blood Garnet
-	[30598] = {class =   7, subclass =  90}, -- Don Amancio's Heart
-	[30571] = {class =   7, subclass =  90}, -- Don Rodrigo's Heart
-	[23105] = {class =   7, subclass =  90}, -- Enduring Deep Peridot
-	[23114] = {class =   7, subclass =  90}, -- Gleaming Golden Draenite
-	[38546] = {class =   7, subclass =  90}, -- Gleaming Ornate Dawnstone
-	[28120] = {class =   7, subclass =  90}, -- Gleaming Ornate Dawnstone
-	[23100] = {class =   7, subclass =  90}, -- Glinting Flame Spessarite
-	[23108] = {class =   7, subclass =  90}, -- Glowing Shadow Draenite
-	[31860] = {class =   7, subclass =  90}, -- Great Golden Draenite
-	[31864] = {class =   7, subclass =  90}, -- Infused Shadow Draenite
-	[23098] = {class =   7, subclass =  90}, -- Inscribed Flame Spessarite
-	[38547] = {class =   7, subclass =  90}, -- Inscribed Ornate Topaz
-	[28363] = {class =   7, subclass =  90}, -- Inscribed Ornate Topaz
-	[23104] = {class =   7, subclass =  90}, -- Jagged Deep Peridot
-	[23099] = {class =   7, subclass =  90}, -- Luminous Flame Spessarite
-	[23121] = {class =   7, subclass =  90}, -- Lustrous Azure Moonstone
-	[28360] = {class =   7, subclass =  90}, -- Mighty Blood Garnet
-	[28361] = {class =   7, subclass =  90}, -- Mighty Blood Garnet
-	[27785] = {class =   7, subclass =  90}, -- Notched Deep Peridot
-	[27820] = {class =   7, subclass =  90}, -- Notched Deep Peridot
-	[23101] = {class =   7, subclass =  90}, -- Potent Flame Spessarite
-	[28123] = {class =   7, subclass =  90}, -- Potent Ornate Topaz
-	[38548] = {class =   7, subclass =  90}, -- Potent Ornate Topaz
-	[32833] = {class =   7, subclass =  90}, -- Purified Jaggal Pearl
-	[32836] = {class =   7, subclass =  90}, -- Purified Shadow Pearl
-	[23103] = {class =   7, subclass =  90}, -- Radiant Deep Peridot
-	[23116] = {class =   7, subclass =  90}, -- Rigid Golden Draenite
-	[23109] = {class =   7, subclass =  90}, -- Royal Shadow Draenite
-	[23096] = {class =   7, subclass =  90}, -- Runed Blood Garnet
-	[28118] = {class =   7, subclass =  90}, -- Runed Ornate Ruby
-	[38549] = {class =   7, subclass =  90}, -- Runed Ornate Ruby
-	[23110] = {class =   7, subclass =  90}, -- Shifting Shadow Draenite
-	[28290] = {class =   7, subclass =  90}, -- Smooth Golden Draenite
-	[28119] = {class =   7, subclass =  90}, -- Smooth Ornate Dawnstone
-	[38550] = {class =   7, subclass =  90}, -- Smooth Ornate Dawnstone
-	[23118] = {class =   7, subclass =  90}, -- Solid Azure Moonstone
-	[23111] = {class =   7, subclass =  90}, -- Sovereign Shadow Draenite
-	[23119] = {class =   7, subclass =  90}, -- Sparkling Azure Moonstone
-	[27812] = {class =   7, subclass =  90}, -- Stark Blood Garnet
-	[27777] = {class =   7, subclass =  90}, -- Stark Blood Garnet
-	[23120] = {class =   7, subclass =  90}, -- Stormy Azure Moonstone
-	[27679] = {class =   7, subclass =  90}, -- Sublime Mystic Dawnstone
-	[23094] = {class =   7, subclass =  90}, -- Teardrop Blood Garnet
-	[23115] = {class =   7, subclass =  90}, -- Thick Golden Draenite
-	[31866] = {class =   7, subclass =  90}, -- Veiled Flame Spessarite
-	[31869] = {class =   7, subclass =  90}, -- Wicked Flame Spessarite
-	[23117] = {class =   7, subclass =  90}, -- Azure Moonstone
-	[23077] = {class =   7, subclass =  90}, -- Blood Garnet
-	[23079] = {class =   7, subclass =  90}, -- Deep Peridot
-	[21929] = {class =   7, subclass =  90}, -- Flame Spessarite
-	[23112] = {class =   7, subclass =  90}, -- Golden Draenite
-	[23107] = {class =   7, subclass =  90}, -- Shadow Draenite
-	[30565] = {class =   7, subclass =  90}, -- Assassin's Fire Opal
-	[31863] = {class =   7, subclass =  90}, -- Balanced Nightseye
-	[32213] = {class =   7, subclass =  90}, -- Balanced Shadowsong Amethyst
-	[30601] = {class =   7, subclass =  90}, -- Beaming Fire Opal
-	[30552] = {class =   7, subclass =  90}, -- Blessed Tanzanite
-	[33140] = {class =   7, subclass =  90}, -- Blood of Amber
-	[32193] = {class =   7, subclass =  90}, -- Bold Crimson Spinel
-	[24027] = {class =   7, subclass =  90}, -- Bold Living Ruby
-	[25897] = {class =   7, subclass =  90}, -- Bracing Earthstorm Diamond
-	[32197] = {class =   7, subclass =  90}, -- Bright Crimson Spinel
-	[35487] = {class =   7, subclass =  90}, -- Bright Crimson Spinel
-	[24031] = {class =   7, subclass =  90}, -- Bright Living Ruby
-	[33139] = {class =   7, subclass =  90}, -- Brilliant Bladestone
-	[24047] = {class =   7, subclass =  90}, -- Brilliant Dawnstone
-	[32204] = {class =   7, subclass =  90}, -- Brilliant Lionseye
-	[25899] = {class =   7, subclass =  90}, -- Brutal Earthstorm Diamond
-	[30574] = {class =   7, subclass =  90}, -- Brutal Tanzanite
-	[30587] = {class =   7, subclass =  90}, -- Champion's Fire Opal
-	[34220] = {class =   7, subclass =  90}, -- Chaotic Skyfire Diamond
-	[34256] = {class =   7, subclass =  90}, -- Charmed Amani Jewel
-	[32227] = {class =   7, subclass =  90}, -- Crimson Spinel
-	[33131] = {class =   7, subclass =  90}, -- Crimson Sun
-	[23440] = {class =   7, subclass =  90}, -- Dawnstone
-	[30589] = {class =   7, subclass =  90}, -- Dazzling Chrysoprase
-	[32225] = {class =   7, subclass =  90}, -- Dazzling Seaspray Emerald
-	[24065] = {class =   7, subclass =  90}, -- Dazzling Talasite
-	[30582] = {class =   7, subclass =  90}, -- Deadly Fire Opal
-	[30566] = {class =   7, subclass =  90}, -- Defender's Tanzanite
-	[32194] = {class =   7, subclass =  90}, -- Delicate Crimson Spinel
-	[33132] = {class =   7, subclass =  90}, -- Delicate Fire Ruby
-	[24028] = {class =   7, subclass =  90}, -- Delicate Living Ruby
-	[25890] = {class =   7, subclass =  90}, -- Destructive Skyfire Diamond
-	[33133] = {class =   7, subclass =  90}, -- Don Julio's Heart
-	[30581] = {class =   7, subclass =  90}, -- Durable Fire Opal
-	[25867] = {class =   7, subclass =  90}, -- Earthstorm Diamond
-	[30594] = {class =   7, subclass =  90}, -- Effulgent Chrysoprase
-	[35503] = {class =   7, subclass =  90}, -- Ember Skyfire Diamond
-	[30591] = {class =   7, subclass =  90}, -- Empowered Fire Opal
-	[32228] = {class =   7, subclass =  90}, -- Empyrean Sapphire
-	[30590] = {class =   7, subclass =  90}, -- Enduring Chrysoprase
-	[32223] = {class =   7, subclass =  90}, -- Enduring Seaspray Emerald
-	[24062] = {class =   7, subclass =  90}, -- Enduring Talasite
-	[25895] = {class =   7, subclass =  90}, -- Enigmatic Skyfire Diamond
-	[30584] = {class =   7, subclass =  90}, -- Enscribed Fire Opal
-	[30559] = {class =   7, subclass =  90}, -- Etched Fire Opal
-	[35501] = {class =   7, subclass =  90}, -- Eternal Earthstorm Diamond
-	[34831] = {class =   7, subclass =  90}, -- Eye of the Sea
-	[33144] = {class =   7, subclass =  90}, -- Facet of Eternity
-	[33135] = {class =   7, subclass =  90}, -- Falling Star
-	[32199] = {class =   7, subclass =  90}, -- Flashing Crimson Spinel
-	[24036] = {class =   7, subclass =  90}, -- Flashing Living Ruby
-	[30600] = {class =   7, subclass =  90}, -- Fluorescent Tanzanite
-	[33633] = {class =   7, subclass =  90}, -- Forceful Earthstorm Diamond
-	[35759] = {class =   7, subclass =  90}, -- Forceful Seaspray Emerald
-	[35318] = {class =   7, subclass =  90}, -- Forceful Talasite
-	[24050] = {class =   7, subclass =  90}, -- Gleaming Dawnstone
-	[32207] = {class =   7, subclass =  90}, -- Gleaming Lionseye
-	[30558] = {class =   7, subclass =  90}, -- Glimmering Fire Opal
-	[30556] = {class =   7, subclass =  90}, -- Glinting Fire Opal
-	[24061] = {class =   7, subclass =  90}, -- Glinting Noble Topaz
-	[32220] = {class =   7, subclass =  90}, -- Glinting Pyrestone
-	[30585] = {class =   7, subclass =  90}, -- Glistening Fire Opal
-	[24056] = {class =   7, subclass =  90}, -- Glowing Nightseye
-	[32215] = {class =   7, subclass =  90}, -- Glowing Shadowsong Amethyst
-	[30555] = {class =   7, subclass =  90}, -- Glowing Tanzanite
-	[33141] = {class =   7, subclass =  90}, -- Great Bladestone
-	[31861] = {class =   7, subclass =  90}, -- Great Dawnstone
-	[32210] = {class =   7, subclass =  90}, -- Great Lionseye
-	[34627] = {class =   7, subclass =  90}, -- Heavy Tonk Armor
-	[32641] = {class =   7, subclass =  90}, -- Imbued Unstable Diamond
-	[30572] = {class =   7, subclass =  90}, -- Imperial Tanzanite
-	[31116] = {class =   7, subclass =  90}, -- Infused Amethyst
-	[30551] = {class =   7, subclass =  90}, -- Infused Fire Opal
-	[31865] = {class =   7, subclass =  90}, -- Infused Nightseye
-	[32214] = {class =   7, subclass =  90}, -- Infused Shadowsong Amethyst
-	[24058] = {class =   7, subclass =  90}, -- Inscribed Noble Topaz
-	[32217] = {class =   7, subclass =  90}, -- Inscribed Pyrestone
-	[25901] = {class =   7, subclass =  90}, -- Insightful Earthstorm Diamond
-	[30593] = {class =   7, subclass =  90}, -- Iridescent Fire Opal
-	[30602] = {class =   7, subclass =  90}, -- Jagged Chrysoprase
-	[32226] = {class =   7, subclass =  90}, -- Jagged Seaspray Emerald
-	[24067] = {class =   7, subclass =  90}, -- Jagged Talasite
-	[33134] = {class =   7, subclass =  90}, -- Kailee's Rose
-	[30606] = {class =   7, subclass =  90}, -- Lambent Chrysoprase
-	[32229] = {class =   7, subclass =  90}, -- Lionseye
-	[23436] = {class =   7, subclass =  90}, -- Living Ruby
-	[30547] = {class =   7, subclass =  90}, -- Luminous Fire Opal
-	[24060] = {class =   7, subclass =  90}, -- Luminous Noble Topaz
-	[32219] = {class =   7, subclass =  90}, -- Luminous Pyrestone
-	[32202] = {class =   7, subclass =  90}, -- Lustrous Empyrean Sapphire
-	[24037] = {class =   7, subclass =  90}, -- Lustrous Star of Elune
-	[30573] = {class =   7, subclass =  90}, -- Mysterious Fire Opal
-	[33138] = {class =   7, subclass =  90}, -- Mystic Bladestone
-	[24053] = {class =   7, subclass =  90}, -- Mystic Dawnstone
-	[32209] = {class =   7, subclass =  90}, -- Mystic Lionseye
-	[25893] = {class =   7, subclass =  90}, -- Mystical Skyfire Diamond
-	[23441] = {class =   7, subclass =  90}, -- Nightseye
-	[30575] = {class =   7, subclass =  90}, -- Nimble Fire Opal
-	[23439] = {class =   7, subclass =  90}, -- Noble Topaz
-	[30548] = {class =   7, subclass =  90}, -- Polished Chrysoprase
-	[30588] = {class =   7, subclass =  90}, -- Potent Fire Opal
-	[24059] = {class =   7, subclass =  90}, -- Potent Noble Topaz
-	[32218] = {class =   7, subclass =  90}, -- Potent Pyrestone
-	[32640] = {class =   7, subclass =  90}, -- Potent Unstable Diamond
-	[25896] = {class =   7, subclass =  90}, -- Powerful Earthstorm Diamond
-	[22460] = {class =   7, subclass =  90}, -- Prismatic Sphere
-	[30553] = {class =   7, subclass =  90}, -- Pristine Fire Opal
-	[31118] = {class =   7, subclass =  90}, -- Pulsing Amethyst
-	[37503] = {class =   7, subclass =  90}, -- Purified Shadowsong Amethyst
-	[32231] = {class =   7, subclass =  90}, -- Pyrestone
-	[35315] = {class =   7, subclass =  90}, -- Quick Dawnstone
-	[35761] = {class =   7, subclass =  90}, -- Quick Lionseye
-	[30608] = {class =   7, subclass =  90}, -- Radiant Chrysoprase
-	[32224] = {class =   7, subclass =  90}, -- Radiant Seaspray Emerald
-	[32735] = {class =   7, subclass =  90}, -- Radiant Spencerite
-	[24066] = {class =   7, subclass =  90}, -- Radiant Talasite
-	[35316] = {class =   7, subclass =  90}, -- Reckless Noble Topaz
-	[35760] = {class =   7, subclass =  90}, -- Reckless Pyrestone
-	[35707] = {class =   7, subclass =  90}, -- Regal Nightseye
-	[30563] = {class =   7, subclass =  90}, -- Regal Tanzanite
-	[32409] = {class =   7, subclass =  90}, -- Relentless Earthstorm Diamond
-	[30604] = {class =   7, subclass =  90}, -- Resplendent Fire Opal
-	[33142] = {class =   7, subclass =  90}, -- Rigid Bladestone
-	[24051] = {class =   7, subclass =  90}, -- Rigid Dawnstone
-	[32206] = {class =   7, subclass =  90}, -- Rigid Lionseye
-	[24057] = {class =   7, subclass =  90}, -- Royal Nightseye
-	[32216] = {class =   7, subclass =  90}, -- Royal Shadowsong Amethyst
-	[30603] = {class =   7, subclass =  90}, -- Royal Tanzanite
-	[30560] = {class =   7, subclass =  90}, -- Rune Covered Chrysoprase
-	[32196] = {class =   7, subclass =  90}, -- Runed Crimson Spinel
-	[35488] = {class =   7, subclass =  90}, -- Runed Crimson Spinel
-	[24030] = {class =   7, subclass =  90}, -- Runed Living Ruby
-	[32249] = {class =   7, subclass =  90}, -- Seaspray Emerald
-	[30586] = {class =   7, subclass =  90}, -- Seer's Chrysoprase
-	[32230] = {class =   7, subclass =  90}, -- Shadowsong Amethyst
-	[24055] = {class =   7, subclass =  90}, -- Shifting Nightseye
-	[32212] = {class =   7, subclass =  90}, -- Shifting Shadowsong Amethyst
-	[30549] = {class =   7, subclass =  90}, -- Shifting Tanzanite
-	[30564] = {class =   7, subclass =  90}, -- Shining Fire Opal
-	[25868] = {class =   7, subclass =  90}, -- Skyfire Diamond
-	[24048] = {class =   7, subclass =  90}, -- Smooth Dawnstone
-	[32205] = {class =   7, subclass =  90}, -- Smooth Lionseye
-	[32200] = {class =   7, subclass =  90}, -- Solid Empyrean Sapphire
-	[24033] = {class =   7, subclass =  90}, -- Solid Star of Elune
-	[31117] = {class =   7, subclass =  90}, -- Soothing Amethyst
-	[24054] = {class =   7, subclass =  90}, -- Sovereign Nightseye
-	[32211] = {class =   7, subclass =  90}, -- Sovereign Shadowsong Amethyst
-	[30546] = {class =   7, subclass =  90}, -- Sovereign Tanzanite
-	[32201] = {class =   7, subclass =  90}, -- Sparkling Empyrean Sapphire
-	[33137] = {class =   7, subclass =  90}, -- Sparkling Falling Star
-	[24035] = {class =   7, subclass =  90}, -- Sparkling Star of Elune
-	[30607] = {class =   7, subclass =  90}, -- Splendid Fire Opal
-	[30554] = {class =   7, subclass =  90}, -- Stalwart Fire Opal
-	[23438] = {class =   7, subclass =  90}, -- Star of Elune
-	[30592] = {class =   7, subclass =  90}, -- Steady Chrysoprase
-	[35758] = {class =   7, subclass =  90}, -- Steady Seaspray Emerald
-	[33782] = {class =   7, subclass =  90}, -- Steady Talasite
-	[33143] = {class =   7, subclass =  90}, -- Stone of Blades
-	[32203] = {class =   7, subclass =  90}, -- Stormy Empyrean Sapphire
-	[24039] = {class =   7, subclass =  90}, -- Stormy Star of Elune
-	[32198] = {class =   7, subclass =  90}, -- Subtle Crimson Spinel
-	[24032] = {class =   7, subclass =  90}, -- Subtle Living Ruby
-	[30550] = {class =   7, subclass =  90}, -- Sundered Chrysoprase
-	[25894] = {class =   7, subclass =  90}, -- Swift Skyfire Diamond
-	[28557] = {class =   7, subclass =  90}, -- Swift Starfire Diamond
-	[28556] = {class =   7, subclass =  90}, -- Swift Windfire Diamond
-	[23437] = {class =   7, subclass =  90}, -- Talasite
-	[32195] = {class =   7, subclass =  90}, -- Teardrop Crimson Spinel
-	[35489] = {class =   7, subclass =  90}, -- Teardrop Crimson Spinel
-	[24029] = {class =   7, subclass =  90}, -- Teardrop Living Ruby
-	[25898] = {class =   7, subclass =  90}, -- Tenacious Earthstorm Diamond
-	[24052] = {class =   7, subclass =  90}, -- Thick Dawnstone
-	[32208] = {class =   7, subclass =  90}, -- Thick Lionseye
-	[32410] = {class =   7, subclass =  90}, -- Thundering Skyfire Diamond
-	[30583] = {class =   7, subclass =  90}, -- Timeless Chrysoprase
-	[32634] = {class =   7, subclass =  90}, -- Unstable Amethyst
-	[32637] = {class =   7, subclass =  90}, -- Unstable Citrine
-	[32635] = {class =   7, subclass =  90}, -- Unstable Peridot
-	[32636] = {class =   7, subclass =  90}, -- Unstable Sapphire
-	[32639] = {class =   7, subclass =  90}, -- Unstable Talasite
-	[32638] = {class =   7, subclass =  90}, -- Unstable Topaz
-	[31867] = {class =   7, subclass =  90}, -- Veiled Noble Topaz
-	[32221] = {class =   7, subclass =  90}, -- Veiled Pyrestone
-	[30605] = {class =   7, subclass =  90}, -- Vivid Chrysoprase
-	[22459] = {class =   7, subclass =  90}, -- Void Sphere
-	[31868] = {class =   7, subclass =  90}, -- Wicked Noble Topaz
-	[32222] = {class =   7, subclass =  90}, -- Wicked Pyrestone
-
 -- Trade Goods: Cooking Ingredients
 	[30817] = {class =   7, subclass =  92}, -- Simple Flour
 
@@ -995,6 +974,54 @@ data.overrides_tbc = {
 	[22456] = {class =   7, subclass =  93}, -- Primal Shadow
 	[21885] = {class =   7, subclass =  93}, -- Primal Water
 	[23571] = {class =   7, subclass =  93}, -- Primal Might
+
+-- Trade Goods: Jewelcrafting
+	[24243] = {class =   7, subclass =  94}, -- Adamantite Powder
+	[20817] = {class =   7, subclass =  94}, -- Bronze Setting
+	[20952] = {class =   7, subclass =  94}, -- Cut Agate
+	[20962] = {class =   7, subclass =  94}, -- Cut Aquamarine
+	[21786] = {class =   7, subclass =  94}, -- Cut Azerothian Diamond
+	[20957] = {class =   7, subclass =  94}, -- Cut Citrine
+	[21785] = {class =   7, subclass =  94}, -- Cut Emerald
+	[20953] = {class =   7, subclass =  94}, -- Cut Jade
+	[20819] = {class =   7, subclass =  94}, -- Cut Malachite
+	[20829] = {class =   7, subclass =  94}, -- Cut Moonstone
+	[21773] = {class =   7, subclass =  94}, -- Cut Opal
+	[20965] = {class =   7, subclass =  94}, -- Cut Ruby
+	[21772] = {class =   7, subclass =  94}, -- Cut Sapphire
+	[20825] = {class =   7, subclass =  94}, -- Cut Shadowgem
+	[20822] = {class =   7, subclass =  94}, -- Cut Tigerseye
+	[20816] = {class =   7, subclass =  94}, -- Delicate Copper Wire
+	[31079] = {class =   7, subclass =  94}, -- Mercurial Adamantite
+	[23236] = {class =   7, subclass =  94}, -- Meta Bryanite of Mana
+	[20963] = {class =   7, subclass =  94}, -- Mithril Filigree
+	[20824] = {class =   7, subclass =  94}, -- Simple Grinder
+	[23157] = {class =   7, subclass =  94}, -- Thick Citrine
+	[21752] = {class =   7, subclass =  94}, -- Thorium Setting
+	[23117] = {class =   7, subclass =  94}, -- Azure Moonstone
+	[23077] = {class =   7, subclass =  94}, -- Blood Garnet
+	[32227] = {class =   7, subclass =  94}, -- Crimson Spinel
+	[23440] = {class =   7, subclass =  94}, -- Dawnstone
+	[23079] = {class =   7, subclass =  94}, -- Deep Peridot
+	[25867] = {class =   7, subclass =  94}, -- Earthstorm Diamond
+	[32228] = {class =   7, subclass =  94}, -- Empyrean Sapphire
+	[21929] = {class =   7, subclass =  94}, -- Flame Spessarite
+	[23112] = {class =   7, subclass =  94}, -- Golden Draenite
+	[24478] = {class =   7, subclass =  94}, -- Jaggal Pearl
+	[32229] = {class =   7, subclass =  94}, -- Lionseye
+	[23436] = {class =   7, subclass =  94}, -- Living Ruby
+	[23441] = {class =   7, subclass =  94}, -- Nightseye
+	[23439] = {class =   7, subclass =  94}, -- Noble Topaz
+	[32231] = {class =   7, subclass =  94}, -- Pyrestone
+	[32249] = {class =   7, subclass =  94}, -- Seaspray Emerald
+	[23107] = {class =   7, subclass =  94}, -- Shadow Draenite
+	[24479] = {class =   7, subclass =  94}, -- Shadow Pearl
+	[32230] = {class =   7, subclass =  94}, -- Shadowsong Amethyst
+	[25868] = {class =   7, subclass =  94}, -- Skyfire Diamond
+	[23158] = {class =   7, subclass =  94}, -- Solid Aquamarine
+	[23159] = {class =   7, subclass =  94}, -- Sparkling Aquamarine
+	[23438] = {class =   7, subclass =  94}, -- Star of Elune
+	[23437] = {class =   7, subclass =  94}, -- Talasite
 
 -- Recipees
 	[22012] = {class =   9, subclass =   4}, -- Master First Aid - Doctor in the House

@@ -708,6 +708,356 @@ data.overrides_wrath = {
 -- Consumables: Mage Gems (no longer share cooldown with runes in WotLK)
 	[36799] = {class =   0, subclass =  96}, -- Mage: Mana Opal
 
+-- Gems
+	[40052] = {class =   3, subclass =   0}, -- Wicked Monarch Topaz
+	[40162] = {class =   3, subclass =   0}, -- Accurate Ametrine
+	[39966] = {class =   3, subclass =   0}, -- Accurate Huge Citrine
+	[40058] = {class =   3, subclass =   0}, -- Accurate Monarch Topaz
+	[41380] = {class =   3, subclass =   0}, -- Austere Earthsiege Diamond
+	[40136] = {class =   3, subclass =   0}, -- Balanced Dreadstone
+	[39937] = {class =   3, subclass =   0}, -- Balanced Shadow Crystal
+	[40029] = {class =   3, subclass =   0}, -- Balanced Twilight Opal
+	[41389] = {class =   3, subclass =   0}, -- Beaming Earthsiege Diamond
+	[39900] = {class =   3, subclass =   0}, -- Bold Bloodstone
+	[40111] = {class =   3, subclass =   0}, -- Bold Cardinal Ruby
+	[42142] = {class =   3, subclass =   0}, -- Bold Dragon's Eye
+	[39996] = {class =   3, subclass =   0}, -- Bold Scarlet Ruby
+	[45862] = {class =   3, subclass =   0}, -- Bold Stormjewel
+	[41395] = {class =   3, subclass =   0}, -- Bracing Earthsiege Diamond
+	[39906] = {class =   3, subclass =   0}, -- Bright Bloodstone
+	[40114] = {class =   3, subclass =   0}, -- Bright Cardinal Ruby
+	[36766] = {class =   3, subclass =   0}, -- Bright Dragon's Eye
+	[39999] = {class =   3, subclass =   0}, -- Bright Scarlet Ruby
+	[40012] = {class =   3, subclass =   0}, -- Brilliant Autumn's Glow
+	[42148] = {class =   3, subclass =   0}, -- Brilliant Dragon's Eye
+	[40123] = {class =   3, subclass =   0}, -- Brilliant King's Amber
+	[45882] = {class =   3, subclass =   0}, -- Brilliant Stormjewel
+	[39912] = {class =   3, subclass =   0}, -- Brilliant Sun Crystal
+	[40144] = {class =   3, subclass =   0}, -- Champion's Ametrine
+	[39949] = {class =   3, subclass =   0}, -- Champion's Huge Citrine
+	[40039] = {class =   3, subclass =   0}, -- Champion's Monarch Topaz
+	[41285] = {class =   3, subclass =   0}, -- Chaotic Skyflare Diamond
+	[34143] = {class =   3, subclass =   0}, -- Chromatic Sphere
+	[39984] = {class =   3, subclass =   0}, -- Dazzling Dark Jade
+	[40175] = {class =   3, subclass =   0}, -- Dazzling Eye of Zul
+	[40094] = {class =   3, subclass =   0}, -- Dazzling Forest Emerald
+	[40147] = {class =   3, subclass =   0}, -- Deadly Ametrine
+	[39952] = {class =   3, subclass =   0}, -- Deadly Huge Citrine
+	[40043] = {class =   3, subclass =   0}, -- Deadly Monarch Topaz
+	[40139] = {class =   3, subclass =   0}, -- Defender's Dreadstone
+	[39939] = {class =   3, subclass =   0}, -- Defender's Shadow Crystal
+	[40032] = {class =   3, subclass =   0}, -- Defender's Twilight Opal
+	[40150] = {class =   3, subclass =   0}, -- Deft Ametrine
+	[39955] = {class =   3, subclass =   0}, -- Deft Huge Citrine
+	[40046] = {class =   3, subclass =   0}, -- Deft Monarch Topaz
+	[39905] = {class =   3, subclass =   0}, -- Delicate Bloodstone
+	[40112] = {class =   3, subclass =   0}, -- Delicate Cardinal Ruby
+	[42143] = {class =   3, subclass =   0}, -- Delicate Dragon's Eye
+	[39997] = {class =   3, subclass =   0}, -- Delicate Scarlet Ruby
+	[45879] = {class =   3, subclass =   0}, -- Delicate Stormjewel
+	[41307] = {class =   3, subclass =   0}, -- Destructive Skyflare Diamond
+	[40154] = {class =   3, subclass =   0}, -- Durable Ametrine
+	[39958] = {class =   3, subclass =   0}, -- Durable Huge Citrine
+	[40050] = {class =   3, subclass =   0}, -- Durable Monarch Topaz
+	[41377] = {class =   3, subclass =   0}, -- Effulgent Skyflare Diamond
+	[41333] = {class =   3, subclass =   0}, -- Ember Skyflare Diamond
+	[40158] = {class =   3, subclass =   0}, -- Empowered Ametrine
+	[39962] = {class =   3, subclass =   0}, -- Empowered Huge Citrine
+	[40054] = {class =   3, subclass =   0}, -- Empowered Monarch Topaz
+	[42701] = {class =   3, subclass =   0}, -- Enchanted Pearl
+	[42702] = {class =   3, subclass =   0}, -- Enchanted Tear
+	[39976] = {class =   3, subclass =   0}, -- Enduring Dark Jade
+	[40167] = {class =   3, subclass =   0}, -- Enduring Eye of Zul
+	[40089] = {class =   3, subclass =   0}, -- Enduring Forest Emerald
+	[39989] = {class =   3, subclass =   0}, -- Energized Dark Jade
+	[40179] = {class =   3, subclass =   0}, -- Energized Eye of Zul
+	[40105] = {class =   3, subclass =   0}, -- Energized Forest Emerald
+	[41335] = {class =   3, subclass =   0}, -- Enigmatic Skyflare Diamond
+	[44081] = {class =   3, subclass =   0}, -- Enigmatic Starflare Diamond
+	[40143] = {class =   3, subclass =   0}, -- Etched Ametrine
+	[39948] = {class =   3, subclass =   0}, -- Etched Huge Citrine
+	[40038] = {class =   3, subclass =   0}, -- Etched Monarch Topaz
+	[41396] = {class =   3, subclass =   0}, -- Eternal Earthsiege Diamond
+	[40146] = {class =   3, subclass =   0}, -- Fierce Ametrine
+	[39951] = {class =   3, subclass =   0}, -- Fierce Huge Citrine
+	[40041] = {class =   3, subclass =   0}, -- Fierce Monarch Topaz
+	[39908] = {class =   3, subclass =   0}, -- Flashing Bloodstone
+	[40116] = {class =   3, subclass =   0}, -- Flashing Cardinal Ruby
+	[42152] = {class =   3, subclass =   0}, -- Flashing Dragon's Eye
+	[40001] = {class =   3, subclass =   0}, -- Flashing Scarlet Ruby
+	[39978] = {class =   3, subclass =   0}, -- Forceful Dark Jade
+	[40169] = {class =   3, subclass =   0}, -- Forceful Eye of Zul
+	[40091] = {class =   3, subclass =   0}, -- Forceful Forest Emerald
+	[41378] = {class =   3, subclass =   0}, -- Forlorn Skyflare Diamond
+	[44084] = {class =   3, subclass =   0}, -- Forlorn Starflare Diamond
+	[39909] = {class =   3, subclass =   0}, -- Fractured Bloodstone
+	[40117] = {class =   3, subclass =   0}, -- Fractured Cardinal Ruby
+	[42153] = {class =   3, subclass =   0}, -- Fractured Dragon's Eye
+	[40002] = {class =   3, subclass =   0}, -- Fractured Scarlet Ruby
+	[40161] = {class =   3, subclass =   0}, -- Glimmering Ametrine
+	[39965] = {class =   3, subclass =   0}, -- Glimmering Huge Citrine
+	[40057] = {class =   3, subclass =   0}, -- Glimmering Monarch Topaz
+	[40148] = {class =   3, subclass =   0}, -- Glinting Ametrine
+	[39953] = {class =   3, subclass =   0}, -- Glinting Huge Citrine
+	[40044] = {class =   3, subclass =   0}, -- Glinting Monarch Topaz
+	[40132] = {class =   3, subclass =   0}, -- Glowing Dreadstone
+	[39936] = {class =   3, subclass =   0}, -- Glowing Shadow Crystal
+	[40025] = {class =   3, subclass =   0}, -- Glowing Twilight Opal
+	[40141] = {class =   3, subclass =   0}, -- Guardian's Dreadstone
+	[39940] = {class =   3, subclass =   0}, -- Guardian's Shadow Crystal
+	[40034] = {class =   3, subclass =   0}, -- Guardian's Twilight Opal
+	[41379] = {class =   3, subclass =   0}, -- Impassive Skyflare Diamond
+	[44082] = {class =   3, subclass =   0}, -- Impassive Starflare Diamond
+	[34142] = {class =   3, subclass =   0}, -- Infinite Sphere
+	[40137] = {class =   3, subclass =   0}, -- Infused Dreadstone
+	[39944] = {class =   3, subclass =   0}, -- Infused Shadow Crystal
+	[40030] = {class =   3, subclass =   0}, -- Infused Twilight Opal
+	[40142] = {class =   3, subclass =   0}, -- Inscribed Ametrine
+	[39947] = {class =   3, subclass =   0}, -- Inscribed Huge Citrine
+	[40037] = {class =   3, subclass =   0}, -- Inscribed Monarch Topaz
+	[41401] = {class =   3, subclass =   0}, -- Insightful Earthsiege Diamond
+	[39983] = {class =   3, subclass =   0}, -- Intricate Dark Jade
+	[40174] = {class =   3, subclass =   0}, -- Intricate Eye of Zul
+	[40104] = {class =   3, subclass =   0}, -- Intricate Forest Emerald
+	[41385] = {class =   3, subclass =   0}, -- Invigorating Earthsiege Diamond
+	[39974] = {class =   3, subclass =   0}, -- Jagged Dark Jade
+	[40165] = {class =   3, subclass =   0}, -- Jagged Eye of Zul
+	[40086] = {class =   3, subclass =   0}, -- Jagged Forest Emerald
+	[44066] = {class =   3, subclass =   0}, -- Kharmaa's Grace
+	[39986] = {class =   3, subclass =   0}, -- Lambent Dark Jade
+	[40177] = {class =   3, subclass =   0}, -- Lambent Eye of Zul
+	[40100] = {class =   3, subclass =   0}, -- Lambent Forest Emerald
+	[40149] = {class =   3, subclass =   0}, -- Lucent Ametrine
+	[39954] = {class =   3, subclass =   0}, -- Lucent Huge Citrine
+	[40045] = {class =   3, subclass =   0}, -- Lucent Monarch Topaz
+	[40151] = {class =   3, subclass =   0}, -- Luminous Ametrine
+	[39946] = {class =   3, subclass =   0}, -- Luminous Huge Citrine
+	[40047] = {class =   3, subclass =   0}, -- Luminous Monarch Topaz
+	[39927] = {class =   3, subclass =   0}, -- Lustrous Chalcedony
+	[42146] = {class =   3, subclass =   0}, -- Lustrous Dragon's Eye
+	[40121] = {class =   3, subclass =   0}, -- Lustrous Majestic Zircon
+	[40010] = {class =   3, subclass =   0}, -- Lustrous Sky Sapphire
+	[39980] = {class =   3, subclass =   0}, -- Misty Dark Jade
+	[40171] = {class =   3, subclass =   0}, -- Misty Eye of Zul
+	[40095] = {class =   3, subclass =   0}, -- Misty Forest Emerald
+	[40135] = {class =   3, subclass =   0}, -- Mysterious Dreadstone
+	[39945] = {class =   3, subclass =   0}, -- Mysterious Shadow Crystal
+	[40028] = {class =   3, subclass =   0}, -- Mysterious Twilight Opal
+	[40016] = {class =   3, subclass =   0}, -- Mystic Autumn's Glow
+	[42158] = {class =   3, subclass =   0}, -- Mystic Dragon's Eye
+	[40127] = {class =   3, subclass =   0}, -- Mystic King's Amber
+	[39917] = {class =   3, subclass =   0}, -- Mystic Sun Crystal
+	[49110] = {class =   3, subclass =   0}, -- Nightmare Tear
+	[39988] = {class =   3, subclass =   0}, -- Opaque Dark Jade
+	[40178] = {class =   3, subclass =   0}, -- Opaque Eye of Zul
+	[40103] = {class =   3, subclass =   0}, -- Opaque Forest Emerald
+	[41482] = {class =   3, subclass =   0}, -- Perfect Accurate Huge Citrine
+	[41450] = {class =   3, subclass =   0}, -- Perfect Balanced Shadow Crystal
+	[41432] = {class =   3, subclass =   0}, -- Perfect Bold Bloodstone
+	[41433] = {class =   3, subclass =   0}, -- Perfect Bright Bloodstone
+	[41444] = {class =   3, subclass =   0}, -- Perfect Brilliant Sun Crystal
+	[41483] = {class =   3, subclass =   0}, -- Perfect Champion's Huge Citrine
+	[41463] = {class =   3, subclass =   0}, -- Perfect Dazzling Dark Jade
+	[41484] = {class =   3, subclass =   0}, -- Perfect Deadly Huge Citrine
+	[41451] = {class =   3, subclass =   0}, -- Perfect Defender's Shadow Crystal
+	[41485] = {class =   3, subclass =   0}, -- Perfect Deft Huge Citrine
+	[41434] = {class =   3, subclass =   0}, -- Perfect Delicate Bloodstone
+	[41486] = {class =   3, subclass =   0}, -- Perfect Durable Huge Citrine
+	[41487] = {class =   3, subclass =   0}, -- Perfect Empowered Huge Citrine
+	[41464] = {class =   3, subclass =   0}, -- Perfect Enduring Dark Jade
+	[41465] = {class =   3, subclass =   0}, -- Perfect Energized Dark Jade
+	[41488] = {class =   3, subclass =   0}, -- Perfect Etched Huge Citrine
+	[41489] = {class =   3, subclass =   0}, -- Perfect Fierce Huge Citrine
+	[41435] = {class =   3, subclass =   0}, -- Perfect Flashing Bloodstone
+	[41466] = {class =   3, subclass =   0}, -- Perfect Forceful Dark Jade
+	[41436] = {class =   3, subclass =   0}, -- Perfect Fractured Bloodstone
+	[41490] = {class =   3, subclass =   0}, -- Perfect Glimmering Huge Citrine
+	[41491] = {class =   3, subclass =   0}, -- Perfect Glinting Huge Citrine
+	[41452] = {class =   3, subclass =   0}, -- Perfect Glowing Shadow Crystal
+	[41453] = {class =   3, subclass =   0}, -- Perfect Guardian's Shadow Crystal
+	[41454] = {class =   3, subclass =   0}, -- Perfect Infused Shadow Crystal
+	[41492] = {class =   3, subclass =   0}, -- Perfect Inscribed Huge Citrine
+	[41467] = {class =   3, subclass =   0}, -- Perfect Intricate Dark Jade
+	[41468] = {class =   3, subclass =   0}, -- Perfect Jagged Dark Jade
+	[41469] = {class =   3, subclass =   0}, -- Perfect Lambent Dark Jade
+	[41493] = {class =   3, subclass =   0}, -- Perfect Lucent Huge Citrine
+	[41494] = {class =   3, subclass =   0}, -- Perfect Luminous Huge Citrine
+	[41440] = {class =   3, subclass =   0}, -- Perfect Lustrous Chalcedony
+	[41470] = {class =   3, subclass =   0}, -- Perfect Misty Dark Jade
+	[41455] = {class =   3, subclass =   0}, -- Perfect Mysterious Shadow Crystal
+	[41445] = {class =   3, subclass =   0}, -- Perfect Mystic Sun Crystal
+	[41471] = {class =   3, subclass =   0}, -- Perfect Opaque Dark Jade
+	[41495] = {class =   3, subclass =   0}, -- Perfect Potent Huge Citrine
+	[41437] = {class =   3, subclass =   0}, -- Perfect Precise Bloodstone
+	[41496] = {class =   3, subclass =   0}, -- Perfect Pristine Huge Citrine
+	[41456] = {class =   3, subclass =   0}, -- Perfect Puissant Shadow Crystal
+	[41457] = {class =   3, subclass =   0}, -- Perfect Purified Shadow Crystal
+	[41446] = {class =   3, subclass =   0}, -- Perfect Quick Sun Crystal
+	[41472] = {class =   3, subclass =   0}, -- Perfect Radiant Dark Jade
+	[41497] = {class =   3, subclass =   0}, -- Perfect Reckless Huge Citrine
+	[41458] = {class =   3, subclass =   0}, -- Perfect Regal Shadow Crystal
+	[41498] = {class =   3, subclass =   0}, -- Perfect Resolute Huge Citrine
+	[41499] = {class =   3, subclass =   0}, -- Perfect Resplendent Huge Citrine
+	[41447] = {class =   3, subclass =   0}, -- Perfect Rigid Sun Crystal
+	[41459] = {class =   3, subclass =   0}, -- Perfect Royal Shadow Crystal
+	[41438] = {class =   3, subclass =   0}, -- Perfect Runed Bloodstone
+	[41473] = {class =   3, subclass =   0}, -- Perfect Seer's Dark Jade
+	[41474] = {class =   3, subclass =   0}, -- Perfect Shattered Dark Jade
+	[41460] = {class =   3, subclass =   0}, -- Perfect Shifting Shadow Crystal
+	[41475] = {class =   3, subclass =   0}, -- Perfect Shining Dark Jade
+	[41448] = {class =   3, subclass =   0}, -- Perfect Smooth Sun Crystal
+	[41441] = {class =   3, subclass =   0}, -- Perfect Solid Chalcedony
+	[41461] = {class =   3, subclass =   0}, -- Perfect Sovereign Shadow Crystal
+	[41442] = {class =   3, subclass =   0}, -- Perfect Sparkling Chalcedony
+	[41500] = {class =   3, subclass =   0}, -- Perfect Stalwart Huge Citrine
+	[41501] = {class =   3, subclass =   0}, -- Perfect Stark Huge Citrine
+	[41476] = {class =   3, subclass =   0}, -- Perfect Steady Dark Jade
+	[41443] = {class =   3, subclass =   0}, -- Perfect Stormy Chalcedony
+	[41439] = {class =   3, subclass =   0}, -- Perfect Subtle Bloodstone
+	[41477] = {class =   3, subclass =   0}, -- Perfect Sundered Dark Jade
+	[41478] = {class =   3, subclass =   0}, -- Perfect Tense Dark Jade
+	[41462] = {class =   3, subclass =   0}, -- Perfect Tenuous Shadow Crystal
+	[41449] = {class =   3, subclass =   0}, -- Perfect Thick Sun Crystal
+	[41479] = {class =   3, subclass =   0}, -- Perfect Timeless Dark Jade
+	[41480] = {class =   3, subclass =   0}, -- Perfect Turbid Dark Jade
+	[41502] = {class =   3, subclass =   0}, -- Perfect Veiled Huge Citrine
+	[41481] = {class =   3, subclass =   0}, -- Perfect Vivid Dark Jade
+	[41429] = {class =   3, subclass =   0}, -- Perfect Wicked Huge Citrine
+	[44087] = {class =   3, subclass =   0}, -- Persistent Earthshatter Diamond
+	[41381] = {class =   3, subclass =   0}, -- Persistent Earthsiege Diamond
+	[40152] = {class =   3, subclass =   0}, -- Potent Ametrine
+	[39956] = {class =   3, subclass =   0}, -- Potent Huge Citrine
+	[40048] = {class =   3, subclass =   0}, -- Potent Monarch Topaz
+	[44088] = {class =   3, subclass =   0}, -- Powerful Earthshatter Diamond
+	[41397] = {class =   3, subclass =   0}, -- Powerful Earthsiege Diamond
+	[39910] = {class =   3, subclass =   0}, -- Precise Bloodstone
+	[40118] = {class =   3, subclass =   0}, -- Precise Cardinal Ruby
+	[42154] = {class =   3, subclass =   0}, -- Precise Dragon's Eye
+	[40003] = {class =   3, subclass =   0}, -- Precise Scarlet Ruby
+	[40157] = {class =   3, subclass =   0}, -- Pristine Ametrine
+	[39961] = {class =   3, subclass =   0}, -- Pristine Huge Citrine
+	[40053] = {class =   3, subclass =   0}, -- Pristine Monarch Topaz
+	[40140] = {class =   3, subclass =   0}, -- Puissant Dreadstone
+	[39933] = {class =   3, subclass =   0}, -- Puissant Shadow Crystal
+	[40033] = {class =   3, subclass =   0}, -- Puissant Twilight Opal
+	[40133] = {class =   3, subclass =   0}, -- Purified Dreadstone
+	[39941] = {class =   3, subclass =   0}, -- Purified Shadow Crystal
+	[40026] = {class =   3, subclass =   0}, -- Purified Twilight Opal
+	[40017] = {class =   3, subclass =   0}, -- Quick Autumn's Glow
+	[42150] = {class =   3, subclass =   0}, -- Quick Dragon's Eye
+	[40128] = {class =   3, subclass =   0}, -- Quick King's Amber
+	[39918] = {class =   3, subclass =   0}, -- Quick Sun Crystal
+	[39990] = {class =   3, subclass =   0}, -- Radiant Dark Jade
+	[40180] = {class =   3, subclass =   0}, -- Radiant Eye of Zul
+	[40098] = {class =   3, subclass =   0}, -- Radiant Forest Emerald
+	[40155] = {class =   3, subclass =   0}, -- Reckless Ametrine
+	[39959] = {class =   3, subclass =   0}, -- Reckless Huge Citrine
+	[40051] = {class =   3, subclass =   0}, -- Reckless Monarch Topaz
+	[40138] = {class =   3, subclass =   0}, -- Regal Dreadstone
+	[39938] = {class =   3, subclass =   0}, -- Regal Shadow Crystal
+	[40031] = {class =   3, subclass =   0}, -- Regal Twilight Opal
+	[41398] = {class =   3, subclass =   0}, -- Relentless Earthsiege Diamond
+	[40163] = {class =   3, subclass =   0}, -- Resolute Ametrine
+	[39967] = {class =   3, subclass =   0}, -- Resolute Huge Citrine
+	[40059] = {class =   3, subclass =   0}, -- Resolute Monarch Topaz
+	[40145] = {class =   3, subclass =   0}, -- Resplendent Ametrine
+	[39950] = {class =   3, subclass =   0}, -- Resplendent Huge Citrine
+	[40040] = {class =   3, subclass =   0}, -- Resplendent Monarch Topaz
+	[41376] = {class =   3, subclass =   0}, -- Revitalizing Skyflare Diamond
+	[40014] = {class =   3, subclass =   0}, -- Rigid Autumn's Glow
+	[42156] = {class =   3, subclass =   0}, -- Rigid Dragon's Eye
+	[40125] = {class =   3, subclass =   0}, -- Rigid King's Amber
+	[45987] = {class =   3, subclass =   0}, -- Rigid Stormjewel
+	[39915] = {class =   3, subclass =   0}, -- Rigid Sun Crystal
+	[40134] = {class =   3, subclass =   0}, -- Royal Dreadstone
+	[39943] = {class =   3, subclass =   0}, -- Royal Shadow Crystal
+	[40027] = {class =   3, subclass =   0}, -- Royal Twilight Opal
+	[39911] = {class =   3, subclass =   0}, -- Runed Bloodstone
+	[40113] = {class =   3, subclass =   0}, -- Runed Cardinal Ruby
+	[42144] = {class =   3, subclass =   0}, -- Runed Dragon's Eye
+	[39998] = {class =   3, subclass =   0}, -- Runed Scarlet Ruby
+	[45883] = {class =   3, subclass =   0}, -- Runed Stormjewel
+	[39979] = {class =   3, subclass =   0}, -- Seer's Dark Jade
+	[40170] = {class =   3, subclass =   0}, -- Seer's Eye of Zul
+	[40092] = {class =   3, subclass =   0}, -- Seer's Forest Emerald
+	[39992] = {class =   3, subclass =   0}, -- Shattered Dark Jade
+	[40182] = {class =   3, subclass =   0}, -- Shattered Eye of Zul
+	[40106] = {class =   3, subclass =   0}, -- Shattered Forest Emerald
+	[40130] = {class =   3, subclass =   0}, -- Shifting Dreadstone
+	[39935] = {class =   3, subclass =   0}, -- Shifting Shadow Crystal
+	[40023] = {class =   3, subclass =   0}, -- Shifting Twilight Opal
+	[39981] = {class =   3, subclass =   0}, -- Shining Dark Jade
+	[40172] = {class =   3, subclass =   0}, -- Shining Eye of Zul
+	[40099] = {class =   3, subclass =   0}, -- Shining Forest Emerald
+	[40013] = {class =   3, subclass =   0}, -- Smooth Autumn's Glow
+	[42149] = {class =   3, subclass =   0}, -- Smooth Dragon's Eye
+	[40124] = {class =   3, subclass =   0}, -- Smooth King's Amber
+	[39914] = {class =   3, subclass =   0}, -- Smooth Sun Crystal
+	[39919] = {class =   3, subclass =   0}, -- Solid Chalcedony
+	[36767] = {class =   3, subclass =   0}, -- Solid Dragon's Eye
+	[40119] = {class =   3, subclass =   0}, -- Solid Majestic Zircon
+	[40008] = {class =   3, subclass =   0}, -- Solid Sky Sapphire
+	[45880] = {class =   3, subclass =   0}, -- Solid Stormjewel
+	[40129] = {class =   3, subclass =   0}, -- Sovereign Dreadstone
+	[39934] = {class =   3, subclass =   0}, -- Sovereign Shadow Crystal
+	[40022] = {class =   3, subclass =   0}, -- Sovereign Twilight Opal
+	[39920] = {class =   3, subclass =   0}, -- Sparkling Chalcedony
+	[42145] = {class =   3, subclass =   0}, -- Sparkling Dragon's Eye
+	[40120] = {class =   3, subclass =   0}, -- Sparkling Majestic Zircon
+	[40009] = {class =   3, subclass =   0}, -- Sparkling Sky Sapphire
+	[45881] = {class =   3, subclass =   0}, -- Sparkling Stormjewel
+	[40160] = {class =   3, subclass =   0}, -- Stalwart Ametrine
+	[39964] = {class =   3, subclass =   0}, -- Stalwart Huge Citrine
+	[40056] = {class =   3, subclass =   0}, -- Stalwart Monarch Topaz
+	[40159] = {class =   3, subclass =   0}, -- Stark Ametrine
+	[39963] = {class =   3, subclass =   0}, -- Stark Huge Citrine
+	[40055] = {class =   3, subclass =   0}, -- Stark Monarch Topaz
+	[39977] = {class =   3, subclass =   0}, -- Steady Dark Jade
+	[40168] = {class =   3, subclass =   0}, -- Steady Eye of Zul
+	[40090] = {class =   3, subclass =   0}, -- Steady Forest Emerald
+	[39932] = {class =   3, subclass =   0}, -- Stormy Chalcedony
+	[42155] = {class =   3, subclass =   0}, -- Stormy Dragon's Eye
+	[40122] = {class =   3, subclass =   0}, -- Stormy Majestic Zircon
+	[40011] = {class =   3, subclass =   0}, -- Stormy Sky Sapphire
+	[39907] = {class =   3, subclass =   0}, -- Subtle Bloodstone
+	[40115] = {class =   3, subclass =   0}, -- Subtle Cardinal Ruby
+	[42151] = {class =   3, subclass =   0}, -- Subtle Dragon's Eye
+	[40000] = {class =   3, subclass =   0}, -- Subtle Scarlet Ruby
+	[39985] = {class =   3, subclass =   0}, -- Sundered Dark Jade
+	[40176] = {class =   3, subclass =   0}, -- Sundered Eye of Zul
+	[40096] = {class =   3, subclass =   0}, -- Sundered Forest Emerald
+	[41339] = {class =   3, subclass =   0}, -- Swift Skyflare Diamond
+	[44076] = {class =   3, subclass =   0}, -- Swift Starflare Diamond
+	[39991] = {class =   3, subclass =   0}, -- Tense Dark Jade
+	[40181] = {class =   3, subclass =   0}, -- Tense Eye of Zul
+	[40101] = {class =   3, subclass =   0}, -- Tense Forest Emerald
+	[40131] = {class =   3, subclass =   0}, -- Tenuous Dreadstone
+	[39942] = {class =   3, subclass =   0}, -- Tenuous Shadow Crystal
+	[40024] = {class =   3, subclass =   0}, -- Tenuous Twilight Opal
+	[40015] = {class =   3, subclass =   0}, -- Thick Autumn's Glow
+	[42157] = {class =   3, subclass =   0}, -- Thick Dragon's Eye
+	[40126] = {class =   3, subclass =   0}, -- Thick King's Amber
+	[39916] = {class =   3, subclass =   0}, -- Thick Sun Crystal
+	[41400] = {class =   3, subclass =   0}, -- Thundering Skyflare Diamond
+	[39968] = {class =   3, subclass =   0}, -- Timeless Dark Jade
+	[40164] = {class =   3, subclass =   0}, -- Timeless Eye of Zul
+	[40085] = {class =   3, subclass =   0}, -- Timeless Forest Emerald
+	[41375] = {class =   3, subclass =   0}, -- Tireless Skyflare Diamond
+	[44078] = {class =   3, subclass =   0}, -- Tireless Starflare Diamond
+	[44089] = {class =   3, subclass =   0}, -- Trenchant Earthshatter Diamond
+	[41382] = {class =   3, subclass =   0}, -- Trenchant Earthsiege Diamond
+	[39982] = {class =   3, subclass =   0}, -- Turbid Dark Jade
+	[40173] = {class =   3, subclass =   0}, -- Turbid Eye of Zul
+	[40102] = {class =   3, subclass =   0}, -- Turbid Forest Emerald
+	[40153] = {class =   3, subclass =   0}, -- Veiled Ametrine
+	[39957] = {class =   3, subclass =   0}, -- Veiled Huge Citrine
+	[40049] = {class =   3, subclass =   0}, -- Veiled Monarch Topaz
+	[39975] = {class =   3, subclass =   0}, -- Vivid Dark Jade
+	[40166] = {class =   3, subclass =   0}, -- Vivid Eye of Zul
+	[40088] = {class =   3, subclass =   0}, -- Vivid Forest Emerald
+	[40156] = {class =   3, subclass =   0}, -- Wicked Ametrine
+	[39960] = {class =   3, subclass =   0}, -- Wicked Huge Citrine
+
 -- Reagents
 	[37201] = {class =   5, subclass =   0}, -- Death Knight: Corpse Dust
 	[44615] = {class =   5, subclass =   0}, -- Priest: Devout Candle
@@ -906,380 +1256,6 @@ data.overrides_wrath = {
 	[39350] = {class =   7, subclass =  12}, -- Weapon Vellum II
 	[43146] = {class =   7, subclass =  12}, -- Weapon Vellum III
 
--- Trade Goods: Gems
-	[39966] = {class =   7, subclass =  90}, -- Accurate Huge Citrine
-	[39937] = {class =   7, subclass =  90}, -- Balanced Shadow Crystal
-	[36917] = {class =   7, subclass =  90}, -- Bloodstone
-	[39900] = {class =   7, subclass =  90}, -- Bold Bloodstone
-	[39906] = {class =   7, subclass =  90}, -- Bright Bloodstone
-	[39912] = {class =   7, subclass =  90}, -- Brilliant Sun Crystal
-	[36923] = {class =   7, subclass =  90}, -- Chalcedony
-	[39949] = {class =   7, subclass =  90}, -- Champion's Huge Citrine
-	[36932] = {class =   7, subclass =  90}, -- Dark Jade
-	[39984] = {class =   7, subclass =  90}, -- Dazzling Dark Jade
-	[39952] = {class =   7, subclass =  90}, -- Deadly Huge Citrine
-	[39939] = {class =   7, subclass =  90}, -- Defender's Shadow Crystal
-	[39955] = {class =   7, subclass =  90}, -- Deft Huge Citrine
-	[39905] = {class =   7, subclass =  90}, -- Delicate Bloodstone
-	[39958] = {class =   7, subclass =  90}, -- Durable Huge Citrine
-	[39962] = {class =   7, subclass =  90}, -- Empowered Huge Citrine
-	[42701] = {class =   7, subclass =  90}, -- Enchanted Pearl
-	[39976] = {class =   7, subclass =  90}, -- Enduring Dark Jade
-	[39989] = {class =   7, subclass =  90}, -- Energized Dark Jade
-	[39948] = {class =   7, subclass =  90}, -- Etched Huge Citrine
-	[39951] = {class =   7, subclass =  90}, -- Fierce Huge Citrine
-	[39908] = {class =   7, subclass =  90}, -- Flashing Bloodstone
-	[39978] = {class =   7, subclass =  90}, -- Forceful Dark Jade
-	[39909] = {class =   7, subclass =  90}, -- Fractured Bloodstone
-	[39965] = {class =   7, subclass =  90}, -- Glimmering Huge Citrine
-	[39953] = {class =   7, subclass =  90}, -- Glinting Huge Citrine
-	[39936] = {class =   7, subclass =  90}, -- Glowing Shadow Crystal
-	[39940] = {class =   7, subclass =  90}, -- Guardian's Shadow Crystal
-	[36929] = {class =   7, subclass =  90}, -- Huge Citrine
-	[39944] = {class =   7, subclass =  90}, -- Infused Shadow Crystal
-	[39947] = {class =   7, subclass =  90}, -- Inscribed Huge Citrine
-	[39983] = {class =   7, subclass =  90}, -- Intricate Dark Jade
-	[39974] = {class =   7, subclass =  90}, -- Jagged Dark Jade
-	[39986] = {class =   7, subclass =  90}, -- Lambent Dark Jade
-	[39954] = {class =   7, subclass =  90}, -- Lucent Huge Citrine
-	[39946] = {class =   7, subclass =  90}, -- Luminous Huge Citrine
-	[39927] = {class =   7, subclass =  90}, -- Lustrous Chalcedony
-	[39980] = {class =   7, subclass =  90}, -- Misty Dark Jade
-	[39945] = {class =   7, subclass =  90}, -- Mysterious Shadow Crystal
-	[39917] = {class =   7, subclass =  90}, -- Mystic Sun Crystal
-	[36783] = {class =   7, subclass =  90}, -- Northsea Pearl
-	[39988] = {class =   7, subclass =  90}, -- Opaque Dark Jade
-	[41482] = {class =   7, subclass =  90}, -- Perfect Accurate Huge Citrine
-	[41450] = {class =   7, subclass =  90}, -- Perfect Balanced Shadow Crystal
-	[41432] = {class =   7, subclass =  90}, -- Perfect Bold Bloodstone
-	[41433] = {class =   7, subclass =  90}, -- Perfect Bright Bloodstone
-	[41444] = {class =   7, subclass =  90}, -- Perfect Brilliant Sun Crystal
-	[41483] = {class =   7, subclass =  90}, -- Perfect Champion's Huge Citrine
-	[41463] = {class =   7, subclass =  90}, -- Perfect Dazzling Dark Jade
-	[41484] = {class =   7, subclass =  90}, -- Perfect Deadly Huge Citrine
-	[41451] = {class =   7, subclass =  90}, -- Perfect Defender's Shadow Crystal
-	[41485] = {class =   7, subclass =  90}, -- Perfect Deft Huge Citrine
-	[41434] = {class =   7, subclass =  90}, -- Perfect Delicate Bloodstone
-	[41486] = {class =   7, subclass =  90}, -- Perfect Durable Huge Citrine
-	[41487] = {class =   7, subclass =  90}, -- Perfect Empowered Huge Citrine
-	[41464] = {class =   7, subclass =  90}, -- Perfect Enduring Dark Jade
-	[41465] = {class =   7, subclass =  90}, -- Perfect Energized Dark Jade
-	[41488] = {class =   7, subclass =  90}, -- Perfect Etched Huge Citrine
-	[41489] = {class =   7, subclass =  90}, -- Perfect Fierce Huge Citrine
-	[41435] = {class =   7, subclass =  90}, -- Perfect Flashing Bloodstone
-	[41466] = {class =   7, subclass =  90}, -- Perfect Forceful Dark Jade
-	[41436] = {class =   7, subclass =  90}, -- Perfect Fractured Bloodstone
-	[41490] = {class =   7, subclass =  90}, -- Perfect Glimmering Huge Citrine
-	[41491] = {class =   7, subclass =  90}, -- Perfect Glinting Huge Citrine
-	[41452] = {class =   7, subclass =  90}, -- Perfect Glowing Shadow Crystal
-	[41453] = {class =   7, subclass =  90}, -- Perfect Guardian's Shadow Crystal
-	[41454] = {class =   7, subclass =  90}, -- Perfect Infused Shadow Crystal
-	[41492] = {class =   7, subclass =  90}, -- Perfect Inscribed Huge Citrine
-	[41467] = {class =   7, subclass =  90}, -- Perfect Intricate Dark Jade
-	[41468] = {class =   7, subclass =  90}, -- Perfect Jagged Dark Jade
-	[41469] = {class =   7, subclass =  90}, -- Perfect Lambent Dark Jade
-	[41493] = {class =   7, subclass =  90}, -- Perfect Lucent Huge Citrine
-	[41494] = {class =   7, subclass =  90}, -- Perfect Luminous Huge Citrine
-	[41440] = {class =   7, subclass =  90}, -- Perfect Lustrous Chalcedony
-	[41470] = {class =   7, subclass =  90}, -- Perfect Misty Dark Jade
-	[41455] = {class =   7, subclass =  90}, -- Perfect Mysterious Shadow Crystal
-	[41445] = {class =   7, subclass =  90}, -- Perfect Mystic Sun Crystal
-	[41471] = {class =   7, subclass =  90}, -- Perfect Opaque Dark Jade
-	[41495] = {class =   7, subclass =  90}, -- Perfect Potent Huge Citrine
-	[41437] = {class =   7, subclass =  90}, -- Perfect Precise Bloodstone
-	[41496] = {class =   7, subclass =  90}, -- Perfect Pristine Huge Citrine
-	[41456] = {class =   7, subclass =  90}, -- Perfect Puissant Shadow Crystal
-	[41457] = {class =   7, subclass =  90}, -- Perfect Purified Shadow Crystal
-	[41446] = {class =   7, subclass =  90}, -- Perfect Quick Sun Crystal
-	[41472] = {class =   7, subclass =  90}, -- Perfect Radiant Dark Jade
-	[41497] = {class =   7, subclass =  90}, -- Perfect Reckless Huge Citrine
-	[41458] = {class =   7, subclass =  90}, -- Perfect Regal Shadow Crystal
-	[41498] = {class =   7, subclass =  90}, -- Perfect Resolute Huge Citrine
-	[41499] = {class =   7, subclass =  90}, -- Perfect Resplendent Huge Citrine
-	[41447] = {class =   7, subclass =  90}, -- Perfect Rigid Sun Crystal
-	[41459] = {class =   7, subclass =  90}, -- Perfect Royal Shadow Crystal
-	[41438] = {class =   7, subclass =  90}, -- Perfect Runed Bloodstone
-	[41473] = {class =   7, subclass =  90}, -- Perfect Seer's Dark Jade
-	[41474] = {class =   7, subclass =  90}, -- Perfect Shattered Dark Jade
-	[41460] = {class =   7, subclass =  90}, -- Perfect Shifting Shadow Crystal
-	[41475] = {class =   7, subclass =  90}, -- Perfect Shining Dark Jade
-	[41448] = {class =   7, subclass =  90}, -- Perfect Smooth Sun Crystal
-	[41441] = {class =   7, subclass =  90}, -- Perfect Solid Chalcedony
-	[41461] = {class =   7, subclass =  90}, -- Perfect Sovereign Shadow Crystal
-	[41442] = {class =   7, subclass =  90}, -- Perfect Sparkling Chalcedony
-	[41500] = {class =   7, subclass =  90}, -- Perfect Stalwart Huge Citrine
-	[41501] = {class =   7, subclass =  90}, -- Perfect Stark Huge Citrine
-	[41476] = {class =   7, subclass =  90}, -- Perfect Steady Dark Jade
-	[41443] = {class =   7, subclass =  90}, -- Perfect Stormy Chalcedony
-	[41439] = {class =   7, subclass =  90}, -- Perfect Subtle Bloodstone
-	[41477] = {class =   7, subclass =  90}, -- Perfect Sundered Dark Jade
-	[41478] = {class =   7, subclass =  90}, -- Perfect Tense Dark Jade
-	[41462] = {class =   7, subclass =  90}, -- Perfect Tenuous Shadow Crystal
-	[41449] = {class =   7, subclass =  90}, -- Perfect Thick Sun Crystal
-	[41479] = {class =   7, subclass =  90}, -- Perfect Timeless Dark Jade
-	[41480] = {class =   7, subclass =  90}, -- Perfect Turbid Dark Jade
-	[41502] = {class =   7, subclass =  90}, -- Perfect Veiled Huge Citrine
-	[41481] = {class =   7, subclass =  90}, -- Perfect Vivid Dark Jade
-	[41429] = {class =   7, subclass =  90}, -- Perfect Wicked Huge Citrine
-	[39956] = {class =   7, subclass =  90}, -- Potent Huge Citrine
-	[39910] = {class =   7, subclass =  90}, -- Precise Bloodstone
-	[45054] = {class =   7, subclass =  90}, -- Prismatic Black Diamond
-	[39961] = {class =   7, subclass =  90}, -- Pristine Huge Citrine
-	[39933] = {class =   7, subclass =  90}, -- Puissant Shadow Crystal
-	[39941] = {class =   7, subclass =  90}, -- Purified Shadow Crystal
-	[39918] = {class =   7, subclass =  90}, -- Quick Sun Crystal
-	[39990] = {class =   7, subclass =  90}, -- Radiant Dark Jade
-	[39959] = {class =   7, subclass =  90}, -- Reckless Huge Citrine
-	[39938] = {class =   7, subclass =  90}, -- Regal Shadow Crystal
-	[39967] = {class =   7, subclass =  90}, -- Resolute Huge Citrine
-	[39950] = {class =   7, subclass =  90}, -- Resplendent Huge Citrine
-	[39915] = {class =   7, subclass =  90}, -- Rigid Sun Crystal
-	[39943] = {class =   7, subclass =  90}, -- Royal Shadow Crystal
-	[39911] = {class =   7, subclass =  90}, -- Runed Bloodstone
-	[39979] = {class =   7, subclass =  90}, -- Seer's Dark Jade
-	[36926] = {class =   7, subclass =  90}, -- Shadow Crystal
-	[39992] = {class =   7, subclass =  90}, -- Shattered Dark Jade
-	[39935] = {class =   7, subclass =  90}, -- Shifting Shadow Crystal
-	[39981] = {class =   7, subclass =  90}, -- Shining Dark Jade
-	[39914] = {class =   7, subclass =  90}, -- Smooth Sun Crystal
-	[39919] = {class =   7, subclass =  90}, -- Solid Chalcedony
-	[39934] = {class =   7, subclass =  90}, -- Sovereign Shadow Crystal
-	[39920] = {class =   7, subclass =  90}, -- Sparkling Chalcedony
-	[39964] = {class =   7, subclass =  90}, -- Stalwart Huge Citrine
-	[39963] = {class =   7, subclass =  90}, -- Stark Huge Citrine
-	[39977] = {class =   7, subclass =  90}, -- Steady Dark Jade
-	[39932] = {class =   7, subclass =  90}, -- Stormy Chalcedony
-	[39907] = {class =   7, subclass =  90}, -- Subtle Bloodstone
-	[36920] = {class =   7, subclass =  90}, -- Sun Crystal
-	[39985] = {class =   7, subclass =  90}, -- Sundered Dark Jade
-	[39991] = {class =   7, subclass =  90}, -- Tense Dark Jade
-	[39942] = {class =   7, subclass =  90}, -- Tenuous Shadow Crystal
-	[39916] = {class =   7, subclass =  90}, -- Thick Sun Crystal
-	[39968] = {class =   7, subclass =  90}, -- Timeless Dark Jade
-	[39982] = {class =   7, subclass =  90}, -- Turbid Dark Jade
-	[39957] = {class =   7, subclass =  90}, -- Veiled Huge Citrine
-	[39975] = {class =   7, subclass =  90}, -- Vivid Dark Jade
-	[39960] = {class =   7, subclass =  90}, -- Wicked Huge Citrine
-	[40058] = {class =   7, subclass =  90}, -- Accurate Monarch Topaz
-	[41380] = {class =   7, subclass =  90}, -- Austere Earthsiege Diamond
-	[36921] = {class =   7, subclass =  90}, -- Autumn's Glow
-	[40029] = {class =   7, subclass =  90}, -- Balanced Twilight Opal
-	[41389] = {class =   7, subclass =  90}, -- Beaming Earthsiege Diamond
-	[39996] = {class =   7, subclass =  90}, -- Bold Scarlet Ruby
-	[41395] = {class =   7, subclass =  90}, -- Bracing Earthsiege Diamond
-	[39999] = {class =   7, subclass =  90}, -- Bright Scarlet Ruby
-	[40012] = {class =   7, subclass =  90}, -- Brilliant Autumn's Glow
-	[40039] = {class =   7, subclass =  90}, -- Champion's Monarch Topaz
-	[41285] = {class =   7, subclass =  90}, -- Chaotic Skyflare Diamond
-	[34143] = {class =   7, subclass =  90}, -- Chromatic Sphere
-	[40094] = {class =   7, subclass =  90}, -- Dazzling Forest Emerald
-	[40043] = {class =   7, subclass =  90}, -- Deadly Monarch Topaz
-	[40032] = {class =   7, subclass =  90}, -- Defender's Twilight Opal
-	[40046] = {class =   7, subclass =  90}, -- Deft Monarch Topaz
-	[39997] = {class =   7, subclass =  90}, -- Delicate Scarlet Ruby
-	[41307] = {class =   7, subclass =  90}, -- Destructive Skyflare Diamond
-	[42225] = {class =   7, subclass =  90}, -- Dragon's Eye
-	[40050] = {class =   7, subclass =  90}, -- Durable Monarch Topaz
-	[41334] = {class =   7, subclass =  90}, -- Earthsiege Diamond
-	[41377] = {class =   7, subclass =  90}, -- Effulgent Skyflare Diamond
-	[41333] = {class =   7, subclass =  90}, -- Ember Skyflare Diamond
-	[40054] = {class =   7, subclass =  90}, -- Empowered Monarch Topaz
-	[42702] = {class =   7, subclass =  90}, -- Enchanted Tear
-	[40089] = {class =   7, subclass =  90}, -- Enduring Forest Emerald
-	[40105] = {class =   7, subclass =  90}, -- Energized Forest Emerald
-	[41335] = {class =   7, subclass =  90}, -- Enigmatic Skyflare Diamond
-	[44081] = {class =   7, subclass =  90}, -- Enigmatic Starflare Diamond
-	[40038] = {class =   7, subclass =  90}, -- Etched Monarch Topaz
-	[41396] = {class =   7, subclass =  90}, -- Eternal Earthsiege Diamond
-	[40041] = {class =   7, subclass =  90}, -- Fierce Monarch Topaz
-	[40001] = {class =   7, subclass =  90}, -- Flashing Scarlet Ruby
-	[40091] = {class =   7, subclass =  90}, -- Forceful Forest Emerald
-	[36933] = {class =   7, subclass =  90}, -- Forest Emerald
-	[41378] = {class =   7, subclass =  90}, -- Forlorn Skyflare Diamond
-	[44084] = {class =   7, subclass =  90}, -- Forlorn Starflare Diamond
-	[40002] = {class =   7, subclass =  90}, -- Fractured Scarlet Ruby
-	[40057] = {class =   7, subclass =  90}, -- Glimmering Monarch Topaz
-	[40044] = {class =   7, subclass =  90}, -- Glinting Monarch Topaz
-	[40025] = {class =   7, subclass =  90}, -- Glowing Twilight Opal
-	[40034] = {class =   7, subclass =  90}, -- Guardian's Twilight Opal
-	[41379] = {class =   7, subclass =  90}, -- Impassive Skyflare Diamond
-	[44082] = {class =   7, subclass =  90}, -- Impassive Starflare Diamond
-	[34142] = {class =   7, subclass =  90}, -- Infinite Sphere
-	[40030] = {class =   7, subclass =  90}, -- Infused Twilight Opal
-	[40037] = {class =   7, subclass =  90}, -- Inscribed Monarch Topaz
-	[41401] = {class =   7, subclass =  90}, -- Insightful Earthsiege Diamond
-	[40104] = {class =   7, subclass =  90}, -- Intricate Forest Emerald
-	[41385] = {class =   7, subclass =  90}, -- Invigorating Earthsiege Diamond
-	[40086] = {class =   7, subclass =  90}, -- Jagged Forest Emerald
-	[40100] = {class =   7, subclass =  90}, -- Lambent Forest Emerald
-	[40045] = {class =   7, subclass =  90}, -- Lucent Monarch Topaz
-	[40047] = {class =   7, subclass =  90}, -- Luminous Monarch Topaz
-	[40010] = {class =   7, subclass =  90}, -- Lustrous Sky Sapphire
-	[40095] = {class =   7, subclass =  90}, -- Misty Forest Emerald
-	[36930] = {class =   7, subclass =  90}, -- Monarch Topaz
-	[40028] = {class =   7, subclass =  90}, -- Mysterious Twilight Opal
-	[40016] = {class =   7, subclass =  90}, -- Mystic Autumn's Glow
-	[40103] = {class =   7, subclass =  90}, -- Opaque Forest Emerald
-	[44087] = {class =   7, subclass =  90}, -- Persistent Earthshatter Diamond
-	[41381] = {class =   7, subclass =  90}, -- Persistent Earthsiege Diamond
-	[40048] = {class =   7, subclass =  90}, -- Potent Monarch Topaz
-	[44088] = {class =   7, subclass =  90}, -- Powerful Earthshatter Diamond
-	[41397] = {class =   7, subclass =  90}, -- Powerful Earthsiege Diamond
-	[40003] = {class =   7, subclass =  90}, -- Precise Scarlet Ruby
-	[40053] = {class =   7, subclass =  90}, -- Pristine Monarch Topaz
-	[40033] = {class =   7, subclass =  90}, -- Puissant Twilight Opal
-	[40026] = {class =   7, subclass =  90}, -- Purified Twilight Opal
-	[40017] = {class =   7, subclass =  90}, -- Quick Autumn's Glow
-	[40098] = {class =   7, subclass =  90}, -- Radiant Forest Emerald
-	[40051] = {class =   7, subclass =  90}, -- Reckless Monarch Topaz
-	[40031] = {class =   7, subclass =  90}, -- Regal Twilight Opal
-	[41398] = {class =   7, subclass =  90}, -- Relentless Earthsiege Diamond
-	[40059] = {class =   7, subclass =  90}, -- Resolute Monarch Topaz
-	[40040] = {class =   7, subclass =  90}, -- Resplendent Monarch Topaz
-	[41376] = {class =   7, subclass =  90}, -- Revitalizing Skyflare Diamond
-	[40014] = {class =   7, subclass =  90}, -- Rigid Autumn's Glow
-	[40027] = {class =   7, subclass =  90}, -- Royal Twilight Opal
-	[39998] = {class =   7, subclass =  90}, -- Runed Scarlet Ruby
-	[36918] = {class =   7, subclass =  90}, -- Scarlet Ruby
-	[40092] = {class =   7, subclass =  90}, -- Seer's Forest Emerald
-	[40106] = {class =   7, subclass =  90}, -- Shattered Forest Emerald
-	[40023] = {class =   7, subclass =  90}, -- Shifting Twilight Opal
-	[40099] = {class =   7, subclass =  90}, -- Shining Forest Emerald
-	[36784] = {class =   7, subclass =  90}, -- Siren's Tear
-	[36924] = {class =   7, subclass =  90}, -- Sky Sapphire
-	[41266] = {class =   7, subclass =  90}, -- Skyflare Diamond
-	[40013] = {class =   7, subclass =  90}, -- Smooth Autumn's Glow
-	[40008] = {class =   7, subclass =  90}, -- Solid Sky Sapphire
-	[40022] = {class =   7, subclass =  90}, -- Sovereign Twilight Opal
-	[40009] = {class =   7, subclass =  90}, -- Sparkling Sky Sapphire
-	[40056] = {class =   7, subclass =  90}, -- Stalwart Monarch Topaz
-	[40055] = {class =   7, subclass =  90}, -- Stark Monarch Topaz
-	[40090] = {class =   7, subclass =  90}, -- Steady Forest Emerald
-	[40011] = {class =   7, subclass =  90}, -- Stormy Sky Sapphire
-	[40000] = {class =   7, subclass =  90}, -- Subtle Scarlet Ruby
-	[40096] = {class =   7, subclass =  90}, -- Sundered Forest Emerald
-	[41339] = {class =   7, subclass =  90}, -- Swift Skyflare Diamond
-	[44076] = {class =   7, subclass =  90}, -- Swift Starflare Diamond
-	[40101] = {class =   7, subclass =  90}, -- Tense Forest Emerald
-	[40024] = {class =   7, subclass =  90}, -- Tenuous Twilight Opal
-	[40015] = {class =   7, subclass =  90}, -- Thick Autumn's Glow
-	[41400] = {class =   7, subclass =  90}, -- Thundering Skyflare Diamond
-	[40085] = {class =   7, subclass =  90}, -- Timeless Forest Emerald
-	[41375] = {class =   7, subclass =  90}, -- Tireless Skyflare Diamond
-	[44078] = {class =   7, subclass =  90}, -- Tireless Starflare Diamond
-	[44089] = {class =   7, subclass =  90}, -- Trenchant Earthshatter Diamond
-	[41382] = {class =   7, subclass =  90}, -- Trenchant Earthsiege Diamond
-	[40102] = {class =   7, subclass =  90}, -- Turbid Forest Emerald
-	[36927] = {class =   7, subclass =  90}, -- Twilight Opal
-	[40049] = {class =   7, subclass =  90}, -- Veiled Monarch Topaz
-	[40088] = {class =   7, subclass =  90}, -- Vivid Forest Emerald
-	[40052] = {class =   7, subclass =  90}, -- Wicked Monarch Topaz
-	[40162] = {class =   7, subclass =  90}, -- Accurate Ametrine
-	[36931] = {class =   7, subclass =  90}, -- Ametrine
-	[40136] = {class =   7, subclass =  90}, -- Balanced Dreadstone
-	[40111] = {class =   7, subclass =  90}, -- Bold Cardinal Ruby
-	[42142] = {class =   7, subclass =  90}, -- Bold Dragon's Eye
-	[45862] = {class =   7, subclass =  90}, -- Bold Stormjewel
-	[40114] = {class =   7, subclass =  90}, -- Bright Cardinal Ruby
-	[36766] = {class =   7, subclass =  90}, -- Bright Dragon's Eye
-	[42148] = {class =   7, subclass =  90}, -- Brilliant Dragon's Eye
-	[40123] = {class =   7, subclass =  90}, -- Brilliant King's Amber
-	[45882] = {class =   7, subclass =  90}, -- Brilliant Stormjewel
-	[36919] = {class =   7, subclass =  90}, -- Cardinal Ruby
-	[40144] = {class =   7, subclass =  90}, -- Champion's Ametrine
-	[40175] = {class =   7, subclass =  90}, -- Dazzling Eye of Zul
-	[40147] = {class =   7, subclass =  90}, -- Deadly Ametrine
-	[40139] = {class =   7, subclass =  90}, -- Defender's Dreadstone
-	[40150] = {class =   7, subclass =  90}, -- Deft Ametrine
-	[40112] = {class =   7, subclass =  90}, -- Delicate Cardinal Ruby
-	[42143] = {class =   7, subclass =  90}, -- Delicate Dragon's Eye
-	[45879] = {class =   7, subclass =  90}, -- Delicate Stormjewel
-	[36928] = {class =   7, subclass =  90}, -- Dreadstone
-	[40154] = {class =   7, subclass =  90}, -- Durable Ametrine
-	[40158] = {class =   7, subclass =  90}, -- Empowered Ametrine
-	[40167] = {class =   7, subclass =  90}, -- Enduring Eye of Zul
-	[40179] = {class =   7, subclass =  90}, -- Energized Eye of Zul
-	[40143] = {class =   7, subclass =  90}, -- Etched Ametrine
-	[36934] = {class =   7, subclass =  90}, -- Eye of Zul
-	[40146] = {class =   7, subclass =  90}, -- Fierce Ametrine
-	[40116] = {class =   7, subclass =  90}, -- Flashing Cardinal Ruby
-	[42152] = {class =   7, subclass =  90}, -- Flashing Dragon's Eye
-	[40169] = {class =   7, subclass =  90}, -- Forceful Eye of Zul
-	[40117] = {class =   7, subclass =  90}, -- Fractured Cardinal Ruby
-	[42153] = {class =   7, subclass =  90}, -- Fractured Dragon's Eye
-	[40161] = {class =   7, subclass =  90}, -- Glimmering Ametrine
-	[40148] = {class =   7, subclass =  90}, -- Glinting Ametrine
-	[40132] = {class =   7, subclass =  90}, -- Glowing Dreadstone
-	[40141] = {class =   7, subclass =  90}, -- Guardian's Dreadstone
-	[40137] = {class =   7, subclass =  90}, -- Infused Dreadstone
-	[40142] = {class =   7, subclass =  90}, -- Inscribed Ametrine
-	[40174] = {class =   7, subclass =  90}, -- Intricate Eye of Zul
-	[40165] = {class =   7, subclass =  90}, -- Jagged Eye of Zul
-	[44066] = {class =   7, subclass =  90}, -- Kharmaa's Grace
-	[36922] = {class =   7, subclass =  90}, -- King's Amber
-	[40177] = {class =   7, subclass =  90}, -- Lambent Eye of Zul
-	[40149] = {class =   7, subclass =  90}, -- Lucent Ametrine
-	[40151] = {class =   7, subclass =  90}, -- Luminous Ametrine
-	[42146] = {class =   7, subclass =  90}, -- Lustrous Dragon's Eye
-	[40121] = {class =   7, subclass =  90}, -- Lustrous Majestic Zircon
-	[36925] = {class =   7, subclass =  90}, -- Majestic Zircon
-	[40171] = {class =   7, subclass =  90}, -- Misty Eye of Zul
-	[40135] = {class =   7, subclass =  90}, -- Mysterious Dreadstone
-	[42158] = {class =   7, subclass =  90}, -- Mystic Dragon's Eye
-	[40127] = {class =   7, subclass =  90}, -- Mystic King's Amber
-	[49110] = {class =   7, subclass =  90}, -- Nightmare Tear
-	[40178] = {class =   7, subclass =  90}, -- Opaque Eye of Zul
-	[40152] = {class =   7, subclass =  90}, -- Potent Ametrine
-	[40118] = {class =   7, subclass =  90}, -- Precise Cardinal Ruby
-	[42154] = {class =   7, subclass =  90}, -- Precise Dragon's Eye
-	[40157] = {class =   7, subclass =  90}, -- Pristine Ametrine
-	[40140] = {class =   7, subclass =  90}, -- Puissant Dreadstone
-	[40133] = {class =   7, subclass =  90}, -- Purified Dreadstone
-	[42150] = {class =   7, subclass =  90}, -- Quick Dragon's Eye
-	[40128] = {class =   7, subclass =  90}, -- Quick King's Amber
-	[40180] = {class =   7, subclass =  90}, -- Radiant Eye of Zul
-	[40155] = {class =   7, subclass =  90}, -- Reckless Ametrine
-	[40138] = {class =   7, subclass =  90}, -- Regal Dreadstone
-	[40163] = {class =   7, subclass =  90}, -- Resolute Ametrine
-	[40145] = {class =   7, subclass =  90}, -- Resplendent Ametrine
-	[42156] = {class =   7, subclass =  90}, -- Rigid Dragon's Eye
-	[40125] = {class =   7, subclass =  90}, -- Rigid King's Amber
-	[45987] = {class =   7, subclass =  90}, -- Rigid Stormjewel
-	[40134] = {class =   7, subclass =  90}, -- Royal Dreadstone
-	[40113] = {class =   7, subclass =  90}, -- Runed Cardinal Ruby
-	[42144] = {class =   7, subclass =  90}, -- Runed Dragon's Eye
-	[45883] = {class =   7, subclass =  90}, -- Runed Stormjewel
-	[40170] = {class =   7, subclass =  90}, -- Seer's Eye of Zul
-	[40182] = {class =   7, subclass =  90}, -- Shattered Eye of Zul
-	[40130] = {class =   7, subclass =  90}, -- Shifting Dreadstone
-	[40172] = {class =   7, subclass =  90}, -- Shining Eye of Zul
-	[42149] = {class =   7, subclass =  90}, -- Smooth Dragon's Eye
-	[40124] = {class =   7, subclass =  90}, -- Smooth King's Amber
-	[36767] = {class =   7, subclass =  90}, -- Solid Dragon's Eye
-	[40119] = {class =   7, subclass =  90}, -- Solid Majestic Zircon
-	[45880] = {class =   7, subclass =  90}, -- Solid Stormjewel
-	[40129] = {class =   7, subclass =  90}, -- Sovereign Dreadstone
-	[42145] = {class =   7, subclass =  90}, -- Sparkling Dragon's Eye
-	[40120] = {class =   7, subclass =  90}, -- Sparkling Majestic Zircon
-	[45881] = {class =   7, subclass =  90}, -- Sparkling Stormjewel
-	[40160] = {class =   7, subclass =  90}, -- Stalwart Ametrine
-	[40159] = {class =   7, subclass =  90}, -- Stark Ametrine
-	[40168] = {class =   7, subclass =  90}, -- Steady Eye of Zul
-	[42155] = {class =   7, subclass =  90}, -- Stormy Dragon's Eye
-	[40122] = {class =   7, subclass =  90}, -- Stormy Majestic Zircon
-	[40115] = {class =   7, subclass =  90}, -- Subtle Cardinal Ruby
-	[42151] = {class =   7, subclass =  90}, -- Subtle Dragon's Eye
-	[40176] = {class =   7, subclass =  90}, -- Sundered Eye of Zul
-	[40181] = {class =   7, subclass =  90}, -- Tense Eye of Zul
-	[40131] = {class =   7, subclass =  90}, -- Tenuous Dreadstone
-	[42157] = {class =   7, subclass =  90}, -- Thick Dragon's Eye
-	[40126] = {class =   7, subclass =  90}, -- Thick King's Amber
-	[40164] = {class =   7, subclass =  90}, -- Timeless Eye of Zul
-	[40173] = {class =   7, subclass =  90}, -- Turbid Eye of Zul
-	[40153] = {class =   7, subclass =  90}, -- Veiled Ametrine
-	[40166] = {class =   7, subclass =  90}, -- Vivid Eye of Zul
-	[40156] = {class =   7, subclass =  90}, -- Wicked Ametrine
-
 -- Trade Goods: Cooking Ingredients
 --	[] = {class =   7, subclass =  92}, -- 
 
@@ -1299,39 +1275,65 @@ data.overrides_wrath = {
 	[35627] = {class =   7, subclass =  93}, -- Eternal Shadow
 	[35622] = {class =   7, subclass =  93}, -- Eternal Water
 
+-- Trade Goods: Jewelcrafting
+	[36931] = {class =   7, subclass =  94}, -- Ametrine
+	[36921] = {class =   7, subclass =  94}, -- Autumn's Glow
+	[36917] = {class =   7, subclass =  94}, -- Bloodstone
+	[36919] = {class =   7, subclass =  94}, -- Cardinal Ruby
+	[36923] = {class =   7, subclass =  94}, -- Chalcedony
+	[36932] = {class =   7, subclass =  94}, -- Dark Jade
+	[42225] = {class =   7, subclass =  94}, -- Dragon's Eye
+	[36928] = {class =   7, subclass =  94}, -- Dreadstone
+	[41334] = {class =   7, subclass =  94}, -- Earthsiege Diamond
+	[36934] = {class =   7, subclass =  94}, -- Eye of Zul
+	[36933] = {class =   7, subclass =  94}, -- Forest Emerald
+	[36929] = {class =   7, subclass =  94}, -- Huge Citrine
+	[36922] = {class =   7, subclass =  94}, -- King's Amber
+	[36925] = {class =   7, subclass =  94}, -- Majestic Zircon
+	[36930] = {class =   7, subclass =  94}, -- Monarch Topaz
+	[36783] = {class =   7, subclass =  94}, -- Northsea Pearl
+	[45054] = {class =   7, subclass =  94}, -- Prismatic Black Diamond
+	[36918] = {class =   7, subclass =  94}, -- Scarlet Ruby
+	[36926] = {class =   7, subclass =  94}, -- Shadow Crystal
+	[36784] = {class =   7, subclass =  94}, -- Siren's Tear
+	[36924] = {class =   7, subclass =  94}, -- Sky Sapphire
+	[41266] = {class =   7, subclass =  94}, -- Skyflare Diamond
+	[36920] = {class =   7, subclass =  94}, -- Sun Crystal
+	[36927] = {class =   7, subclass =  94}, -- Twilight Opal
+
 -- Trade Goods: Inscription
-	[39151] = {class =   7, subclass =  94}, -- Alabaster Pigment
-	[39343] = {class =   7, subclass =  94}, -- Azure Pigment
-	[43104] = {class =   7, subclass =  94}, -- Burnt Pigment
-	[39334] = {class =   7, subclass =  94}, -- Dusky Pigment
-	[43108] = {class =   7, subclass =  94}, -- Ebon Pigment
-	[39339] = {class =   7, subclass =  94}, -- Emerald Pigment
-	[39338] = {class =   7, subclass =  94}, -- Golden Pigment
-	[43109] = {class =   7, subclass =  94}, -- Icy Pigment
-	[43105] = {class =   7, subclass =  94}, -- Indigo Pigment
-	[39342] = {class =   7, subclass =  94}, -- Nether Pigment
-	[43106] = {class =   7, subclass =  94}, -- Ruby Pigment
-	[43107] = {class =   7, subclass =  94}, -- Sapphire Pigment
-	[39341] = {class =   7, subclass =  94}, -- Silvery Pigment
-	[43103] = {class =   7, subclass =  94}, -- Verdant Pigment
-	[39340] = {class =   7, subclass =  94}, -- Violet Pigment
-	[43120] = {class =   7, subclass =  94}, -- Celestial Ink
-	[43125] = {class =   7, subclass =  94}, -- Darkflame Ink
-	[43117] = {class =   7, subclass =  94}, -- Dawnstar Ink
-	[43124] = {class =   7, subclass =  94}, -- Ethereal Ink
-	[43121] = {class =   7, subclass =  94}, -- Fiery Ink
-	[43115] = {class =   7, subclass =  94}, -- Hunter's Ink
-	[43126] = {class =   7, subclass =  94}, -- Ink of the Sea
-	[43123] = {class =   7, subclass =  94}, -- Ink of the Sky
-	[37101] = {class =   7, subclass =  94}, -- Ivory Ink
-	[43118] = {class =   7, subclass =  94}, -- Jadefire Ink
-	[43116] = {class =   7, subclass =  94}, -- Lion's Ink
-	[39774] = {class =   7, subclass =  94}, -- Midnight Ink
-	[39469] = {class =   7, subclass =  94}, -- Moonglow Ink
-	[43119] = {class =   7, subclass =  94}, -- Royal Ink
-	[43122] = {class =   7, subclass =  94}, -- Shimmering Ink
-	[37100] = {class =   7, subclass =  94}, -- Silver Ink		(?)
-	[43127] = {class =   7, subclass =  94}, -- Snowfall Ink
+	[39151] = {class =   7, subclass =  95}, -- Alabaster Pigment
+	[39343] = {class =   7, subclass =  95}, -- Azure Pigment
+	[43104] = {class =   7, subclass =  95}, -- Burnt Pigment
+	[39334] = {class =   7, subclass =  95}, -- Dusky Pigment
+	[43108] = {class =   7, subclass =  95}, -- Ebon Pigment
+	[39339] = {class =   7, subclass =  95}, -- Emerald Pigment
+	[39338] = {class =   7, subclass =  95}, -- Golden Pigment
+	[43109] = {class =   7, subclass =  95}, -- Icy Pigment
+	[43105] = {class =   7, subclass =  95}, -- Indigo Pigment
+	[39342] = {class =   7, subclass =  95}, -- Nether Pigment
+	[43106] = {class =   7, subclass =  95}, -- Ruby Pigment
+	[43107] = {class =   7, subclass =  95}, -- Sapphire Pigment
+	[39341] = {class =   7, subclass =  95}, -- Silvery Pigment
+	[43103] = {class =   7, subclass =  95}, -- Verdant Pigment
+	[39340] = {class =   7, subclass =  95}, -- Violet Pigment
+	[43120] = {class =   7, subclass =  95}, -- Celestial Ink
+	[43125] = {class =   7, subclass =  95}, -- Darkflame Ink
+	[43117] = {class =   7, subclass =  95}, -- Dawnstar Ink
+	[43124] = {class =   7, subclass =  95}, -- Ethereal Ink
+	[43121] = {class =   7, subclass =  95}, -- Fiery Ink
+	[43115] = {class =   7, subclass =  95}, -- Hunter's Ink
+	[43126] = {class =   7, subclass =  95}, -- Ink of the Sea
+	[43123] = {class =   7, subclass =  95}, -- Ink of the Sky
+	[37101] = {class =   7, subclass =  95}, -- Ivory Ink
+	[43118] = {class =   7, subclass =  95}, -- Jadefire Ink
+	[43116] = {class =   7, subclass =  95}, -- Lion's Ink
+	[39774] = {class =   7, subclass =  95}, -- Midnight Ink
+	[39569] = {class =   7, subclass =  95}, -- Moonglow Ink
+	[43119] = {class =   7, subclass =  95}, -- Royal Ink
+	[43122] = {class =   7, subclass =  95}, -- Shimmering Ink
+	[37100] = {class =   7, subclass =  95}, -- Silver Ink		(?)
+	[43127] = {class =   7, subclass =  95}, -- Snowfall Ink
 
 -- Recipees
 	[39152] = {class =   9, subclass =   4}, -- Manual: Heavy Frostweave Bandage

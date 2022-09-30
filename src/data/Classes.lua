@@ -97,7 +97,8 @@ data.classes = {
             [91] = "Poison Reagents", -- stephenswat
             [92] = "Cooking Ingredients", -- stephenswat
             [93] = "Elemental", -- stephenswat
-            [94] = "Inscription", -- introduced in WotLK
+            [94] = "Jewelcrafting", -- introduced in TBC
+            [95] = "Inscription", -- introduced in WotLK
         },
     },
     [8] = {
