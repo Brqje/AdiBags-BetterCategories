@@ -26,7 +26,7 @@ I've included specific categorization for over 4600 items:
 
 - Approximately 1600 Vanilla items
 - Approximately 1100 TBC items
-- Approximately 1800 TBC items
+- Approximately 1800 WotLK items
 
 The general idea is that consumables which share buff slots or cooldowns are grouped into sub-categories. For instance:
 
