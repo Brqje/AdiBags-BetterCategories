@@ -1610,8 +1610,6 @@ data.items = {
 
 -- Miscellaneous
 	[ 6948] = {class =  15, subclass =   0}, -- Hearthstone
-	[21212] = {class =  15, subclass =   0}, -- Fresh Holly (mount, but technically a consumable)
-	[21213] = {class =  15, subclass =   0}, -- Preserved Holly (mount, but technically a consumable)
 
 -- Miscellaneous: Profession trade tools
 	[ 7005] = {class =  15, subclass =   0}, -- Skinning Knife
@@ -1645,6 +1643,192 @@ data.items = {
 	[15138] = {class =  15, subclass =  11}, -- Onyxia Scale Cloak (BWL: triple drake (tanks) & Nefarian (raid) soft requirement)
 	[21986] = {class =  15, subclass =  11}, -- Banner of Provocation
 	[22014] = {class =  15, subclass =  11}, -- Hallowed Brazier
+
+
+-- Mounts
+	[21212] = {class =  19, subclass =   0}, -- Fresh Holly (mount, but technically a consumable)
+	[21213] = {class =  19, subclass =   0}, -- Preserved Holly (mount, but technically a consumable)
+	[18243] = {class =  19, subclass =   0}, -- Black Battlestrider
+	[21176] = {class =  19, subclass =   0}, -- Black Qiraji Resonating Crystal
+	[13328] = {class =  19, subclass =   0}, -- Black Ram
+	[2411] = {class =  19, subclass =   0}, -- Black Stallion Bridle
+	[18247] = {class =  19, subclass =   0}, -- Black War Kodo
+	[18244] = {class =  19, subclass =   0}, -- Black War Ram
+	[18241] = {class =  19, subclass =   0}, -- Black War Steed Bridle
+	[16343] = {class =  19, subclass =   0}, -- Blood Guard's Mount
+	[8595] = {class =  19, subclass =   0}, -- Blue Mechanostrider
+	[21218] = {class =  19, subclass =   0}, -- Blue Qiraji Resonating Crystal
+	[13332] = {class =  19, subclass =   0}, -- Blue Skeletal Horse
+	[5656] = {class =  19, subclass =   0}, -- Brown Horse Bridle
+	[875] = {class =  19, subclass =   0}, -- Brown Horse Summoning
+	[15290] = {class =  19, subclass =   0}, -- Brown Kodo
+	[5872] = {class =  19, subclass =   0}, -- Brown Ram
+	[13333] = {class =  19, subclass =   0}, -- Brown Skeletal Horse
+	[5655] = {class =  19, subclass =   0}, -- Chestnut Mare Bridle
+	[16339] = {class =  19, subclass =   0}, -- Commander's Steed
+	[13335] = {class =  19, subclass =   0}, -- Deathcharger's Reins
+	[901] = {class =  19, subclass =   0}, -- Deptecated White Stallion Summoning (Mount)
+	[20221] = {class =  19, subclass =   0}, -- Fabled Steed
+	[13325] = {class =  19, subclass =   0}, -- Fluorescent Green Mechanostrider
+	[13329] = {class =  19, subclass =   0}, -- Frost Ram
+	[15277] = {class =  19, subclass =   0}, -- Gray Kodo
+	[5864] = {class =  19, subclass =   0}, -- Gray Ram
+	[18794] = {class =  19, subclass =   0}, -- Great Brown Kodo
+	[18795] = {class =  19, subclass =   0}, -- Great Gray Kodo
+	[18793] = {class =  19, subclass =   0}, -- Great White Kodo
+	[15292] = {class =  19, subclass =   0}, -- Green Kodo
+	[13321] = {class =  19, subclass =   0}, -- Green Mechanostrider
+	[21323] = {class =  19, subclass =   0}, -- Green Qiraji Resonating Crystal
+	[13334] = {class =  19, subclass =   0}, -- Green Skeletal Warhorse
+	[5874] = {class =  19, subclass =   0}, -- Harness: Black Ram
+	[5875] = {class =  19, subclass =   0}, -- Harness: Blue Ram
+	[12351] = {class =  19, subclass =   0}, -- Horn of the Arctic Wolf
+	[18245] = {class =  19, subclass =   0}, -- Horn of the Black War Wolf
+	[1041] = {class =  19, subclass =   0}, -- Horn of the Black Wolf
+	[5668] = {class =  19, subclass =   0}, -- Horn of the Brown Wolf
+	[5665] = {class =  19, subclass =   0}, -- Horn of the Dire Wolf
+	[19029] = {class =  19, subclass =   0}, -- Horn of the Frostwolf Howler
+	[1134] = {class =  19, subclass =   0}, -- Horn of the Gray Wolf
+	[12330] = {class =  19, subclass =   0}, -- Horn of the Red Wolf
+	[5663] = {class =  19, subclass =   0}, -- Horn of the Red Wolf
+	[8583] = {class =  19, subclass =   0}, -- Horn of the Skeletal Mount
+	[18796] = {class =  19, subclass =   0}, -- Horn of the Swift Brown Wolf
+	[18798] = {class =  19, subclass =   0}, -- Horn of the Swift Gray Wolf
+	[18797] = {class =  19, subclass =   0}, -- Horn of the Swift Timber Wolf
+	[1132] = {class =  19, subclass =   0}, -- Horn of the Timber Wolf
+	[1133] = {class =  19, subclass =   0}, -- Horn of the Winter Wolf
+	[13327] = {class =  19, subclass =   0}, -- Icy Blue Mechanostrider Mod A
+	[16338] = {class =  19, subclass =   0}, -- Knight-Lieutenant's Steed
+	[14062] = {class =  19, subclass =   0}, -- Kodo Mount
+	[16344] = {class =  19, subclass =   0}, -- Lieutenant General's Mount
+	[8589] = {class =  19, subclass =   0}, -- Old Whistle of the Ivory Raptor
+	[8590] = {class =  19, subclass =   0}, -- Old Whistle of the Obsidian Raptor
+	[2413] = {class =  19, subclass =   0}, -- Palomino
+	[12354] = {class =  19, subclass =   0}, -- Palomino Bridle
+	[2414] = {class =  19, subclass =   0}, -- Pinto Bridle
+	[13323] = {class =  19, subclass =   0}, -- Purple Mechanostrider
+	[18791] = {class =  19, subclass =   0}, -- Purple Skeletal Warhorse
+	[13324] = {class =  19, subclass =   0}, -- Red & Blue Mechanostrider
+	[8563] = {class =  19, subclass =   0}, -- Red Mechanostrider
+	[21321] = {class =  19, subclass =   0}, -- Red Qiraji Resonating Crystal
+	[13331] = {class =  19, subclass =   0}, -- Red Skeletal Horse
+	[18248] = {class =  19, subclass =   0}, -- Red Skeletal Warhorse
+	[8630] = {class =  19, subclass =   0}, -- Reins of the Bengal Tiger
+	[18242] = {class =  19, subclass =   0}, -- Reins of the Black War Tiger
+	[12302] = {class =  19, subclass =   0}, -- Reins of the Frostsaber
+	[12327] = {class =  19, subclass =   0}, -- Reins of the Golden Sabercat
+	[8633] = {class =  19, subclass =   0}, -- Reins of the Leopard
+	[8627] = {class =  19, subclass =   0}, -- Reins of the Night saber
+	[12303] = {class =  19, subclass =   0}, -- Reins of the Nightsaber
+	[12325] = {class =  19, subclass =   0}, -- Reins of the Primal Leopard
+	[8632] = {class =  19, subclass =   0}, -- Reins of the Spotted Frostsaber
+	[8628] = {class =  19, subclass =   0}, -- Reins of the Spotted Nightsaber
+	[8631] = {class =  19, subclass =   0}, -- Reins of the Striped Frostsaber
+	[8629] = {class =  19, subclass =   0}, -- Reins of the Striped Nightsaber
+	[18768] = {class =  19, subclass =   0}, -- Reins of the Swift Dawnsaber
+	[18766] = {class =  19, subclass =   0}, -- Reins of the Swift Frostsaber
+	[18767] = {class =  19, subclass =   0}, -- Reins of the Swift Mistsaber
+	[18902] = {class =  19, subclass =   0}, -- Reins of the Swift Stormsaber
+	[12326] = {class =  19, subclass =   0}, -- Reins of the Tawny Sabercat
+	[13086] = {class =  19, subclass =   0}, -- Reins of the Winterspring Frostsaber
+	[21736] = {class =  19, subclass =   0}, -- Riding Gryphon Reins
+	[23720] = {class =  19, subclass =   0}, -- Riding Turtle
+	[191480] = {class =  19, subclass =   0}, -- Skeletal Steed
+	[23193] = {class =  19, subclass =   0}, -- Skeletal Steed Reins
+	[19030] = {class =  19, subclass =   0}, -- Stormpike Battle Charger
+	[18788] = {class =  19, subclass =   0}, -- Swift Blue Raptor
+	[18786] = {class =  19, subclass =   0}, -- Swift Brown Ram
+	[18777] = {class =  19, subclass =   0}, -- Swift Brown Steed
+	[18787] = {class =  19, subclass =   0}, -- Swift Gray Ram
+	[18772] = {class =  19, subclass =   0}, -- Swift Green Mechanostrider
+	[18789] = {class =  19, subclass =   0}, -- Swift Olive Raptor
+	[18790] = {class =  19, subclass =   0}, -- Swift Orange Raptor
+	[18776] = {class =  19, subclass =   0}, -- Swift Palomino
+	[19872] = {class =  19, subclass =   0}, -- Swift Razzashi Raptor
+	[18773] = {class =  19, subclass =   0}, -- Swift White Mechanostrider
+	[18785] = {class =  19, subclass =   0}, -- Swift White Ram
+	[18778] = {class =  19, subclass =   0}, -- Swift White Steed
+	[18774] = {class =  19, subclass =   0}, -- Swift Yellow Mechanostrider
+	[19902] = {class =  19, subclass =   0}, -- Swift Zulian Tiger
+	[15293] = {class =  19, subclass =   0}, -- Teal Kodo
+	[13322] = {class =  19, subclass =   0}, -- Unpainted Mechanostrider
+	[18246] = {class =  19, subclass =   0}, -- Whistle of the Black War Raptor
+	[8588] = {class =  19, subclass =   0}, -- Whistle of the Emerald Raptor
+	[13317] = {class =  19, subclass =   0}, -- Whistle of the Ivory Raptor
+	[8586] = {class =  19, subclass =   0}, -- Whistle of the Mottled Red Raptor
+	[8591] = {class =  19, subclass =   0}, -- Whistle of the Turquoise Raptor
+	[8592] = {class =  19, subclass =   0}, -- Whistle of the Violet Raptor
+	[13326] = {class =  19, subclass =   0}, -- White Mechanostrider Mod A
+	[5873] = {class =  19, subclass =   0}, -- White Ram
+	[2415] = {class =  19, subclass =   0}, -- White Stallion
+	[12353] = {class =  19, subclass =   0}, -- White Stallion Bridle
+	[21324] = {class =  19, subclass =   0}, -- Yellow Qiraji Resonating Crystal
+
+
+-- Companions
+	[19450] = {class =  20, subclass =   0}, -- A Jubling's Tiny Home
+	[11023] = {class =  20, subclass =   0}, -- Ancona Chicken
+	[21168] = {class =  20, subclass =   0}, -- Baby Shark
+	[10360] = {class =  20, subclass =   0}, -- Black Kingsnake
+	[20371] = {class =  20, subclass =   0}, -- Blue Murloc Egg
+	[10361] = {class =  20, subclass =   0}, -- Brown Snake
+	[23083] = {class =  20, subclass =   0}, -- Captured Flame
+	[8491] = {class =  20, subclass =   0}, -- Cat Carrier (Black Tabby)
+	[8485] = {class =  20, subclass =   0}, -- Cat Carrier (Bombay)
+	[8486] = {class =  20, subclass =   0}, -- Cat Carrier (Cornish Rex)
+	[11903] = {class =  20, subclass =   0}, -- Cat Carrier (Corrupted Kitten)
+	[8487] = {class =  20, subclass =   0}, -- Cat Carrier (Orange Tabby)
+	[8490] = {class =  20, subclass =   0}, -- Cat Carrier (Siamese)
+	[8488] = {class =  20, subclass =   0}, -- Cat Carrier (Silver Tabby)
+	[8489] = {class =  20, subclass =   0}, -- Cat Carrier (White Kitten)
+	[11110] = {class =  20, subclass =   0}, -- Chicken Egg
+	[10393] = {class =  20, subclass =   0}, -- Cockroach
+	[10392] = {class =  20, subclass =   0}, -- Crimson Snake
+	[10822] = {class =  20, subclass =   0}, -- Dark Whelpling
+	[13584] = {class =  20, subclass =   0}, -- Diablo Stone
+	[20769] = {class =  20, subclass =   0}, -- Disgusting Oozeling
+	[5332] = {class =  20, subclass =   0}, -- Glowing Cat Figurine
+	[8500] = {class =  20, subclass =   0}, -- Great Horned Owl
+	[19055] = {class =  20, subclass =   0}, -- Green Dragon Orb
+	[21301] = {class =  20, subclass =   0}, -- Green Helper Box
+	[8501] = {class =  20, subclass =   0}, -- Hawk Owl
+	[23713] = {class =  20, subclass =   0}, -- Hippogryph Hatchling
+	[21308] = {class =  20, subclass =   0}, -- Jingling Bell
+	[10398] = {class =  20, subclass =   0}, -- Mechanical Chicken
+	[20651] = {class =  20, subclass =   0}, -- Orange Murloc Egg
+	[13583] = {class =  20, subclass =   0}, -- Panda Collar
+	[180089] = {class =  20, subclass =   0}, -- Panda Collar
+	[8496] = {class =  20, subclass =   0}, -- Parrot Cage (Cockatiel)
+	[8492] = {class =  20, subclass =   0}, -- Parrot Cage (Green Wing Macaw)
+	[8494] = {class =  20, subclass =   0}, -- Parrot Cage (Hyacinth Macaw)
+	[8495] = {class =  20, subclass =   0}, -- Parrot Cage (Senegal)
+	[23007] = {class =  20, subclass =   0}, -- Piglet's Collar
+	[22114] = {class =  20, subclass =   0}, -- Pink Murloc Egg
+	[22781] = {class =  20, subclass =   0}, -- Polar Bear Collar
+	[10394] = {class =  20, subclass =   0}, -- Prairie Dog Whistle
+	[8497] = {class =  20, subclass =   0}, -- Rabbit Crate (Snowshoe)
+	[23015] = {class =  20, subclass =   0}, -- Rat Cage
+	[19054] = {class =  20, subclass =   0}, -- Red Dragon Orb
+	[21305] = {class =  20, subclass =   0}, -- Red Helper Box
+	[12529] = {class =  20, subclass =   0}, -- Smolderweb Carrier
+	[21309] = {class =  20, subclass =   0}, -- Snowman Kit
+	[11474] = {class =  20, subclass =   0}, -- Sprite Darter Egg
+	[8499] = {class =  20, subclass =   0}, -- Tiny Crimson Whelpling
+	[8498] = {class =  20, subclass =   0}, -- Tiny Emerald Whelpling
+	[11026] = {class =  20, subclass =   0}, -- Tree Frog Box
+	[22235] = {class =  20, subclass =   0}, -- Truesilver Shafted Arrow
+	[23002] = {class =  20, subclass =   0}, -- Turtle Box
+	[18963] = {class =  20, subclass =   0}, -- Turtle Egg (Albino)
+	[18965] = {class =  20, subclass =   0}, -- Turtle Egg (Hawksbill)
+	[18966] = {class =  20, subclass =   0}, -- Turtle Egg (Leatherback)
+	[18964] = {class =  20, subclass =   0}, -- Turtle Egg (Loggerhead)
+	[18967] = {class =  20, subclass =   0}, -- Turtle Egg (Olive)
+	[22780] = {class =  20, subclass =   0}, -- White Murloc Egg
+	[23712] = {class =  20, subclass =   0}, -- White Tiger Cub
+	[12565] = {class =  20, subclass =   0}, -- Winna's Kitten Carrier
+	[11027] = {class =  20, subclass =   0}, -- Wood Frog Box
+	[12264] = {class =  20, subclass =   0}, -- Worg Carrier
+	[13582] = {class =  20, subclass =   0}, -- Zergling Leash
 
 
 }

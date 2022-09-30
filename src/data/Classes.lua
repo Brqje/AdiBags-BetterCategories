@@ -24,6 +24,7 @@ data.classes = {
             [21] = "Battle Elixirs", -- introduced in TBC
             [22] = "Guardian Elixirs", -- introduced in TBC	
             [23] = "Drums", -- introduced in TBC (shares cooldown with explosives)
+            [51] = "Feasts", -- introduced in WotLK
             [52] = "Buff Food",
             [53] = "Buff Drinks",
             [54] = "Food",
@@ -33,6 +34,8 @@ data.classes = {
             [92] = "Weapon Buffs",
             [93] = "Fishing Buffs",
             [94] = "Armor Buffs", -- blacksmithing chest and shield buffs, introduced in TBC
+            [95] = "Stones", -- new Warlock stones, change introduced in WotLK
+            [96] = "Mana Gems", -- Mage mana gems, no longer chare Rune cooldowns in WotLK
         },
     },
     [1] = {
@@ -94,6 +97,7 @@ data.classes = {
             [91] = "Poison Reagents", -- stephenswat
             [92] = "Cooking Ingredients", -- stephenswat
             [93] = "Elemental", -- stephenswat
+            [94] = "Inscription", -- introduced in WotLK
         },
     },
     [8] = {
@@ -129,7 +133,7 @@ data.classes = {
         },
     },
     [12] = {
-        name = "Quests",
+        name = "Quest",
         subclasses = {
             [ 0] = nil,
             [ 1] = "Vanilla Token",
@@ -181,6 +185,8 @@ data.classes = {
             [12] = "Temp Key", -- Vanilla
             [21] = "Key", -- TBC
             [22] = "Temp Key", -- TBC
+            [31] = "Key", -- WotLK
+            [32] = "Temp Key", -- WotLK
         },
     },
     [14] = {
@@ -197,10 +203,11 @@ data.classes = {
             [ 4] = "Unknown",
             [11] = "Key", -- items which function as key or an event trigger, Vanilla
             [21] = "Key", -- items which function as key or an event trigger, TBC
+            [31] = "Key", -- items which function as key or an event trigger, WotLK
         },
     },
     [16] = {
-        name = "Glyphs", -- not applicable (introduced in WotLK)
+        name = "Glyphs", -- introduced in WotLK
         subclasses = {
             [ 0] = nil,
         },
@@ -217,4 +224,16 @@ data.classes = {
             [ 0] = nil,
         },
     },
+    [19] = {
+        name = "Mounts",
+        subclasses = {
+            [ 0] = "Mounts",
+        },
+    },
+    [20] = {
+        name = "Companions",
+        subclasses = {
+            [ 0] = "Companions",
+        },
+    }
 }

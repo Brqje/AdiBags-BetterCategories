@@ -1,0 +1,13 @@
+## Interface: 30400
+## Title: AdiBags - BetterCategories [WotLK]
+## Notes: Improves the automatic item categories in AdiBags.
+## Author: stephenswat (Baroque edit)
+## Version: 0.3.1-Brq-2022-09-30
+## Dependencies: AdiBags
+
+src/filters/Core_Wrath.lua
+src/data/Classes.lua
+src/data/Items.lua
+src/data/Overrides_Vanilla.lua
+src/data/Overrides_TBC.lua
+src/data/Overrides_Wrath.lua
