@@ -13,7 +13,7 @@ data.classes = {
             [ 3] = "Flasks", -- stephenswat
             [ 4] = "Scrolls", -- stephenswat
             [ 5] = "Food & Drinks", -- stephenswat
-            [ 6] = "Permanent Enchantments", -- stephenswat
+            [ 6] = "Permanent Enhancements", -- stephenswat
             [ 7] = "Bandages", -- stephenswat
 			--
 			-- Non-Wowhead subclass categories
