@@ -16,6 +16,9 @@ data.overrides_wrath = {
 	[ 8007] = {class =   0, subclass =  96}, -- Mage: Mana Citrine
 	[ 8008] = {class =   0, subclass =  96}, -- Mage: Mana Ruby
 	[22044] = {class =   0, subclass =  96}, -- Mage: Mana Emerald
+	
+-- Trade Goods: Inscription (item reused for Inscription)
+	[10648] = {class =   7, subclass =  95}, -- Common Parchment
 
 
 ----------------------------------------------------------------------------------------
@@ -1306,6 +1309,7 @@ data.overrides_wrath = {
 	[41266] = {class =   7, subclass =  94}, -- Skyflare Diamond
 	[36920] = {class =   7, subclass =  94}, -- Sun Crystal
 	[36927] = {class =   7, subclass =  94}, -- Twilight Opal
+	
 
 -- Trade Goods: Inscription
 	[39151] = {class =   7, subclass =  95}, -- Alabaster Pigment
@@ -1340,6 +1344,10 @@ data.overrides_wrath = {
 	[43122] = {class =   7, subclass =  95}, -- Shimmering Ink
 	[37100] = {class =   7, subclass =  95}, -- Silver Ink		(?)
 	[43127] = {class =   7, subclass =  95}, -- Snowfall Ink
+	[39501] = {class =   7, subclass =  95}, -- Heavy Parchment
+	[39354] = {class =   7, subclass =  95}, -- Light Parchment
+	[39502] = {class =   7, subclass =  95}, -- Resilient Parchment
+	[34647] = {class =   7, subclass =  95}, -- Rough Parchment
 
 -- Recipees
 	[39152] = {class =   9, subclass =   4}, -- Manual: Heavy Frostweave Bandage
@@ -1777,230 +1785,230 @@ data.overrides_wrath = {
 
 
 -- Mounts
-	[47179] = {class =  19, subclass =   0}, -- Argent Charger
-	[45725] = {class =  19, subclass =   0}, -- Argent Hippogryph
-	[47180] = {class =  19, subclass =   0}, -- Argent Warhorse
-	[44690] = {class =  19, subclass =   0}, -- Armored Blue Wind Rider
-	[44689] = {class =  19, subclass =   0}, -- Armored Snowy Gryphon
-	[49282] = {class =  19, subclass =   0}, -- Big Battle Bear
-	[198632] = {class =  19, subclass =   0}, -- Big Battle Bear
-	[43599] = {class =  19, subclass =   0}, -- Big Blizzard Bear
-	[44857] = {class =  19, subclass =   0}, -- Black Dragonhawk Mount
-	[46308] = {class =  19, subclass =   0}, -- Black Skeletal Horse
-	[54069] = {class =  19, subclass =   0}, -- Blazing Hippogryph
-	[198630] = {class =  19, subclass =   0}, -- Blazing Hippogryph
-	[44843] = {class =  19, subclass =   0}, -- Blue Dragonhawk Mount
-	[46101] = {class =  19, subclass =   0}, -- Blue Skeletal Warhorse
-	[44604] = {class =  19, subclass =   0}, -- Borrowed Broom
-	[54811] = {class =  19, subclass =   0}, -- Celestial Steed
-	[49098] = {class =  19, subclass =   0}, -- Crusader's Black Warhorse
-	[49096] = {class =  19, subclass =   0}, -- Crusader's White Warhorse
-	[45593] = {class =  19, subclass =   0}, -- Darkspear Raptor
-	[45591] = {class =  19, subclass =   0}, -- Darnassian Nightsaber
-	[46708] = {class =  19, subclass =   0}, -- Deadly Gladiator's Frost Wyrm
-	[45590] = {class =  19, subclass =   0}, -- Exodar Elekk
-	[44554] = {class =  19, subclass =   0}, -- Flying Carpet
-	[45597] = {class =  19, subclass =   0}, -- Forsaken Warhorse
-	[54797] = {class =  19, subclass =   0}, -- Frosty Flying Carpet
 	[38690] = {class =  19, subclass =   0}, -- Frozen Frost Wyrm Heart
-	[46171] = {class =  19, subclass =   0}, -- Furious Gladiator's Frost Wyrm
-	[45589] = {class =  19, subclass =   0}, -- Gnomeregan Mechanostrider
-	[46750] = {class =  19, subclass =   0}, -- Great Golden Kodo
-	[46755] = {class =  19, subclass =   0}, -- Great Golden Kodo
-	[46745] = {class =  19, subclass =   0}, -- Great Red Elekk
-	[46756] = {class =  19, subclass =   0}, -- Great Red Elekk
-	[46099] = {class =  19, subclass =   0}, -- Horn of the Black Wolf
-	[50818] = {class =  19, subclass =   0}, -- Invincible's Reins
-	[45586] = {class =  19, subclass =   0}, -- Ironforge Ram
-	[192455] = {class =  19, subclass =   0}, -- Kalu'ak Whalebone Glider
-	[49288] = {class =  19, subclass =   0}, -- Little Ivory Raptor Whistle
-	[49289] = {class =  19, subclass =   0}, -- Little White Stallion Bridle
-	[44221] = {class =  19, subclass =   0}, -- Loaned Gryphon Reins
-	[44229] = {class =  19, subclass =   0}, -- Loaned Wind Rider Reins
-	[49290] = {class =  19, subclass =   0}, -- Magic Rooster Egg
-	[46778] = {class =  19, subclass =   0}, -- Magic Rooster Egg
-	[198631] = {class =  19, subclass =   0}, -- Magic Rooster Egg
-	[44558] = {class =  19, subclass =   0}, -- Magnificent Flying Carpet
-	[41508] = {class =  19, subclass =   0}, -- Mechano-hog
-	[44413] = {class =  19, subclass =   0}, -- Mekgineer's Chopper
-	[45693] = {class =  19, subclass =   0}, -- Mimiron's Head
-	[47101] = {class =  19, subclass =   0}, -- Ochre Skeletal Warhorse
-	[45595] = {class =  19, subclass =   0}, -- Orgrimmar Wolf
+	[40775] = {class =  19, subclass =   0}, -- Winged Steed of the Ebon Blade
 	[40777] = {class =  19, subclass =   0}, -- Polar Bear Harness
-	[46815] = {class =  19, subclass =   0}, -- Quel'dorei Steed
-	[44842] = {class =  19, subclass =   0}, -- Red Dragonhawk Mount
-	[44178] = {class =  19, subclass =   0}, -- Reins of the Albino Drake
-	[44225] = {class =  19, subclass =   0}, -- Reins of the Armored Brown Bear
-	[44226] = {class =  19, subclass =   0}, -- Reins of the Armored Brown Bear
-	[43952] = {class =  19, subclass =   0}, -- Reins of the Azure Drake
-	[43986] = {class =  19, subclass =   0}, -- Reins of the Black Drake
-	[43964] = {class =  19, subclass =   0}, -- Reins of the Black Polar Bear
-	[44164] = {class =  19, subclass =   0}, -- Reins of the Black Proto-Drake
-	[44224] = {class =  19, subclass =   0}, -- Reins of the Black War Bear
-	[44223] = {class =  19, subclass =   0}, -- Reins of the Black War Bear
-	[44077] = {class =  19, subclass =   0}, -- Reins of the Black War Mammoth
-	[43956] = {class =  19, subclass =   0}, -- Reins of the Black War Mammoth
-	[51954] = {class =  19, subclass =   0}, -- Reins of the Bloodbathed Frostbrood Vanquisher
-	[43953] = {class =  19, subclass =   0}, -- Reins of the Blue Drake
-	[44151] = {class =  19, subclass =   0}, -- Reins of the Blue Proto-Drake
+	[41508] = {class =  19, subclass =   0}, -- Mechano-hog
+	[43599] = {class =  19, subclass =   0}, -- Big Blizzard Bear
 	[43951] = {class =  19, subclass =   0}, -- Reins of the Bronze Drake
-	[43963] = {class =  19, subclass =   0}, -- Reins of the Brown Polar Bear
-	[52200] = {class =  19, subclass =   0}, -- Reins of the Crimson Deathcharger
+	[43952] = {class =  19, subclass =   0}, -- Reins of the Azure Drake
+	[43953] = {class =  19, subclass =   0}, -- Reins of the Blue Drake
+	[43954] = {class =  19, subclass =   0}, -- Reins of the Twilight Drake
+	[43955] = {class =  19, subclass =   0}, -- Reins of the Red Drake
+	[43956] = {class =  19, subclass =   0}, -- Reins of the Black War Mammoth
+	[43958] = {class =  19, subclass =   0}, -- Reins of the Ice Mammoth
 	[43959] = {class =  19, subclass =   0}, -- Reins of the Grand Black War Mammoth
+	[43961] = {class =  19, subclass =   0}, -- Reins of the Grand Ice Mammoth
+	[43962] = {class =  19, subclass =   0}, -- Reins of the White Polar Bear
+	[43963] = {class =  19, subclass =   0}, -- Reins of the Brown Polar Bear
+	[43964] = {class =  19, subclass =   0}, -- Reins of the Black Polar Bear
+	[43986] = {class =  19, subclass =   0}, -- Reins of the Black Drake
+	[44077] = {class =  19, subclass =   0}, -- Reins of the Black War Mammoth
+	[44080] = {class =  19, subclass =   0}, -- Reins of the Ice Mammoth
 	[44083] = {class =  19, subclass =   0}, -- Reins of the Grand Black War Mammoth
 	[44086] = {class =  19, subclass =   0}, -- Reins of the Grand Ice Mammoth
-	[43961] = {class =  19, subclass =   0}, -- Reins of the Grand Ice Mammoth
-	[44707] = {class =  19, subclass =   0}, -- Reins of the Green Proto-Drake
-	[43958] = {class =  19, subclass =   0}, -- Reins of the Ice Mammoth
-	[44080] = {class =  19, subclass =   0}, -- Reins of the Ice Mammoth
-	[51955] = {class =  19, subclass =   0}, -- Reins of the Icebound Frostbrood Vanquisher
-	[45801] = {class =  19, subclass =   0}, -- Reins of the Ironbound Proto-Drake
-	[49636] = {class =  19, subclass =   0}, -- Reins of the Onyxian Drake
-	[44175] = {class =  19, subclass =   0}, -- Reins of the Plagued Proto-Drake
-	[43955] = {class =  19, subclass =   0}, -- Reins of the Red Drake
+	[44151] = {class =  19, subclass =   0}, -- Reins of the Blue Proto-Drake
 	[44160] = {class =  19, subclass =   0}, -- Reins of the Red Proto-Drake
-	[45802] = {class =  19, subclass =   0}, -- Reins of the Rusted Proto-Drake
-	[49283] = {class =  19, subclass =   0}, -- Reins of the Spectral Tiger
-	[47100] = {class =  19, subclass =   0}, -- Reins of the Striped Dawnsaber
-	[49284] = {class =  19, subclass =   0}, -- Reins of the Swift Spectral Tiger
+	[44164] = {class =  19, subclass =   0}, -- Reins of the Black Proto-Drake
 	[44168] = {class =  19, subclass =   0}, -- Reins of the Time-Lost Proto-Drake
-	[44234] = {class =  19, subclass =   0}, -- Reins of the Traveler's Tundra Mammoth
-	[44235] = {class =  19, subclass =   0}, -- Reins of the Traveler's Tundra Mammoth
-	[43954] = {class =  19, subclass =   0}, -- Reins of the Twilight Drake
+	[44175] = {class =  19, subclass =   0}, -- Reins of the Plagued Proto-Drake
 	[44177] = {class =  19, subclass =   0}, -- Reins of the Violet Proto-Drake
-	[43962] = {class =  19, subclass =   0}, -- Reins of the White Polar Bear
+	[44178] = {class =  19, subclass =   0}, -- Reins of the Albino Drake
+	[44221] = {class =  19, subclass =   0}, -- Loaned Gryphon Reins
+	[44223] = {class =  19, subclass =   0}, -- Reins of the Black War Bear
+	[44224] = {class =  19, subclass =   0}, -- Reins of the Black War Bear
+	[44225] = {class =  19, subclass =   0}, -- Reins of the Armored Brown Bear
+	[44226] = {class =  19, subclass =   0}, -- Reins of the Armored Brown Bear
+	[44229] = {class =  19, subclass =   0}, -- Loaned Wind Rider Reins
 	[44230] = {class =  19, subclass =   0}, -- Reins of the Wooly Mammoth
 	[44231] = {class =  19, subclass =   0}, -- Reins of the Wooly Mammoth
-	[47840] = {class =  19, subclass =   0}, -- Relentless Gladiator's Frost Wyrm
-	[46109] = {class =  19, subclass =   0}, -- Sea Turtle
-	[46813] = {class =  19, subclass =   0}, -- Silver Covenant Hippogryph
-	[45596] = {class =  19, subclass =   0}, -- Silvermoon Hawkstrider
-	[45125] = {class =  19, subclass =   0}, -- Stormwind Steed
-	[46814] = {class =  19, subclass =   0}, -- Sunreaver Dragonhawk
-	[46816] = {class =  19, subclass =   0}, -- Sunreaver Hawkstrider
-	[49044] = {class =  19, subclass =   0}, -- Swift Alliance Steed
-	[46749] = {class =  19, subclass =   0}, -- Swift Burgundy Wolf
-	[46757] = {class =  19, subclass =   0}, -- Swift Burgundy Wolf
-	[44557] = {class =  19, subclass =   0}, -- Swift Ebonweave Carpet
-	[46752] = {class =  19, subclass =   0}, -- Swift Gray Steed
-	[46758] = {class =  19, subclass =   0}, -- Swift Gray Steed
-	[49046] = {class =  19, subclass =   0}, -- Swift Horde Wolf
+	[44234] = {class =  19, subclass =   0}, -- Reins of the Traveler's Tundra Mammoth
+	[44235] = {class =  19, subclass =   0}, -- Reins of the Traveler's Tundra Mammoth
+	[44413] = {class =  19, subclass =   0}, -- Mekgineer's Chopper
+	[44554] = {class =  19, subclass =   0}, -- Flying Carpet
 	[44555] = {class =  19, subclass =   0}, -- Swift Mooncloth Carpet
-	[46744] = {class =  19, subclass =   0}, -- Swift Moonsaber
-	[46759] = {class =  19, subclass =   0}, -- Swift Moonsaber
-	[46743] = {class =  19, subclass =   0}, -- Swift Purple Raptor
-	[46760] = {class =  19, subclass =   0}, -- Swift Purple Raptor
-	[46751] = {class =  19, subclass =   0}, -- Swift Red Hawkstrider
-	[46761] = {class =  19, subclass =   0}, -- Swift Red Hawkstrider
 	[44556] = {class =  19, subclass =   0}, -- Swift Spellfire Carpet
-	[46748] = {class =  19, subclass =   0}, -- Swift Violet Ram
-	[46762] = {class =  19, subclass =   0}, -- Swift Violet Ram
+	[44557] = {class =  19, subclass =   0}, -- Swift Ebonweave Carpet
+	[44558] = {class =  19, subclass =   0}, -- Magnificent Flying Carpet
+	[44604] = {class =  19, subclass =   0}, -- Borrowed Broom
+	[44689] = {class =  19, subclass =   0}, -- Armored Snowy Gryphon
+	[44690] = {class =  19, subclass =   0}, -- Armored Blue Wind Rider
+	[44707] = {class =  19, subclass =   0}, -- Reins of the Green Proto-Drake
+	[44842] = {class =  19, subclass =   0}, -- Red Dragonhawk Mount
+	[44843] = {class =  19, subclass =   0}, -- Blue Dragonhawk Mount
+	[44857] = {class =  19, subclass =   0}, -- Black Dragonhawk Mount
+	[45125] = {class =  19, subclass =   0}, -- Stormwind Steed
+	[45586] = {class =  19, subclass =   0}, -- Ironforge Ram
+	[45589] = {class =  19, subclass =   0}, -- Gnomeregan Mechanostrider
+	[45590] = {class =  19, subclass =   0}, -- Exodar Elekk
+	[45591] = {class =  19, subclass =   0}, -- Darnassian Nightsaber
 	[45592] = {class =  19, subclass =   0}, -- Thunder Bluff Kodo
-	[49177] = {class =  19, subclass =   0}, -- Tome of Cold Weather Flight
-	[46747] = {class =  19, subclass =   0}, -- Turbostrider
-	[46763] = {class =  19, subclass =   0}, -- Turbostrider
-	[46102] = {class =  19, subclass =   0}, -- Whistle of the Venomhide Ravasaur
+	[45593] = {class =  19, subclass =   0}, -- Darkspear Raptor
+	[45595] = {class =  19, subclass =   0}, -- Orgrimmar Wolf
+	[45596] = {class =  19, subclass =   0}, -- Silvermoon Hawkstrider
+	[45597] = {class =  19, subclass =   0}, -- Forsaken Warhorse
+	[45693] = {class =  19, subclass =   0}, -- Mimiron's Head
+	[45725] = {class =  19, subclass =   0}, -- Argent Hippogryph
+	[45801] = {class =  19, subclass =   0}, -- Reins of the Ironbound Proto-Drake
+	[45802] = {class =  19, subclass =   0}, -- Reins of the Rusted Proto-Drake
+	[46099] = {class =  19, subclass =   0}, -- Horn of the Black Wolf
 	[46100] = {class =  19, subclass =   0}, -- White Kodo
+	[46101] = {class =  19, subclass =   0}, -- Blue Skeletal Warhorse
+	[46102] = {class =  19, subclass =   0}, -- Whistle of the Venomhide Ravasaur
+	[46109] = {class =  19, subclass =   0}, -- Sea Turtle
+	[46171] = {class =  19, subclass =   0}, -- Furious Gladiator's Frost Wyrm
+	[46308] = {class =  19, subclass =   0}, -- Black Skeletal Horse
+	[46708] = {class =  19, subclass =   0}, -- Deadly Gladiator's Frost Wyrm
+	[46743] = {class =  19, subclass =   0}, -- Swift Purple Raptor
+	[46744] = {class =  19, subclass =   0}, -- Swift Moonsaber
+	[46745] = {class =  19, subclass =   0}, -- Great Red Elekk
 	[46746] = {class =  19, subclass =   0}, -- White Skeletal Warhorse
+	[46747] = {class =  19, subclass =   0}, -- Turbostrider
+	[46748] = {class =  19, subclass =   0}, -- Swift Violet Ram
+	[46749] = {class =  19, subclass =   0}, -- Swift Burgundy Wolf
+	[46750] = {class =  19, subclass =   0}, -- Great Golden Kodo
+	[46751] = {class =  19, subclass =   0}, -- Swift Red Hawkstrider
+	[46752] = {class =  19, subclass =   0}, -- Swift Gray Steed
+	[46755] = {class =  19, subclass =   0}, -- Great Golden Kodo
+	[46756] = {class =  19, subclass =   0}, -- Great Red Elekk
+	[46757] = {class =  19, subclass =   0}, -- Swift Burgundy Wolf
+	[46758] = {class =  19, subclass =   0}, -- Swift Gray Steed
+	[46759] = {class =  19, subclass =   0}, -- Swift Moonsaber
+	[46760] = {class =  19, subclass =   0}, -- Swift Purple Raptor
+	[46761] = {class =  19, subclass =   0}, -- Swift Red Hawkstrider
+	[46762] = {class =  19, subclass =   0}, -- Swift Violet Ram
+	[46763] = {class =  19, subclass =   0}, -- Turbostrider
 	[46764] = {class =  19, subclass =   0}, -- White Skeletal Warhorse
-	[40775] = {class =  19, subclass =   0}, -- Winged Steed of the Ebon Blade
-	[54068] = {class =  19, subclass =   0}, -- Wooly White Rhino
-	[198633] = {class =  19, subclass =   0}, -- Wooly White Rhino
-	[50435] = {class =  19, subclass =   0}, -- Wrathful Gladiator's Frost Wyrm
-	[50250] = {class =  19, subclass =   0}, -- X-45 Heartbreaker
+	[46778] = {class =  19, subclass =   0}, -- Magic Rooster Egg
+	[46813] = {class =  19, subclass =   0}, -- Silver Covenant Hippogryph
+	[46814] = {class =  19, subclass =   0}, -- Sunreaver Dragonhawk
+	[46815] = {class =  19, subclass =   0}, -- Quel'dorei Steed
+	[46816] = {class =  19, subclass =   0}, -- Sunreaver Hawkstrider
+	[47100] = {class =  19, subclass =   0}, -- Reins of the Striped Dawnsaber
+	[47101] = {class =  19, subclass =   0}, -- Ochre Skeletal Warhorse
+	[47179] = {class =  19, subclass =   0}, -- Argent Charger
+	[47180] = {class =  19, subclass =   0}, -- Argent Warhorse
+	[47840] = {class =  19, subclass =   0}, -- Relentless Gladiator's Frost Wyrm
+	[49044] = {class =  19, subclass =   0}, -- Swift Alliance Steed
+	[49046] = {class =  19, subclass =   0}, -- Swift Horde Wolf
+	[49096] = {class =  19, subclass =   0}, -- Crusader's White Warhorse
+	[49098] = {class =  19, subclass =   0}, -- Crusader's Black Warhorse
+	[49177] = {class =  19, subclass =   0}, -- Tome of Cold Weather Flight
+	[49282] = {class =  19, subclass =   0}, -- Big Battle Bear
+	[49283] = {class =  19, subclass =   0}, -- Reins of the Spectral Tiger
+	[49284] = {class =  19, subclass =   0}, -- Reins of the Swift Spectral Tiger
 	[49285] = {class =  19, subclass =   0}, -- X-51 Nether-Rocket
-	[198629] = {class =  19, subclass =   0}, -- X-51 Nether-Rocket
 	[49286] = {class =  19, subclass =   0}, -- X-51 Nether-Rocket X-TREME
-	[198628] = {class =  19, subclass =   0}, -- X-51 Nether-Rocket X-TREME
+	[49288] = {class =  19, subclass =   0}, -- Little Ivory Raptor Whistle
+	[49289] = {class =  19, subclass =   0}, -- Little White Stallion Bridle
+	[49290] = {class =  19, subclass =   0}, -- Magic Rooster Egg
+	[49636] = {class =  19, subclass =   0}, -- Reins of the Onyxian Drake
+	[50250] = {class =  19, subclass =   0}, -- X-45 Heartbreaker
+	[50435] = {class =  19, subclass =   0}, -- Wrathful Gladiator's Frost Wyrm
+	[50818] = {class =  19, subclass =   0}, -- Invincible's Reins
+	[51954] = {class =  19, subclass =   0}, -- Reins of the Bloodbathed Frostbrood Vanquisher
+	[51955] = {class =  19, subclass =   0}, -- Reins of the Icebound Frostbrood Vanquisher
+	[52200] = {class =  19, subclass =   0}, -- Reins of the Crimson Deathcharger
+	[54068] = {class =  19, subclass =   0}, -- Wooly White Rhino
+	[54069] = {class =  19, subclass =   0}, -- Blazing Hippogryph
+	[54797] = {class =  19, subclass =   0}, -- Frosty Flying Carpet
+	[54811] = {class =  19, subclass =   0}, -- Celestial Steed
 	[54860] = {class =  19, subclass =   0}, -- X-53 Touring Rocket
+	[192455] = {class =  19, subclass =   0}, -- Kalu'ak Whalebone Glider
+	[198628] = {class =  19, subclass =   0}, -- X-51 Nether-Rocket X-TREME
+	[198629] = {class =  19, subclass =   0}, -- X-51 Nether-Rocket
+	[198630] = {class =  19, subclass =   0}, -- Blazing Hippogryph
+	[198631] = {class =  19, subclass =   0}, -- Magic Rooster Egg
+	[198632] = {class =  19, subclass =   0}, -- Big Battle Bear
+	[198633] = {class =  19, subclass =   0}, -- Wooly White Rhino
 	
 
 -- Companions
-	[198635] = {class =  20, subclass =   0}, -- Dragon Kite
-	[198665] = {class =  20, subclass =   0}, -- Pebble's Pebble
-	[198647] = {class =  20, subclass =   0}, -- Fishspeaker's Lucky Lure
+	[38658] = {class =  20, subclass =   0}, -- Vampiric Batling
+	[39148] = {class =  20, subclass =   0}, -- Baby Coralshell Turtle
+	[39286] = {class =  20, subclass =   0}, -- Frosty's Collar
+	[39896] = {class =  20, subclass =   0}, -- Tickbird Hatchling
+	[39898] = {class =  20, subclass =   0}, -- Cobra Hatchling
+	[39899] = {class =  20, subclass =   0}, -- White Tickbird Hatchling
+	[39973] = {class =  20, subclass =   0}, -- Ghostly Skull
+	[40355] = {class =  20, subclass =   0}, -- Azure Whelpling
+	[40653] = {class =  20, subclass =   0}, -- Reeking Pet Carrier
+	[41133] = {class =  20, subclass =   0}, -- Unhatched Mr. Chilly
 	[43698] = {class =  20, subclass =   0}, -- Giant Sewer Rat
+	[44721] = {class =  20, subclass =   0}, -- Proto-Drake Whelp
 	[44723] = {class =  20, subclass =   0}, -- Nurtured Penguin Egg
-	[48114] = {class =  20, subclass =   0}, -- Deviate Hatchling
-	[48122] = {class =  20, subclass =   0}, -- Ravasaur Hatchling
-	[48118] = {class =  20, subclass =   0}, -- Leaping Hatchling
+	[44738] = {class =  20, subclass =   0}, -- Kirin Tor Familiar
+	[44794] = {class =  20, subclass =   0}, -- Spring Rabbit's Foot
+	[44810] = {class =  20, subclass =   0}, -- Turkey Cage
+	[44819] = {class =  20, subclass =   0}, -- Baby Blizzard Bear
+	[44820] = {class =  20, subclass =   0}, -- Red Ribbon Pet Leash
+	[44822] = {class =  20, subclass =   0}, -- Albino Snake
+	[44841] = {class =  20, subclass =   0}, -- Little Fawn's Salt Lick
+	[44965] = {class =  20, subclass =   0}, -- Teldrassil Sproutling
+	[44970] = {class =  20, subclass =   0}, -- Dun Morogh Cub
+	[44971] = {class =  20, subclass =   0}, -- Tirisfal Batling
+	[44972] = {class =  20, subclass =   0}, -- Alarming Clockbot (NOT IN USE)
+	[44973] = {class =  20, subclass =   0}, -- Durotar Scorpion
+	[44974] = {class =  20, subclass =   0}, -- Elwynn Lamb
+	[44980] = {class =  20, subclass =   0}, -- Mulgore Hatchling
+	[44982] = {class =  20, subclass =   0}, -- Enchanted Broom
+	[44983] = {class =  20, subclass =   0}, -- Strand Crawler
+	[44984] = {class =  20, subclass =   0}, -- Ammen Vale Lashling
+	[44998] = {class =  20, subclass =   0}, -- Argent Squire
+	[45002] = {class =  20, subclass =   0}, -- Mechanopeep
+	[45022] = {class =  20, subclass =   0}, -- Argent Gruntling
+	[45057] = {class =  20, subclass =   0}, -- Wind-Up Train Wrecker
+	[45180] = {class =  20, subclass =   0}, -- Murkimus' Little Spear
+	[45606] = {class =  20, subclass =   0}, -- Sen'jin Fetish
+	[45942] = {class =  20, subclass =   0}, -- XS-001 Constructor Bot
+	[46396] = {class =  20, subclass =   0}, -- Wolvar Orphan Whistle
+	[46397] = {class =  20, subclass =   0}, -- Oracle Orphan Whistle
+	[46398] = {class =  20, subclass =   0}, -- Calico Cat
+	[46544] = {class =  20, subclass =   0}, -- Curious Wolvar Pup
+	[46545] = {class =  20, subclass =   0}, -- Curious Oracle Hatchling
+	[46707] = {class =  20, subclass =   0}, -- Pint-Sized Pink Pachyderm
+	[46767] = {class =  20, subclass =   0}, -- Warbot Ignition Key
+	[46802] = {class =  20, subclass =   0}, -- Heavy Murloc Egg
+	[46820] = {class =  20, subclass =   0}, -- Shimmering Wyrmling
+	[46821] = {class =  20, subclass =   0}, -- Shimmering Wyrmling
+	[46831] = {class =  20, subclass =   0}, -- Macabre Marionette
+	[46892] = {class =  20, subclass =   0}, -- Murkimus' Tiny Spear
+	[46894] = {class =  20, subclass =   0}, -- Enchanted Jade
 	[48112] = {class =  20, subclass =   0}, -- Darting Hatchling
+	[48114] = {class =  20, subclass =   0}, -- Deviate Hatchling
+	[48116] = {class =  20, subclass =   0}, -- Gundrak Hatchling
+	[48118] = {class =  20, subclass =   0}, -- Leaping Hatchling
+	[48120] = {class =  20, subclass =   0}, -- Obsidian Hatchling
+	[48122] = {class =  20, subclass =   0}, -- Ravasaur Hatchling
 	[48124] = {class =  20, subclass =   0}, -- Razormaw Hatchling
 	[48126] = {class =  20, subclass =   0}, -- Razzashi Hatchling
-	[38658] = {class =  20, subclass =   0}, -- Vampiric Batling
-	[48116] = {class =  20, subclass =   0}, -- Gundrak Hatchling
-	[39286] = {class =  20, subclass =   0}, -- Frosty's Collar
-	[46707] = {class =  20, subclass =   0}, -- Pint-Sized Pink Pachyderm
-	[39973] = {class =  20, subclass =   0}, -- Ghostly Skull
-	[44721] = {class =  20, subclass =   0}, -- Proto-Drake Whelp
-	[48120] = {class =  20, subclass =   0}, -- Obsidian Hatchling
-	[44738] = {class =  20, subclass =   0}, -- Kirin Tor Familiar
-	[49912] = {class =  20, subclass =   0}, -- Perky Pug
-	[40653] = {class =  20, subclass =   0}, -- Reeking Pet Carrier
-	[44982] = {class =  20, subclass =   0}, -- Enchanted Broom
-	[49343] = {class =  20, subclass =   0}, -- Spectral Tiger Cub
-	[44998] = {class =  20, subclass =   0}, -- Argent Squire
-	[44983] = {class =  20, subclass =   0}, -- Strand Crawler
-	[54436] = {class =  20, subclass =   0}, -- Blue Clockwork Rocket Bot
-	[46398] = {class =  20, subclass =   0}, -- Calico Cat
-	[44822] = {class =  20, subclass =   0}, -- Albino Snake
-	[45057] = {class =  20, subclass =   0}, -- Wind-Up Train Wrecker
-	[49646] = {class =  20, subclass =   0}, -- Core Hound Pup
-	[44841] = {class =  20, subclass =   0}, -- Little Fawn's Salt Lick
-	[44970] = {class =  20, subclass =   0}, -- Dun Morogh Cub
-	[39898] = {class =  20, subclass =   0}, -- Cobra Hatchling
-	[44810] = {class =  20, subclass =   0}, -- Turkey Cage
-	[39896] = {class =  20, subclass =   0}, -- Tickbird Hatchling
-	[44965] = {class =  20, subclass =   0}, -- Teldrassil Sproutling
-	[44819] = {class =  20, subclass =   0}, -- Baby Blizzard Bear
-	[45022] = {class =  20, subclass =   0}, -- Argent Gruntling
-	[45606] = {class =  20, subclass =   0}, -- Sen'jin Fetish
-	[54810] = {class =  20, subclass =   0}, -- Celestial Dragon
-	[45002] = {class =  20, subclass =   0}, -- Mechanopeep
-	[49287] = {class =  20, subclass =   0}, -- Tuskarr Kite
-	[39899] = {class =  20, subclass =   0}, -- White Tickbird Hatchling
-	[44980] = {class =  20, subclass =   0}, -- Mulgore Hatchling
-	[44971] = {class =  20, subclass =   0}, -- Tirisfal Batling
-	[46544] = {class =  20, subclass =   0}, -- Curious Wolvar Pup
-	[49362] = {class =  20, subclass =   0}, -- Onyxian Whelpling
-	[50446] = {class =  20, subclass =   0}, -- Toxic Wasteling
-	[46831] = {class =  20, subclass =   0}, -- Macabre Marionette
-	[40355] = {class =  20, subclass =   0}, -- Azure Whelpling
-	[44974] = {class =  20, subclass =   0}, -- Elwynn Lamb
-	[53641] = {class =  20, subclass =   0}, -- Ice Chip
-	[44820] = {class =  20, subclass =   0}, -- Red Ribbon Pet Leash
-	[44984] = {class =  20, subclass =   0}, -- Ammen Vale Lashling
-	[46820] = {class =  20, subclass =   0}, -- Shimmering Wyrmling
-	[41133] = {class =  20, subclass =   0}, -- Unhatched Mr. Chilly
-	[54847] = {class =  20, subclass =   0}, -- Lil' XT
-	[56806] = {class =  20, subclass =   0}, -- Mini Thor
-	[44973] = {class =  20, subclass =   0}, -- Durotar Scorpion
-	[45942] = {class =  20, subclass =   0}, -- XS-001 Constructor Bot
-	[46545] = {class =  20, subclass =   0}, -- Curious Oracle Hatchling
-	[49665] = {class =  20, subclass =   0}, -- Pandaren Monk
-	[46802] = {class =  20, subclass =   0}, -- Heavy Murloc Egg
-	[39148] = {class =  20, subclass =   0}, -- Baby Coralshell Turtle
-	[44794] = {class =  20, subclass =   0}, -- Spring Rabbit's Foot
-	[49662] = {class =  20, subclass =   0}, -- Gryphon Hatchling
-	[46767] = {class =  20, subclass =   0}, -- Warbot Ignition Key
-	[46821] = {class =  20, subclass =   0}, -- Shimmering Wyrmling
-	[49664] = {class =  20, subclass =   0}, -- Enchanted Purple Jade
-	[49693] = {class =  20, subclass =   0}, -- Lil' Phylactery
-	[45180] = {class =  20, subclass =   0}, -- Murkimus' Little Spear
-	[46396] = {class =  20, subclass =   0}, -- Wolvar Orphan Whistle
-	[49663] = {class =  20, subclass =   0}, -- Wind Rider Cub
-	[198634] = {class =  20, subclass =   0}, -- Banana Charm
-	[44972] = {class =  20, subclass =   0}, -- Alarming Clockbot (NOT IN USE)
 	[48527] = {class =  20, subclass =   0}, -- Enchanted Onyx
-	[198636] = {class =  20, subclass =   0}, -- Hippogryph Hatchling
-	[46894] = {class =  20, subclass =   0}, -- Enchanted Jade
-	[198639] = {class =  20, subclass =   0}, -- Spectral Tiger Cub
-	[46892] = {class =  20, subclass =   0}, -- Murkimus' Tiny Spear
-	[194101] = {class =  20, subclass =   0}, -- Netherwhelp's Collar
-	[46397] = {class =  20, subclass =   0}, -- Oracle Orphan Whistle
+	[49287] = {class =  20, subclass =   0}, -- Tuskarr Kite
+	[49343] = {class =  20, subclass =   0}, -- Spectral Tiger Cub
+	[49362] = {class =  20, subclass =   0}, -- Onyxian Whelpling
+	[49646] = {class =  20, subclass =   0}, -- Core Hound Pup
+	[49662] = {class =  20, subclass =   0}, -- Gryphon Hatchling
+	[49663] = {class =  20, subclass =   0}, -- Wind Rider Cub
+	[49664] = {class =  20, subclass =   0}, -- Enchanted Purple Jade
+	[49665] = {class =  20, subclass =   0}, -- Pandaren Monk
+	[49693] = {class =  20, subclass =   0}, -- Lil' Phylactery
+	[49912] = {class =  20, subclass =   0}, -- Perky Pug
+	[50446] = {class =  20, subclass =   0}, -- Toxic Wasteling
+	[53641] = {class =  20, subclass =   0}, -- Ice Chip
+	[54436] = {class =  20, subclass =   0}, -- Blue Clockwork Rocket Bot
+	[54810] = {class =  20, subclass =   0}, -- Celestial Dragon
+	[54847] = {class =  20, subclass =   0}, -- Lil' XT
 	[54857] = {class =  20, subclass =   0}, -- Murkimus' Little Spear
+	[56806] = {class =  20, subclass =   0}, -- Mini Thor
+	[194101] = {class =  20, subclass =   0}, -- Netherwhelp's Collar
+	[198634] = {class =  20, subclass =   0}, -- Banana Charm
+	[198635] = {class =  20, subclass =   0}, -- Dragon Kite
+	[198636] = {class =  20, subclass =   0}, -- Hippogryph Hatchling
 	[198637] = {class =  20, subclass =   0}, -- Rocket Chicken
 	[198638] = {class =  20, subclass =   0}, -- Soul-Trader Beacon
+	[198639] = {class =  20, subclass =   0}, -- Spectral Tiger Cub
 	[198640] = {class =  20, subclass =   0}, -- Tuskarr Kite
+	[198647] = {class =  20, subclass =   0}, -- Fishspeaker's Lucky Lure
+	[198665] = {class =  20, subclass =   0}, -- Pebble's Pebble
 
 }
