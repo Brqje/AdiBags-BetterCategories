@@ -2,7 +2,7 @@
 ## Title: AdiBags - BetterCategories [TBC]
 ## Notes: Improves the automatic item categories in AdiBags.
 ## Author: stephenswat (Baroque edit)
-## Version: 0.3.1-Brq-2022-10-04
+## Version: 0.3.1-Brq-2022-10-05
 ## Dependencies: AdiBags
 
 src/filters/Core_TBC.lua
