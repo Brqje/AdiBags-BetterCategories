@@ -1085,28 +1085,11 @@ data.overrides_wrath = {
 	[39685] = {class =   7, subclass =   1}, -- Indestructible Frame
 	[39686] = {class =   7, subclass =   1}, -- Neo-Dynamic Gear Assembly
 	[44499] = {class =   7, subclass =   1}, -- Salvaged Iron Golem Parts
-	[37100] = {class =   7, subclass =   1}, -- Silver Ink
 	[41125] = {class =   7, subclass =   1}, -- zzOLD
-	[43125] = {class =   7, subclass =   1}, -- Darkflame Ink
-	[43117] = {class =   7, subclass =   1}, -- Dawnstar Ink
-	[43121] = {class =   7, subclass =   1}, -- Fiery Ink
-	[43115] = {class =   7, subclass =   1}, -- Hunter's Ink
-	[43126] = {class =   7, subclass =   1}, -- Ink of the Sea
-	[43123] = {class =   7, subclass =   1}, -- Ink of the Sky
-	[43119] = {class =   7, subclass =   1}, -- Royal Ink
 	[39683] = {class =   7, subclass =   1}, -- Froststeel Tube
 	[39681] = {class =   7, subclass =   1}, -- Handful of Cobalt Bolts
 	[39682] = {class =   7, subclass =   1}, -- Overcharged Capacitor
 	[39690] = {class =   7, subclass =   1}, -- Volatile Blasting Trigger
-	[43120] = {class =   7, subclass =   1}, -- Celestial Ink
-	[43124] = {class =   7, subclass =   1}, -- Ethereal Ink
-	[37101] = {class =   7, subclass =   1}, -- Ivory Ink
-	[43118] = {class =   7, subclass =   1}, -- Jadefire Ink
-	[43116] = {class =   7, subclass =   1}, -- Lion's Ink
-	[39774] = {class =   7, subclass =   1}, -- Midnight Ink
-	[39469] = {class =   7, subclass =   1}, -- Moonglow Ink
-	[43122] = {class =   7, subclass =   1}, -- Shimmering Ink
-	[43127] = {class =   7, subclass =   1}, -- Snowfall Ink
 	[39684] = {class =   7, subclass =   1}, -- Hair Trigger
 	[40533] = {class =   7, subclass =   1}, -- Walnut Stock
 
