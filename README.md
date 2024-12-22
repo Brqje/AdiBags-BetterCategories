@@ -66,11 +66,6 @@ also grouped into sub-categories, TBC examples:
 
 ### Screenshot Examples
 
-**Rogue at level 70:**
-
-![img](https://i.imgur.com/7lxKnqs.jpg)
-
-
 **Shaman at level 60, bank also shown:**
 
 ![img](https://i.imgur.com/x0eYZ0C.jpg)
@@ -79,3 +74,8 @@ also grouped into sub-categories, TBC examples:
 **Shaman at level 63:**
 
 ![img](https://i.imgur.com/MO7yvh5.jpg)
+
+
+**Rogue at level 70:**
+
+![img](https://i.imgur.com/7lxKnqs.jpg)
