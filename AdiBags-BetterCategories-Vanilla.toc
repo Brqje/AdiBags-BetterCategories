@@ -1,8 +1,8 @@
-## Interface: 11403
+## Interface: 11505
 ## Title: AdiBags - BetterCategories [Vanilla]
 ## Notes: Improves the automatic item categories in AdiBags.
 ## Author: stephenswat (Baroque edit)
-## Version: 0.3.1-Brq-2022-10-15
+## Version: 0.3.2-Brq-2024-12-22
 ## Dependencies: AdiBags
 
 src/filters/Core_Vanilla.lua
