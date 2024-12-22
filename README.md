@@ -17,7 +17,7 @@ content. It's modified for all the requirements of both leveling and raiding, pr
 inventory contents in a streamlined way.
 
 This release of AdiBags-BetterCategories requires a base install of AdiBags,
-be it on Classic WotLK 3.4.x, Burning Crusade 2.5.x or Vanilla 1.14.x. It works on all these
+be it on Classic WotLK 3.4.x, Burning Crusade 2.5.x or Vanilla 1.15.x. It works on all these
 versions, adapting categories and sub-classifications to the content. It fits seamlessly
 into the existing AdiBags framework, as it can be configured, re-ordered, and disabled
 like any other AdiBags filter.
