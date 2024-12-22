@@ -1,5 +1,5 @@
 # AdiBags-BetterCategories
-# Baroque edit for Classic: WotLK 3.4, TBC 2.5 and Vanilla 1.14
+# Baroque edit for Classic: WotLK 3.4, TBC 2.5 and Vanilla 1.15
 
 The wonderful AdiBags addon contains a filter for automatically classifying
 items by the categories and subcategories given by the game itself.
