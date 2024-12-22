@@ -1,5 +1,5 @@
 # AdiBags-BetterCategories
-# Baroque edit for Classic: WotLK 3.4, TBC 2.5 and Vanilla 1.15
+# Baroque edit for Classic: Vanilla 1.15, TBC 2.5 and WotLK 3.4
 
 The wonderful AdiBags addon contains a filter for automatically classifying
 items by the categories and subcategories given by the game itself.
@@ -11,13 +11,13 @@ as well as some further manual classifications, to make your inventory managemen
 easier.
 
 I (Baroque) have modified the excellent AdiBags-BetterCategories addon (original by
-stephenswat) to feature WotLK and TBC items as well, to be used for Classic WotLK and TBC.
-It uses even more fine-tuned categorization/auto sorting for Classic WotLK, TBC and Vanilla
+stephenswat) to feature TBC and WotLK items as well, to be used for Classic TBC and WotLK.
+It uses even more fine-tuned categorization/auto sorting for Classic Vanilla, TBC and WotLK
 content. It's modified for all the requirements of both leveling and raiding, presenting
 inventory contents in a streamlined way.
 
 This release of AdiBags-BetterCategories requires a base install of AdiBags,
-be it on Classic WotLK 3.4.x, Burning Crusade 2.5.x or Vanilla 1.15.x. It works on all these
+be it on Classic Vanilla 1.15.x, Burning Crusade 2.5.x or WotLK 3.4.x. It works on all these
 versions, adapting categories and sub-classifications to the content. It fits seamlessly
 into the existing AdiBags framework, as it can be configured, re-ordered, and disabled
 like any other AdiBags filter.
@@ -66,16 +66,16 @@ also grouped into sub-categories, TBC examples:
 
 ### Screenshot Examples
 
-**Shaman at level 60, bank also shown:**
+**Classic Shaman at level 60, bank also shown:**
 
 ![img](https://i.imgur.com/x0eYZ0C.jpg)
 
 
-**Shaman at level 63:**
+**TBC Shaman at level 63:**
 
 ![img](https://i.imgur.com/MO7yvh5.jpg)
 
 
-**Rogue at level 70:**
+**TBC Rogue at level 70:**
 
 ![img](https://i.imgur.com/7lxKnqs.jpg)
